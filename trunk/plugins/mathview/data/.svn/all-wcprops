@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/22930/abiword/trunk/plugins/mathview/data
+END
+dictionary.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22481/abiword/trunk/plugins/mathview/data/dictionary.dtd
+END
+entities-table.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22481/abiword/trunk/plugins/mathview/data/entities-table.dtd
+END
+dictionary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22481/abiword/trunk/plugins/mathview/data/dictionary.xml
+END
+dictionary-combining.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/22481/abiword/trunk/plugins/mathview/data/dictionary-combining.xml
+END
+entities-table.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22481/abiword/trunk/plugins/mathview/data/entities-table.xml
+END
+gtkmathview.conf.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/22481/abiword/trunk/plugins/mathview/data/gtkmathview.conf.dtd
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22481/abiword/trunk/plugins/mathview/data/Makefile.am
+END
+dictionary-local.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/22481/abiword/trunk/plugins/mathview/data/dictionary-local.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22481/abiword/trunk/plugins/mathview/data/README
+END
+gtkmathview.conf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/22481/abiword/trunk/plugins/mathview/data/gtkmathview.conf.xml
+END
+mathml-entities.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22481/abiword/trunk/plugins/mathview/data/mathml-entities.dtd
+END

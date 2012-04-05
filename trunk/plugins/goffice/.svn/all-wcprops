@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/30487/abiword/trunk/plugins/goffice
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30459/abiword/trunk/plugins/goffice/Makefile.am
+END
+plugin.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/30386/abiword/trunk/plugins/goffice/plugin.m4
+END

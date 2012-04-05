@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/23427/abiword/trunk/src/wp/main/gtk
+END
+libabiword.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22611/abiword/trunk/src/wp/main/gtk/libabiword.cpp
+END
+libabiword.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22611/abiword/trunk/src/wp/main/gtk/libabiword.h
+END
+UnixMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/23427/abiword/trunk/src/wp/main/gtk/UnixMain.cpp
+END

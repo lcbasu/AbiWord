@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/30515/abiword/trunk/src/text/fmt/xp/t
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30515/abiword/trunk/src/text/fmt/xp/t/Makefile.am
+END
+fl_BlockLayout.t.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/19756/abiword/trunk/src/text/fmt/xp/t/fl_BlockLayout.t.cpp
+END

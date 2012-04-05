@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30048/abiword/trunk/plugins/collab/core/plugin/xp
+END
+AbiCollab_Command.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/27553/abiword/trunk/plugins/collab/core/plugin/xp/AbiCollab_Command.cpp
+END
+AbiCollab_Plugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/30048/abiword/trunk/plugins/collab/core/plugin/xp/AbiCollab_Plugin.cpp
+END
+AbiCollab_Interface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/26158/abiword/trunk/plugins/collab/core/plugin/xp/AbiCollab_Interface.cpp
+END
+AbiCollab_Regression.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/26158/abiword/trunk/plugins/collab/core/plugin/xp/AbiCollab_Regression.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/26158/abiword/trunk/plugins/collab/core/plugin/xp/Makefile.am
+END
+AbiCollab_Command.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/26158/abiword/trunk/plugins/collab/core/plugin/xp/AbiCollab_Command.h
+END
+AbiCollab_Plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/27888/abiword/trunk/plugins/collab/core/plugin/xp/AbiCollab_Plugin.h
+END
+AbiCollab_Interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/26158/abiword/trunk/plugins/collab/core/plugin/xp/AbiCollab_Interface.h
+END
+AbiCollab_Regression.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/26158/abiword/trunk/plugins/collab/core/plugin/xp/AbiCollab_Regression.h
+END

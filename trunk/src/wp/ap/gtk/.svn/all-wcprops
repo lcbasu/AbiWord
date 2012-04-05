@@ -1,0 +1,1193 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/30776/abiword/trunk/src/wp/ap/gtk
+END
+ap_UnixPreview_Annotation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30385/abiword/trunk/src/wp/ap/gtk/ap_UnixPreview_Annotation.cpp
+END
+ap_UnixTopRuler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30504/abiword/trunk/src/wp/ap/gtk/ap_UnixTopRuler.cpp
+END
+ap_UnixDialog_New.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_New.h
+END
+ap_UnixDialog_Lists.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30715/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Lists.cpp
+END
+ap_UnixDialog_FormatFootnotes.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/30693/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_FormatFootnotes.h
+END
+ap_UnixDialog_InsertHyperlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/30563/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_InsertHyperlink.h
+END
+abiwidget-gtk2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30582/abiword/trunk/src/wp/ap/gtk/abiwidget-gtk2.cpp
+END
+ap_UnixDialog_PageNumbers.ui
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_PageNumbers.ui
+END
+ap_UnixDialog_FormatFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30717/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_FormatFrame.cpp
+END
+ap_UnixDialog_InsertTable-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_InsertTable-2.ui
+END
+ap_UnixApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/26432/abiword/trunk/src/wp/ap/gtk/ap_UnixApp.h
+END
+ap_UnixDialogFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixDialogFactory.cpp
+END
+ap_UnixDialog_Paragraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/25693/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Paragraph.h
+END
+ap_UnixDialog_MetaData.ui
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_MetaData.ui
+END
+ap_UnixDialog_Replace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Replace.cpp
+END
+ap_DocView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/29718/abiword/trunk/src/wp/ap/gtk/ap_DocView.cpp
+END
+ap_UnixDialog_Field-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Field-2.ui
+END
+ap_UnixDialog_WordCount-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_WordCount-2.ui
+END
+ap_UnixDialog_Border_Shading.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30406/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Border_Shading.h
+END
+ap_UnixDialog_Break.ui
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Break.ui
+END
+ap_UnixDialog_Spell.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Spell.cpp
+END
+ap_UnixDialog_Stylist.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Stylist.h
+END
+ap_UnixAppImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixAppImpl.cpp
+END
+ap_UnixDialog_MergeCells.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_MergeCells.h
+END
+ap_UnixToolbar_FontCombo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30714/abiword/trunk/src/wp/ap/gtk/ap_UnixToolbar_FontCombo.cpp
+END
+ap_UnixDialog_FormatTable-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30718/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_FormatTable-2.ui
+END
+ap_UnixLeftRuler.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30385/abiword/trunk/src/wp/ap/gtk/ap_UnixLeftRuler.h
+END
+ap_UnixDialog_PageSetup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_PageSetup.cpp
+END
+ap_UnixDialog_MailMerge.ui
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_MailMerge.ui
+END
+ap_UnixDialog_MarkRevisions.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30356/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_MarkRevisions.h
+END
+ap_UnixDialog_MailMerge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30637/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_MailMerge.cpp
+END
+ap_UnixToolbar_SizeCombo.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixToolbar_SizeCombo.h
+END
+ap_UnixDialog_FormatTOC.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/25704/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_FormatTOC.h
+END
+ap_UnixDialog_FormatTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/27415/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_FormatTable.h
+END
+ap_UnixDialog_Stylist-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Stylist-2.ui
+END
+ap_UnixPrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/25446/abiword/trunk/src/wp/ap/gtk/ap_UnixPrefs.h
+END
+ap_RDFSemanticItemGTKInjected.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/30714/abiword/trunk/src/wp/ap/gtk/ap_RDFSemanticItemGTKInjected.cpp
+END
+ap_UnixDialog_FormatFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/25508/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_FormatFrame.h
+END
+ap_UnixDialog_Tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/24702/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Tab.h
+END
+ap_UnixDialog_ToggleCase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30385/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_ToggleCase.cpp
+END
+ap_UnixDialog_SplitCells.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30503/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_SplitCells.cpp
+END
+ap_UnixDialog_Replace.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/23748/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Replace.h
+END
+ap_UnixToolbar_Control_All.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixToolbar_Control_All.h
+END
+ap_UnixDialog_HdrFtr-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_HdrFtr-2.ui
+END
+ap_UnixDialog_Spell.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Spell.h
+END
+ap_RDFLocationGTK.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30640/abiword/trunk/src/wp/ap/gtk/ap_RDFLocationGTK.cpp
+END
+ap_UnixAppImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixAppImpl.h
+END
+ap_UnixDialog_HdrFtr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30637/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_HdrFtr.cpp
+END
+ap_RDFSemanticItemFactoryGTK.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/30640/abiword/trunk/src/wp/ap/gtk/ap_RDFSemanticItemFactoryGTK.cpp
+END
+ap_UnixDialog_Break.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Break.h
+END
+ap_UnixDialog_FormatTOC.ui
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30712/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_FormatTOC.ui
+END
+ap_UnixDialog_RDFQuery-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_RDFQuery-2.ui
+END
+ap_UnixDialog_MarkRevisions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/30503/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_MarkRevisions.cpp
+END
+ap_UnixDialog_MailMerge-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_MailMerge-2.ui
+END
+ap_UnixDialog_FormatFrame-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30717/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_FormatFrame-2.ui
+END
+ap_UnixFrameImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30503/abiword/trunk/src/wp/ap/gtk/ap_UnixFrameImpl.cpp
+END
+ap_UnixStatusBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/29705/abiword/trunk/src/wp/ap/gtk/ap_UnixStatusBar.h
+END
+ap_UnixDialog_InsertBookmark.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/25675/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_InsertBookmark.h
+END
+ap_UnixDialog_FormatTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30718/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_FormatTable.cpp
+END
+ap_UnixPrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/29641/abiword/trunk/src/wp/ap/gtk/ap_UnixPrefs.cpp
+END
+abiwidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/25678/abiword/trunk/src/wp/ap/gtk/abiwidget.h
+END
+ap_UnixDialog_RDFQuery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30776/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_RDFQuery.cpp
+END
+ap_UnixDialog_Tab.ui
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Tab.ui
+END
+ap_UnixDialog_Goto-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30770/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Goto-2.ui
+END
+ap_RDFEventGTK.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30640/abiword/trunk/src/wp/ap/gtk/ap_RDFEventGTK.h
+END
+ap_UnixDialog_Replace-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Replace-2.ui
+END
+ap_UnixViewListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixViewListener.h
+END
+ap_UnixDialog_Latex-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Latex-2.ui
+END
+ap_UnixDialog_InsertXMLID.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30264/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_InsertXMLID.h
+END
+ap_UnixDialog_Insert_DateTime-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Insert_DateTime-2.ui
+END
+ap_RDFSemanticItemGTKInjected.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/30644/abiword/trunk/src/wp/ap/gtk/ap_RDFSemanticItemGTKInjected.h
+END
+ap_UnixDialog_Goto.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30776/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Goto.h
+END
+ap_UnixDialog_All.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30264/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_All.h
+END
+ap_RDFContactGTK.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30640/abiword/trunk/src/wp/ap/gtk/ap_RDFContactGTK.h
+END
+ap_UnixDialog_ListRevisions.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30356/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_ListRevisions.h
+END
+ap_UnixDialog_New-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_New-2.ui
+END
+ap_UnixDialog_FormatFootnotes-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/30693/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_FormatFootnotes-2.ui
+END
+ap_UnixDialog_HdrFtr.ui
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_HdrFtr.ui
+END
+ap_UnixDialog_Break.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30637/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Break.cpp
+END
+ap_UnixDialog_Insert_DateTime.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Insert_DateTime.h
+END
+ap_UnixClipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/28954/abiword/trunk/src/wp/ap/gtk/ap_UnixClipboard.h
+END
+ap_UnixDialog_Columns.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30678/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Columns.h
+END
+ap_UnixDialog_FormatTOC-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30712/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_FormatTOC-2.ui
+END
+pd_RDFEvent.ui
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30606/abiword/trunk/src/wp/ap/gtk/pd_RDFEvent.ui
+END
+ap_UnixDialog_New.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30714/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_New.cpp
+END
+ap_UnixDialog_FormatFootnotes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/30693/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_FormatFootnotes.cpp
+END
+GTKCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30640/abiword/trunk/src/wp/ap/gtk/GTKCommon.cpp
+END
+abiwidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30385/abiword/trunk/src/wp/ap/gtk/abiwidget.cpp
+END
+ap_RDFLocationGTK.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30640/abiword/trunk/src/wp/ap/gtk/ap_RDFLocationGTK.h
+END
+ap_UnixDialog_RDFQuery.ui
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_RDFQuery.ui
+END
+ap_RDFEventGTK.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30640/abiword/trunk/src/wp/ap/gtk/ap_RDFEventGTK.cpp
+END
+ap_UnixDialog_Tab-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Tab-2.ui
+END
+ap_UnixApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30606/abiword/trunk/src/wp/ap/gtk/ap_UnixApp.cpp
+END
+ap_UnixDialog_Lists.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30385/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Lists.h
+END
+ap_UnixDialog_Paragraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30714/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Paragraph.cpp
+END
+ap_UnixDialog_InsertTable.ui
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_InsertTable.ui
+END
+ap_UnixDialog_Latex.ui
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Latex.ui
+END
+ap_UnixDialog_Goto.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30776/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Goto.cpp
+END
+ap_UnixDialog_Spell.ui
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Spell.ui
+END
+ap_UnixDialog_RDFEditor.ui
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_RDFEditor.ui
+END
+ap_UnixDialog_Styles.ui
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Styles.ui
+END
+ap_UnixDialog_WordCount.ui
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_WordCount.ui
+END
+ap_UnixDialog_Insert_DateTime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/30637/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Insert_DateTime.cpp
+END
+ap_UnixClipboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/28954/abiword/trunk/src/wp/ap/gtk/ap_UnixClipboard.cpp
+END
+ap_UnixDialog_Columns.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30712/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Columns.cpp
+END
+ap_UnixDialog_RDFEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30776/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_RDFEditor.cpp
+END
+ap_UnixDialog_Latex.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/26901/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Latex.h
+END
+ap_UnixDialog_Stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Stub.h
+END
+ap_UnixDialog_New.ui
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_New.ui
+END
+ap_UnixDialog_FormatFootnotes.ui
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/30693/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_FormatFootnotes.ui
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/30640/abiword/trunk/src/wp/ap/gtk/Makefile.am
+END
+ap_UnixLeftRuler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30504/abiword/trunk/src/wp/ap/gtk/ap_UnixLeftRuler.cpp
+END
+ap_UnixDialog_Options.ui
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Options.ui
+END
+ap_UnixDialog_Options_ColorSel-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Options_ColorSel-2.ui
+END
+ap_UnixDialog_FormatTable.ui
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30717/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_FormatTable.ui
+END
+ap_UnixDialog_SemanticStylesheets.ui
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/30606/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_SemanticStylesheets.ui
+END
+ap_UnixToolbar_SizeCombo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30714/abiword/trunk/src/wp/ap/gtk/ap_UnixToolbar_SizeCombo.cpp
+END
+GTKCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/30640/abiword/trunk/src/wp/ap/gtk/GTKCommon.h
+END
+ap_UnixDialog_Annotation.ui
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Annotation.ui
+END
+ap_UnixDialog_MailMerge.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30385/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_MailMerge.h
+END
+ap_UnixToolbar_ZoomCombo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30714/abiword/trunk/src/wp/ap/gtk/ap_UnixToolbar_ZoomCombo.cpp
+END
+ap_UnixDialog_Annotation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30637/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Annotation.cpp
+END
+ap_UnixFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30647/abiword/trunk/src/wp/ap/gtk/ap_UnixFrame.cpp
+END
+ap_UnixDialog_RDFEditor-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_RDFEditor-2.ui
+END
+ap_Unix_TB_CFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_Unix_TB_CFactory.cpp
+END
+ap_UnixDialog_InsertTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_InsertTable.h
+END
+ap_UnixDialog_Stylist_modal.ui
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Stylist_modal.ui
+END
+ap_UnixDialog_SplitCells.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_SplitCells.h
+END
+ap_UnixDialog_Styles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30564/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Styles.cpp
+END
+ap_UnixToolbar_StyleCombo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30714/abiword/trunk/src/wp/ap/gtk/ap_UnixToolbar_StyleCombo.cpp
+END
+ap_UnixDialog_PageSetup-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_PageSetup-2.ui
+END
+ap_UnixDialog_Options_ColorSel.ui
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Options_ColorSel.ui
+END
+ap_UnixDialog_WordCount.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30410/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_WordCount.h
+END
+ap_UnixStatusBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30747/abiword/trunk/src/wp/ap/gtk/ap_UnixStatusBar.cpp
+END
+ap_UnixDialog_InsertHyperlink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/30563/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_InsertHyperlink.cpp
+END
+ap_UnixDialog_Options.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30637/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Options.cpp
+END
+ap_UnixViewListener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixViewListener.cpp
+END
+ap_UnixDialog_PageNumbers-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_PageNumbers-2.ui
+END
+ap_UnixTopRuler.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30385/abiword/trunk/src/wp/ap/gtk/ap_UnixTopRuler.h
+END
+pd_RDFContact.ui
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30606/abiword/trunk/src/wp/ap/gtk/pd_RDFContact.ui
+END
+ap_UnixDialog_Goto.ui
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30770/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Goto.ui
+END
+ap_UnixDialog_Annotation-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Annotation-2.ui
+END
+ap_UnixDialog_Border_Shading.ui
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/30717/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Border_Shading.ui
+END
+ap_UnixStockIcons.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30606/abiword/trunk/src/wp/ap/gtk/ap_UnixStockIcons.h
+END
+abiwidget-gtk2.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30503/abiword/trunk/src/wp/ap/gtk/abiwidget-gtk2.h
+END
+ap_UnixDialog_MetaData-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_MetaData-2.ui
+END
+ap_UnixDialog_Border_Shading.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/30762/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Border_Shading.cpp
+END
+ap_UnixDialog_Insert_DateTime.ui
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Insert_DateTime.ui
+END
+ap_UnixDialog_InsertTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30637/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_InsertTable.cpp
+END
+ap_UnixToolbar_ZoomCombo.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixToolbar_ZoomCombo.h
+END
+ap_UnixDialog_PageNumbers.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/25508/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_PageNumbers.h
+END
+ap_UnixDialog_ListRevisions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/30503/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_ListRevisions.cpp
+END
+ap_UnixDialog_Break-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Break-2.ui
+END
+ap_UnixDialog_Field.ui
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Field.ui
+END
+ap_UnixFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/25501/abiword/trunk/src/wp/ap/gtk/ap_UnixFrame.h
+END
+ap_UnixDialog_MergeCells.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30503/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_MergeCells.cpp
+END
+ap_DocView.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/29718/abiword/trunk/src/wp/ap/gtk/ap_DocView.h
+END
+ap_UnixDialog_WordCount.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_WordCount.cpp
+END
+ap_UnixDialog_MetaData.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_MetaData.h
+END
+ap_UnixDialog_PageSetup.ui
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_PageSetup.ui
+END
+ap_UnixDialog_Styles.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/25638/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Styles.h
+END
+ap_UnixToolbar_StyleCombo.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30578/abiword/trunk/src/wp/ap/gtk/ap_UnixToolbar_StyleCombo.h
+END
+pd_RDFInsertReference.ui
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30606/abiword/trunk/src/wp/ap/gtk/pd_RDFInsertReference.ui
+END
+ap_UnixDialog_FormatTOC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30637/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_FormatTOC.cpp
+END
+ap_UnixToolbar_FontCombo.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixToolbar_FontCombo.h
+END
+ap_UnixDialog_Options.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/27116/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Options.h
+END
+ap_UnixStockIcons.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30606/abiword/trunk/src/wp/ap/gtk/ap_UnixStockIcons.cpp
+END
+ap_UnixDialog_PageSetup.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/25681/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_PageSetup.h
+END
+ap_UnixDialog_Border_Shading-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/30718/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Border_Shading-2.ui
+END
+ap_UnixDialog_Stylist.ui
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Stylist.ui
+END
+ap_UnixDialog_Tab.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30514/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Tab.cpp
+END
+ap_UnixDialog_PageNumbers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30637/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_PageNumbers.cpp
+END
+ap_UnixDialog_Spell-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Spell-2.ui
+END
+ap_UnixDialog_Latex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Latex.cpp
+END
+ap_UnixDialog_Stub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Stub.cpp
+END
+ap_UnixDialog_Styles-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Styles-2.ui
+END
+ap_UnixDialog_Background.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30503/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Background.cpp
+END
+pd_RDFLocation.ui
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30606/abiword/trunk/src/wp/ap/gtk/pd_RDFLocation.ui
+END
+ap_UnixDialog_MetaData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30637/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_MetaData.cpp
+END
+ap_UnixDialog_ToggleCase.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_ToggleCase.h
+END
+ap_UnixDialog_Field.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30637/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Field.cpp
+END
+ap_UnixDialog_Options-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Options-2.ui
+END
+ap_UnixDialog_RDFEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30776/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_RDFEditor.h
+END
+ap_UnixDialog_InsertBookmark.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/30503/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_InsertBookmark.cpp
+END
+ap_UnixDialog_HdrFtr.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_HdrFtr.h
+END
+ap_RDFSemanticItemFactoryGTK.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30640/abiword/trunk/src/wp/ap/gtk/ap_RDFSemanticItemFactoryGTK.h
+END
+ap_UnixDialog_FormatFrame.ui
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30717/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_FormatFrame.ui
+END
+ap_UnixPreview_Annotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/27931/abiword/trunk/src/wp/ap/gtk/ap_UnixPreview_Annotation.h
+END
+ap_UnixDialog_InsertXMLID.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30509/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_InsertXMLID.cpp
+END
+ap_UnixFrameImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30385/abiword/trunk/src/wp/ap/gtk/ap_UnixFrameImpl.h
+END
+ap_UnixDialog_RDFQuery.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30776/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_RDFQuery.h
+END
+ap_UnixDialog_Replace.ui
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Replace.ui
+END
+ap_RDFContactGTK.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30640/abiword/trunk/src/wp/ap/gtk/ap_RDFContactGTK.cpp
+END
+ap_UnixDialog_Stylist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30637/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Stylist.cpp
+END
+ap_UnixDialog_Annotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/23285/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Annotation.h
+END
+ap_UnixDialog_Stylist_modal-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Stylist_modal-2.ui
+END
+ap_UnixDialog_Background.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Background.h
+END
+ap_UnixDialog_Field.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22481/abiword/trunk/src/wp/ap/gtk/ap_UnixDialog_Field.h
+END

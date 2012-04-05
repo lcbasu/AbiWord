@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/29358/abiword/trunk/test/wp/odt/external/package_odt
+END
+manifest.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/29358/abiword/trunk/test/wp/odt/external/package_odt/manifest.rdf
+END
+styles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/29358/abiword/trunk/test/wp/odt/external/package_odt/styles.xml
+END
+data.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/29358/abiword/trunk/test/wp/odt/external/package_odt/data.rdf
+END
+geo1.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/29358/abiword/trunk/test/wp/odt/external/package_odt/geo1.rdf
+END
+meta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/29358/abiword/trunk/test/wp/odt/external/package_odt/meta.xml
+END
+content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/29358/abiword/trunk/test/wp/odt/external/package_odt/content.xml
+END
+mimetype
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/29358/abiword/trunk/test/wp/odt/external/package_odt/mimetype
+END
+openingHours.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/29358/abiword/trunk/test/wp/odt/external/package_odt/openingHours.rdf
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/29358/abiword/trunk/test/wp/odt/external/package_odt/Makefile
+END

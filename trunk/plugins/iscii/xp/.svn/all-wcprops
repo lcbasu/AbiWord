@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/24735/abiword/trunk/plugins/iscii/xp
+END
+ie_exp_ISCII.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/23915/abiword/trunk/plugins/iscii/xp/ie_exp_ISCII.h
+END
+ie_impexp_ISCII.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/23719/abiword/trunk/plugins/iscii/xp/ie_impexp_ISCII.cpp
+END
+ie_imp_ISCII.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/24735/abiword/trunk/plugins/iscii/xp/ie_imp_ISCII.cpp
+END
+ie_imp_ISCII.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/23915/abiword/trunk/plugins/iscii/xp/ie_imp_ISCII.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/23803/abiword/trunk/plugins/iscii/xp/Makefile.am
+END
+ie_exp_ISCII.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/23719/abiword/trunk/plugins/iscii/xp/ie_exp_ISCII.cpp
+END

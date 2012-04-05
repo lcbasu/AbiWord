@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/30459/abiword/trunk/plugins/aiksaurus
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30459/abiword/trunk/plugins/aiksaurus/Makefile.am
+END
+plugin.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30399/abiword/trunk/plugins/aiksaurus/plugin.m4
+END

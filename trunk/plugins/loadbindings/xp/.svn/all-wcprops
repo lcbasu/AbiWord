@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/30556/abiword/trunk/plugins/loadbindings/xp
+END
+LoadBindings.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/23915/abiword/trunk/plugins/loadbindings/xp/LoadBindings.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/23803/abiword/trunk/plugins/loadbindings/xp/Makefile.am
+END
+LoadBindings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30556/abiword/trunk/plugins/loadbindings/xp/LoadBindings.cpp
+END

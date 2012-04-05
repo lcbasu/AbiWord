@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/30576/abiword/trunk/plugins/mif/xp
+END
+ie_imp_MIF.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/23915/abiword/trunk/plugins/mif/xp/ie_imp_MIF.h
+END
+ie_exp_MIF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30576/abiword/trunk/plugins/mif/xp/ie_exp_MIF.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/23803/abiword/trunk/plugins/mif/xp/Makefile.am
+END
+ie_exp_MIF.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/23915/abiword/trunk/plugins/mif/xp/ie_exp_MIF.h
+END
+ie_impexp_MIF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/23731/abiword/trunk/plugins/mif/xp/ie_impexp_MIF.cpp
+END
+ie_imp_MIF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/23731/abiword/trunk/plugins/mif/xp/ie_imp_MIF.cpp
+END

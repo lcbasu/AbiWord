@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/29358/abiword/trunk/test/wp/odt/parawithid/package_odt
+END
+settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/29358/abiword/trunk/test/wp/odt/parawithid/package_odt/settings.xml
+END
+manifest.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/29358/abiword/trunk/test/wp/odt/parawithid/package_odt/manifest.rdf
+END
+styles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/29358/abiword/trunk/test/wp/odt/parawithid/package_odt/styles.xml
+END
+meta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/29358/abiword/trunk/test/wp/odt/parawithid/package_odt/meta.xml
+END
+content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/29358/abiword/trunk/test/wp/odt/parawithid/package_odt/content.xml
+END
+mimetype
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/29358/abiword/trunk/test/wp/odt/parawithid/package_odt/mimetype
+END
+content.xml.original
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/29358/abiword/trunk/test/wp/odt/parawithid/package_odt/content.xml.original
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/29358/abiword/trunk/test/wp/odt/parawithid/package_odt/Makefile
+END

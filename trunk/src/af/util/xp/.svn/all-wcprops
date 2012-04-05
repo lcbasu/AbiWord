@@ -1,0 +1,623 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/30773/abiword/trunk/src/af/util/xp
+END
+ut_Language.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/24338/abiword/trunk/src/af/util/xp/ut_Language.h
+END
+ut_base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/19756/abiword/trunk/src/af/util/xp/ut_base64.h
+END
+ut_rand.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/19756/abiword/trunk/src/af/util/xp/ut_rand.h
+END
+ut_xml_libxml2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30418/abiword/trunk/src/af/util/xp/ut_xml_libxml2.cpp
+END
+ut_Encoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22295/abiword/trunk/src/af/util/xp/ut_Encoding.h
+END
+ut_std_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/26893/abiword/trunk/src/af/util/xp/ut_std_map.h
+END
+ut_misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/30397/abiword/trunk/src/af/util/xp/ut_misc.h
+END
+ut_bytebuf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/28460/abiword/trunk/src/af/util/xp/ut_bytebuf.cpp
+END
+ut_path.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/30607/abiword/trunk/src/af/util/xp/ut_path.h
+END
+ut_endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/28525/abiword/trunk/src/af/util/xp/ut_endian.h
+END
+ut_TextIterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/25456/abiword/trunk/src/af/util/xp/ut_TextIterator.h
+END
+ut_decompress.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/23568/abiword/trunk/src/af/util/xp/ut_decompress.cpp
+END
+ut_xml.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/28765/abiword/trunk/src/af/util/xp/ut_xml.h
+END
+ut_OverstrikingChars.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/20222/abiword/trunk/src/af/util/xp/ut_OverstrikingChars.cpp
+END
+ut_strptime.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30773/abiword/trunk/src/af/util/xp/ut_strptime.c
+END
+ut_stringbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/26284/abiword/trunk/src/af/util/xp/ut_stringbuf.h
+END
+ut_go_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30479/abiword/trunk/src/af/util/xp/ut_go_file.h
+END
+ut_worker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30473/abiword/trunk/src/af/util/xp/ut_worker.cpp
+END
+ut_stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/25123/abiword/trunk/src/af/util/xp/ut_stack.h
+END
+ut_uuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/30606/abiword/trunk/src/af/util/xp/ut_uuid.h
+END
+ut_base64_TestRoutines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/20222/abiword/trunk/src/af/util/xp/ut_base64_TestRoutines.cpp
+END
+ut_color.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/27191/abiword/trunk/src/af/util/xp/ut_color.cpp
+END
+ut_growbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/19756/abiword/trunk/src/af/util/xp/ut_growbuf.h
+END
+ut_crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/23843/abiword/trunk/src/af/util/xp/ut_crc32.h
+END
+ut_Language.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/29643/abiword/trunk/src/af/util/xp/ut_Language.cpp
+END
+ut_std_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30640/abiword/trunk/src/af/util/xp/ut_std_string.h
+END
+ut_AdobeEncoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/20021/abiword/trunk/src/af/util/xp/ut_AdobeEncoding.h
+END
+ut_hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/30418/abiword/trunk/src/af/util/xp/ut_hash.h
+END
+ut_png.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/26989/abiword/trunk/src/af/util/xp/ut_png.h
+END
+ut_conversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30362/abiword/trunk/src/af/util/xp/ut_conversion.h
+END
+ut_misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/30356/abiword/trunk/src/af/util/xp/ut_misc.cpp
+END
+ut_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/19756/abiword/trunk/src/af/util/xp/ut_math.h
+END
+ut_mbtowc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/25606/abiword/trunk/src/af/util/xp/ut_mbtowc.h
+END
+ut_wctomb.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/10124/abiword/trunk/src/af/util/xp/ut_wctomb.h
+END
+ut_mutex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/19756/abiword/trunk/src/af/util/xp/ut_mutex.cpp
+END
+ut_units.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/28458/abiword/trunk/src/af/util/xp/ut_units.cpp
+END
+ut_stringbuf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30490/abiword/trunk/src/af/util/xp/ut_stringbuf.cpp
+END
+ut_locale.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/23840/abiword/trunk/src/af/util/xp/ut_locale.h
+END
+ut_svg.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/23568/abiword/trunk/src/af/util/xp/ut_svg.h
+END
+ut_types.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/19756/abiword/trunk/src/af/util/xp/ut_types.cpp
+END
+ut_bytebuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/28461/abiword/trunk/src/af/util/xp/ut_bytebuf.h
+END
+ut_stack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/25123/abiword/trunk/src/af/util/xp/ut_stack.cpp
+END
+ut_assert.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/30656/abiword/trunk/src/af/util/xp/ut_assert.h
+END
+ut_string.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30418/abiword/trunk/src/af/util/xp/ut_string.cpp
+END
+ut_decompress.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/19807/abiword/trunk/src/af/util/xp/ut_decompress.h
+END
+ut_growbuf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/19756/abiword/trunk/src/af/util/xp/ut_growbuf.cpp
+END
+ut_iconv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/26989/abiword/trunk/src/af/util/xp/ut_iconv.cpp
+END
+ut_PerlBindings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/23330/abiword/trunk/src/af/util/xp/ut_PerlBindings.cpp
+END
+ut_case.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/29603/abiword/trunk/src/af/util/xp/ut_case.h
+END
+ut_AdobeEncoding.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/20021/abiword/trunk/src/af/util/xp/ut_AdobeEncoding.cpp
+END
+ut_std_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30625/abiword/trunk/src/af/util/xp/ut_std_vector.h
+END
+ut_hash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/19756/abiword/trunk/src/af/util/xp/ut_hash.cpp
+END
+ut_color.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/30397/abiword/trunk/src/af/util/xp/ut_color.h
+END
+ut_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/23466/abiword/trunk/src/af/util/xp/ut_test.h
+END
+ut_unicode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/19912/abiword/trunk/src/af/util/xp/ut_unicode.cpp
+END
+ut_math.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/19756/abiword/trunk/src/af/util/xp/ut_math.cpp
+END
+ut_mbtowc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30047/abiword/trunk/src/af/util/xp/ut_mbtowc.cpp
+END
+ut_wctomb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/19756/abiword/trunk/src/af/util/xp/ut_wctomb.cpp
+END
+ut_locale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/29601/abiword/trunk/src/af/util/xp/ut_locale.cpp
+END
+ut_svg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/25864/abiword/trunk/src/af/util/xp/ut_svg.cpp
+END
+ut_string_class.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30335/abiword/trunk/src/af/util/xp/ut_string_class.h
+END
+ut_std_algo.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/26894/abiword/trunk/src/af/util/xp/ut_std_algo.h
+END
+ut_vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/19756/abiword/trunk/src/af/util/xp/ut_vector.cpp
+END
+ut_html.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/23737/abiword/trunk/src/af/util/xp/ut_html.cpp
+END
+ut_Script.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/27051/abiword/trunk/src/af/util/xp/ut_Script.cpp
+END
+ut_bijection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/19759/abiword/trunk/src/af/util/xp/ut_bijection.cpp
+END
+ut_mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/23886/abiword/trunk/src/af/util/xp/ut_mutex.h
+END
+ut_units.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/28184/abiword/trunk/src/af/util/xp/ut_units.h
+END
+ut_PropVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30418/abiword/trunk/src/af/util/xp/ut_PropVector.h
+END
+ut_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/30697/abiword/trunk/src/af/util/xp/ut_types.h
+END
+ut_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/30741/abiword/trunk/src/af/util/xp/ut_string.h
+END
+ut_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/23466/abiword/trunk/src/af/util/xp/ut_test.cpp
+END
+ut_timer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/19756/abiword/trunk/src/af/util/xp/ut_timer.cpp
+END
+ut_idle.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/19756/abiword/trunk/src/af/util/xp/ut_idle.h
+END
+ut_iconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/26989/abiword/trunk/src/af/util/xp/ut_iconv.h
+END
+ut_base64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/19823/abiword/trunk/src/af/util/xp/ut_base64.cpp
+END
+ut_rand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/19756/abiword/trunk/src/af/util/xp/ut_rand.cpp
+END
+ut_PerlBindings.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/23330/abiword/trunk/src/af/util/xp/ut_PerlBindings.h
+END
+ut_Encoding.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/23438/abiword/trunk/src/af/util/xp/ut_Encoding.cpp
+END
+ut_jpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/27173/abiword/trunk/src/af/util/xp/ut_jpeg.h
+END
+ut_string_class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30418/abiword/trunk/src/af/util/xp/ut_string_class.cpp
+END
+ut_unicode.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/23844/abiword/trunk/src/af/util/xp/ut_unicode.h
+END
+ut_path.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/26402/abiword/trunk/src/af/util/xp/ut_path.cpp
+END
+ut_xml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/29609/abiword/trunk/src/af/util/xp/ut_xml.cpp
+END
+ut_debugmsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30533/abiword/trunk/src/af/util/xp/ut_debugmsg.h
+END
+ut_exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/19756/abiword/trunk/src/af/util/xp/ut_exception.h
+END
+ut_PropVector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30418/abiword/trunk/src/af/util/xp/ut_PropVector.cpp
+END
+ut_go_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30740/abiword/trunk/src/af/util/xp/ut_go_file.cpp
+END
+ut_uuid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/30606/abiword/trunk/src/af/util/xp/ut_uuid.cpp
+END
+ut_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/29779/abiword/trunk/src/af/util/xp/ut_vector.h
+END
+ut_html.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/19756/abiword/trunk/src/af/util/xp/ut_html.h
+END
+ut_Script.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/21247/abiword/trunk/src/af/util/xp/ut_Script.h
+END
+ut_warning.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/19756/abiword/trunk/src/af/util/xp/ut_warning.h
+END
+ut_bijection.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/8964/abiword/trunk/src/af/util/xp/ut_bijection.h
+END
+ut_OverstrikingChars.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/19756/abiword/trunk/src/af/util/xp/ut_OverstrikingChars.h
+END
+ut_crc32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/20216/abiword/trunk/src/af/util/xp/ut_crc32.cpp
+END
+ut_idle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/19756/abiword/trunk/src/af/util/xp/ut_idle.cpp
+END
+ut_worker.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/24558/abiword/trunk/src/af/util/xp/ut_worker.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/30741/abiword/trunk/src/af/util/xp/Makefile.am
+END
+ut_std_string.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30741/abiword/trunk/src/af/util/xp/ut_std_string.cpp
+END
+ut_png.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/29655/abiword/trunk/src/af/util/xp/ut_png.cpp
+END
+ut_jpeg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/30427/abiword/trunk/src/af/util/xp/ut_jpeg.cpp
+END
+ut_timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/19756/abiword/trunk/src/af/util/xp/ut_timer.h
+END

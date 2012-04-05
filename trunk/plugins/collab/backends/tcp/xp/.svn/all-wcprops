@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/29430/abiword/trunk/plugins/collab/backends/tcp/xp
+END
+IOServerHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28026/abiword/trunk/plugins/collab/backends/tcp/xp/IOServerHandler.h
+END
+TCPAccountHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/29430/abiword/trunk/plugins/collab/backends/tcp/xp/TCPAccountHandler.cpp
+END
+TCPBuddy.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/27607/abiword/trunk/plugins/collab/backends/tcp/xp/TCPBuddy.h
+END
+TCPAccountHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/29270/abiword/trunk/plugins/collab/backends/tcp/xp/TCPAccountHandler.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/26134/abiword/trunk/plugins/collab/backends/tcp/xp/Makefile.am
+END
+Session.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28159/abiword/trunk/plugins/collab/backends/tcp/xp/Session.h
+END

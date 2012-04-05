@@ -1,0 +1,599 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/30743/abiword/trunk/src/text/fmt/xp
+END
+fl_DocListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30576/abiword/trunk/src/text/fmt/xp/fl_DocListener.h
+END
+fp_FieldTOCNum.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/19756/abiword/trunk/src/text/fmt/xp/fp_FieldTOCNum.h
+END
+fb_ColumnBreaker.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/27067/abiword/trunk/src/text/fmt/xp/fb_ColumnBreaker.h
+END
+fl_TableLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30576/abiword/trunk/src/text/fmt/xp/fl_TableLayout.cpp
+END
+fl_SelectionPreserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/23843/abiword/trunk/src/text/fmt/xp/fl_SelectionPreserver.h
+END
+fl_BlockLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30713/abiword/trunk/src/text/fmt/xp/fl_BlockLayout.cpp
+END
+fl_FrameLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30649/abiword/trunk/src/text/fmt/xp/fl_FrameLayout.cpp
+END
+fv_View.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/30743/abiword/trunk/src/text/fmt/xp/fv_View.h
+END
+fg_GraphicVector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30736/abiword/trunk/src/text/fmt/xp/fg_GraphicVector.cpp
+END
+fv_Selection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30575/abiword/trunk/src/text/fmt/xp/fv_Selection.cpp
+END
+fp_FrameContainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30648/abiword/trunk/src/text/fmt/xp/fp_FrameContainer.cpp
+END
+fp_Column.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30600/abiword/trunk/src/text/fmt/xp/fp_Column.cpp
+END
+fl_SectionLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30713/abiword/trunk/src/text/fmt/xp/fl_SectionLayout.cpp
+END
+fp_AnnotationRun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30606/abiword/trunk/src/text/fmt/xp/fp_AnnotationRun.cpp
+END
+fl_Squiggles.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/19756/abiword/trunk/src/text/fmt/xp/fl_Squiggles.h
+END
+fl_DocLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30713/abiword/trunk/src/text/fmt/xp/fl_DocLayout.h
+END
+fv_ViewDoubleBuffering.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30418/abiword/trunk/src/text/fmt/xp/fv_ViewDoubleBuffering.h
+END
+fp_FieldListLabelRun.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/19756/abiword/trunk/src/text/fmt/xp/fp_FieldListLabelRun.h
+END
+fp_ContainerObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30418/abiword/trunk/src/text/fmt/xp/fp_ContainerObject.cpp
+END
+fl_Layout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30575/abiword/trunk/src/text/fmt/xp/fl_Layout.cpp
+END
+fp_TextRun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30600/abiword/trunk/src/text/fmt/xp/fp_TextRun.cpp
+END
+fp_DirectionMarkerRun.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/19756/abiword/trunk/src/text/fmt/xp/fp_DirectionMarkerRun.h
+END
+fp_PageSize.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/28878/abiword/trunk/src/text/fmt/xp/fp_PageSize.h
+END
+fv_View.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30743/abiword/trunk/src/text/fmt/xp/fv_View.cpp
+END
+fl_ContainerLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30648/abiword/trunk/src/text/fmt/xp/fl_ContainerLayout.h
+END
+fp_Page.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/30686/abiword/trunk/src/text/fmt/xp/fp_Page.h
+END
+fp_MathRun.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30577/abiword/trunk/src/text/fmt/xp/fp_MathRun.h
+END
+fv_Base.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/30672/abiword/trunk/src/text/fmt/xp/fv_Base.h
+END
+fp_FmtMarkRun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/24958/abiword/trunk/src/text/fmt/xp/fp_FmtMarkRun.cpp
+END
+fl_TableLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30576/abiword/trunk/src/text/fmt/xp/fl_TableLayout.h
+END
+fp_Line.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30583/abiword/trunk/src/text/fmt/xp/fp_Line.cpp
+END
+fg_GraphicVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/26989/abiword/trunk/src/text/fmt/xp/fg_GraphicVector.h
+END
+fv_Selection.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/25456/abiword/trunk/src/text/fmt/xp/fv_Selection.h
+END
+fp_EmbedRun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30577/abiword/trunk/src/text/fmt/xp/fp_EmbedRun.cpp
+END
+fp_FrameContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30648/abiword/trunk/src/text/fmt/xp/fp_FrameContainer.h
+END
+fp_Column.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30600/abiword/trunk/src/text/fmt/xp/fp_Column.h
+END
+fv_View_cmd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30648/abiword/trunk/src/text/fmt/xp/fv_View_cmd.cpp
+END
+fp_FieldListLabelRun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30575/abiword/trunk/src/text/fmt/xp/fp_FieldListLabelRun.cpp
+END
+fp_FieldTableSumRun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30576/abiword/trunk/src/text/fmt/xp/fp_FieldTableSumRun.cpp
+END
+fb_LineBreaker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30533/abiword/trunk/src/text/fmt/xp/fb_LineBreaker.cpp
+END
+fb_Alignment.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/19756/abiword/trunk/src/text/fmt/xp/fb_Alignment.h
+END
+fg_Graphic.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/26989/abiword/trunk/src/text/fmt/xp/fg_Graphic.h
+END
+fp_Run.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/30577/abiword/trunk/src/text/fmt/xp/fp_Run.h
+END
+fp_Fields.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/19756/abiword/trunk/src/text/fmt/xp/fp_Fields.h
+END
+fv_FrameEdit.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30672/abiword/trunk/src/text/fmt/xp/fv_FrameEdit.h
+END
+fl_ContainerLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30734/abiword/trunk/src/text/fmt/xp/fl_ContainerLayout.cpp
+END
+fp_Page.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30686/abiword/trunk/src/text/fmt/xp/fp_Page.cpp
+END
+fp_ContainerObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30418/abiword/trunk/src/text/fmt/xp/fp_ContainerObject.h
+END
+fl_Layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30575/abiword/trunk/src/text/fmt/xp/fl_Layout.h
+END
+fp_MathRun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30577/abiword/trunk/src/text/fmt/xp/fp_MathRun.cpp
+END
+fp_TextRun.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/28504/abiword/trunk/src/text/fmt/xp/fp_TextRun.h
+END
+fl_TOCLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30686/abiword/trunk/src/text/fmt/xp/fl_TOCLayout.cpp
+END
+fv_Base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30672/abiword/trunk/src/text/fmt/xp/fv_Base.cpp
+END
+fv_VisualDragText.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/25448/abiword/trunk/src/text/fmt/xp/fv_VisualDragText.h
+END
+fl_AutoLists.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/20087/abiword/trunk/src/text/fmt/xp/fl_AutoLists.cpp
+END
+fg_GraphicRaster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30736/abiword/trunk/src/text/fmt/xp/fg_GraphicRaster.cpp
+END
+fl_FootnoteLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30576/abiword/trunk/src/text/fmt/xp/fl_FootnoteLayout.cpp
+END
+fv_InlineImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30418/abiword/trunk/src/text/fmt/xp/fv_InlineImage.cpp
+END
+fl_AutoNum.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30575/abiword/trunk/src/text/fmt/xp/fl_AutoNum.h
+END
+fp_Line.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/30495/abiword/trunk/src/text/fmt/xp/fp_Line.h
+END
+fp_TOCContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19756/abiword/trunk/src/text/fmt/xp/fp_TOCContainer.h
+END
+fp_TableContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30418/abiword/trunk/src/text/fmt/xp/fp_TableContainer.h
+END
+fb_Alignment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30496/abiword/trunk/src/text/fmt/xp/fb_Alignment.cpp
+END
+fl_TestRoutines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/25631/abiword/trunk/src/text/fmt/xp/fl_TestRoutines.cpp
+END
+fg_Graphic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/26989/abiword/trunk/src/text/fmt/xp/fg_Graphic.cpp
+END
+fp_Run.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/30682/abiword/trunk/src/text/fmt/xp/fp_Run.cpp
+END
+fp_FootnoteContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/28041/abiword/trunk/src/text/fmt/xp/fp_FootnoteContainer.h
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/6067/abiword/trunk/src/text/fmt/xp/README.TXT
+END
+fp_EmbedRun.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30577/abiword/trunk/src/text/fmt/xp/fp_EmbedRun.h
+END
+fv_FrameEdit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30666/abiword/trunk/src/text/fmt/xp/fv_FrameEdit.cpp
+END
+fl_DocListener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30576/abiword/trunk/src/text/fmt/xp/fl_DocListener.cpp
+END
+fp_TestRoutines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/20222/abiword/trunk/src/text/fmt/xp/fp_TestRoutines.cpp
+END
+fp_FieldTOCNum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30686/abiword/trunk/src/text/fmt/xp/fp_FieldTOCNum.cpp
+END
+fp_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/19756/abiword/trunk/src/text/fmt/xp/fp_types.h
+END
+fb_LineBreaker.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/19756/abiword/trunk/src/text/fmt/xp/fb_LineBreaker.h
+END
+fb_ColumnBreaker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30594/abiword/trunk/src/text/fmt/xp/fb_ColumnBreaker.cpp
+END
+fv_VisualDragText.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30533/abiword/trunk/src/text/fmt/xp/fv_VisualDragText.cpp
+END
+fl_SelectionPreserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/19756/abiword/trunk/src/text/fmt/xp/fl_SelectionPreserver.cpp
+END
+fl_TOCLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30686/abiword/trunk/src/text/fmt/xp/fl_TOCLayout.h
+END
+fl_AutoNum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30575/abiword/trunk/src/text/fmt/xp/fl_AutoNum.cpp
+END
+fl_AutoLists.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/23844/abiword/trunk/src/text/fmt/xp/fl_AutoLists.h
+END
+fp_TOCContainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30418/abiword/trunk/src/text/fmt/xp/fp_TOCContainer.cpp
+END
+fl_BlockLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30600/abiword/trunk/src/text/fmt/xp/fl_BlockLayout.h
+END
+fl_FrameLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30648/abiword/trunk/src/text/fmt/xp/fl_FrameLayout.h
+END
+fv_View_protected.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30672/abiword/trunk/src/text/fmt/xp/fv_View_protected.cpp
+END
+fg_GraphicRaster.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/26989/abiword/trunk/src/text/fmt/xp/fg_GraphicRaster.h
+END
+fp_TableContainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30533/abiword/trunk/src/text/fmt/xp/fp_TableContainer.cpp
+END
+fp_RDFAnchorRun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30606/abiword/trunk/src/text/fmt/xp/fp_RDFAnchorRun.cpp
+END
+fl_FootnoteLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30576/abiword/trunk/src/text/fmt/xp/fl_FootnoteLayout.h
+END
+fv_InlineImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30418/abiword/trunk/src/text/fmt/xp/fv_InlineImage.h
+END
+fl_Squiggles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/26211/abiword/trunk/src/text/fmt/xp/fl_Squiggles.cpp
+END
+fl_DocLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30713/abiword/trunk/src/text/fmt/xp/fl_DocLayout.cpp
+END
+fp_FootnoteContainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30418/abiword/trunk/src/text/fmt/xp/fp_FootnoteContainer.cpp
+END
+fl_SectionLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30685/abiword/trunk/src/text/fmt/xp/fl_SectionLayout.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30515/abiword/trunk/src/text/fmt/xp/Makefile.am
+END
+fv_ViewDoubleBuffering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30432/abiword/trunk/src/text/fmt/xp/fv_ViewDoubleBuffering.cpp
+END
+fp_DirectionMarkerRun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/26123/abiword/trunk/src/text/fmt/xp/fp_DirectionMarkerRun.cpp
+END
+fp_PageSize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/28878/abiword/trunk/src/text/fmt/xp/fp_PageSize.cpp
+END
+fv_View_TestRoutines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/19756/abiword/trunk/src/text/fmt/xp/fv_View_TestRoutines.cpp
+END

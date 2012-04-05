@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/29685/abiword/trunk/plugins/paint/xp
+END
+AbiPaint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/29685/abiword/trunk/plugins/paint/xp/AbiPaint.cpp
+END
+AbiGeneric.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/24708/abiword/trunk/plugins/paint/xp/AbiGeneric.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/23803/abiword/trunk/plugins/paint/xp/Makefile.am
+END
+AbiPaint.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/22481/abiword/trunk/plugins/paint/xp/AbiPaint.h
+END
+AbiGeneric.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/25749/abiword/trunk/plugins/paint/xp/AbiGeneric.h
+END

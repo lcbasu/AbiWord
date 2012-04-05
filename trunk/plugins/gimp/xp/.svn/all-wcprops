@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/29687/abiword/trunk/plugins/gimp/xp
+END
+AbiGimp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/29687/abiword/trunk/plugins/gimp/xp/AbiGimp.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/23803/abiword/trunk/plugins/gimp/xp/Makefile.am
+END

@@ -1,0 +1,581 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/30669/abiword/trunk/src/af/xap/win
+END
+xap_Win32Res_DlgInsertPicture.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/29582/abiword/trunk/src/af/xap/win/xap_Win32Res_DlgInsertPicture.rc2
+END
+xap_Win32FontPreview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/23932/abiword/trunk/src/af/xap/win/xap_Win32FontPreview.cpp
+END
+xap_Win32Dlg_Stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/23891/abiword/trunk/src/af/xap/win/xap_Win32Dlg_Stub.h
+END
+xap_Win32Dlg_Image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28816/abiword/trunk/src/af/xap/win/xap_Win32Dlg_Image.cpp
+END
+xap_Win32Dlg_Zoom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/28487/abiword/trunk/src/af/xap/win/xap_Win32Dlg_Zoom.cpp
+END
+xap_Win32Dlg_HTMLOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/23891/abiword/trunk/src/af/xap/win/xap_Win32Dlg_HTMLOptions.h
+END
+winezmouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/28487/abiword/trunk/src/af/xap/win/winezmouse.h
+END
+xap_Win32Dlg_MessageBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/29585/abiword/trunk/src/af/xap/win/xap_Win32Dlg_MessageBox.cpp
+END
+xap_Win32Dlg_Insert_Symbol.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28736/abiword/trunk/src/af/xap/win/xap_Win32Dlg_Insert_Symbol.h
+END
+xap_Win32Dlg_FontChooser.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28487/abiword/trunk/src/af/xap/win/xap_Win32Dlg_FontChooser.h
+END
+xap_Win32Dlg_WindowMore.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/23891/abiword/trunk/src/af/xap/win/xap_Win32Dlg_WindowMore.h
+END
+xap_Win32App.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30669/abiword/trunk/src/af/xap/win/xap_Win32App.h
+END
+xap_Win32Dlg_DocComparison.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/29585/abiword/trunk/src/af/xap/win/xap_Win32Dlg_DocComparison.cpp
+END
+xap_Win32Dlg_Password.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28487/abiword/trunk/src/af/xap/win/xap_Win32Dlg_Password.cpp
+END
+xap_Win32Dlg_ListDocuments.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28487/abiword/trunk/src/af/xap/win/xap_Win32Dlg_ListDocuments.h
+END
+xap_Win32Res_DlgZoom.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/29582/abiword/trunk/src/af/xap/win/xap_Win32Res_DlgZoom.rc2
+END
+xap_Win32PreviewWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28487/abiword/trunk/src/af/xap/win/xap_Win32PreviewWidget.h
+END
+xap_Win32Dlg_History.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28487/abiword/trunk/src/af/xap/win/xap_Win32Dlg_History.h
+END
+xap_Win32Res_DlgInsertSymbol.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/29582/abiword/trunk/src/af/xap/win/xap_Win32Res_DlgInsertSymbol.rc2
+END
+xap_Win32Toolbar_Icons.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30574/abiword/trunk/src/af/xap/win/xap_Win32Toolbar_Icons.h
+END
+xap_Win32_TB_CFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/23891/abiword/trunk/src/af/xap/win/xap_Win32_TB_CFactory.h
+END
+xap_Win32ColourButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/29813/abiword/trunk/src/af/xap/win/xap_Win32ColourButton.h
+END
+xap_Win32Clipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/28470/abiword/trunk/src/af/xap/win/xap_Win32Clipboard.h
+END
+xap_Win32Dlg_About.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/23891/abiword/trunk/src/af/xap/win/xap_Win32Dlg_About.h
+END
+xap_Win32Slurp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/29661/abiword/trunk/src/af/xap/win/xap_Win32Slurp.cpp
+END
+xap_Win32Dlg_HTMLOptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30007/abiword/trunk/src/af/xap/win/xap_Win32Dlg_HTMLOptions.cpp
+END
+xap_Win32Res_DlgPassword.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/29582/abiword/trunk/src/af/xap/win/xap_Win32Res_DlgPassword.rc2
+END
+xap_Win32Dlg_Language.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30574/abiword/trunk/src/af/xap/win/xap_Win32Dlg_Language.cpp
+END
+xap_Win32PropertySheet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28495/abiword/trunk/src/af/xap/win/xap_Win32PropertySheet.cpp
+END
+xap_Win32Dlg_WindowMore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28487/abiword/trunk/src/af/xap/win/xap_Win32Dlg_WindowMore.cpp
+END
+xap_Win32App.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/29726/abiword/trunk/src/af/xap/win/xap_Win32App.cpp
+END
+xap_Win32EncodingManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28487/abiword/trunk/src/af/xap/win/xap_Win32EncodingManager.cpp
+END
+xap_Win32FrameImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/21912/abiword/trunk/src/af/xap/win/xap_Win32FrameImpl.h
+END
+xap_Win32DragAndDrop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/29578/abiword/trunk/src/af/xap/win/xap_Win32DragAndDrop.cpp
+END
+xap_Win32Module.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/29609/abiword/trunk/src/af/xap/win/xap_Win32Module.cpp
+END
+xap_Win32Res_DlgLanguage.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/29582/abiword/trunk/src/af/xap/win/xap_Win32Res_DlgLanguage.rc2
+END
+xap_Win32Dlg_MessageBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28487/abiword/trunk/src/af/xap/win/xap_Win32Dlg_MessageBox.h
+END
+xap_Win32Dlg_ClipArt.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/23891/abiword/trunk/src/af/xap/win/xap_Win32Dlg_ClipArt.h
+END
+xap_Win32DialogFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/21584/abiword/trunk/src/af/xap/win/xap_Win32DialogFactory.h
+END
+downarrow.cur
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/14310/abiword/trunk/src/af/xap/win/downarrow.cur
+END
+xap_Win32Res_DlgWindowMore.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/29582/abiword/trunk/src/af/xap/win/xap_Win32Res_DlgWindowMore.rc2
+END
+xap_Win32DialogBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/29677/abiword/trunk/src/af/xap/win/xap_Win32DialogBase.h
+END
+xap_Win32DialogHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30304/abiword/trunk/src/af/xap/win/xap_Win32DialogHelper.cpp
+END
+xap_Win32Dlg_FileOpenSaveAs.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28487/abiword/trunk/src/af/xap/win/xap_Win32Dlg_FileOpenSaveAs.h
+END
+xap_Win32Dlg_About.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30303/abiword/trunk/src/af/xap/win/xap_Win32Dlg_About.cpp
+END
+xap_Win32Res_DlgListDocuments.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/29582/abiword/trunk/src/af/xap/win/xap_Win32Res_DlgListDocuments.rc2
+END
+rightcur.cur
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/11736/abiword/trunk/src/af/xap/win/rightcur.cur
+END
+xap_Win32Res_DlgHistory.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/29582/abiword/trunk/src/af/xap/win/xap_Win32Res_DlgHistory.rc2
+END
+xap_Win32AppImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/23878/abiword/trunk/src/af/xap/win/xap_Win32AppImpl.h
+END
+hand1.cur
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/11736/abiword/trunk/src/af/xap/win/hand1.cur
+END
+xap_Win32Slurp.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/29610/abiword/trunk/src/af/xap/win/xap_Win32Slurp.h
+END
+xap_Win32FrameImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/29593/abiword/trunk/src/af/xap/win/xap_Win32FrameImpl.cpp
+END
+xap_Win32Dlg_Language.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/28487/abiword/trunk/src/af/xap/win/xap_Win32Dlg_Language.h
+END
+xap_Win32Resources.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/13375/abiword/trunk/src/af/xap/win/xap_Win32Resources.rc2
+END
+xap_Win32Dlg_PluginManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28487/abiword/trunk/src/af/xap/win/xap_Win32Dlg_PluginManager.cpp
+END
+xap_Win32Dlg_Encoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/23891/abiword/trunk/src/af/xap/win/xap_Win32Dlg_Encoding.h
+END
+xap_Win32PropertySheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28487/abiword/trunk/src/af/xap/win/xap_Win32PropertySheet.h
+END
+xap_Win32Dlg_ClipArt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/19756/abiword/trunk/src/af/xap/win/xap_Win32Dlg_ClipArt.cpp
+END
+xap_Win32LabelledSeparator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28495/abiword/trunk/src/af/xap/win/xap_Win32LabelledSeparator.cpp
+END
+xap_Win32EncodingManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/23882/abiword/trunk/src/af/xap/win/xap_Win32EncodingManager.h
+END
+xap_Win32Res_DlgImage.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/29582/abiword/trunk/src/af/xap/win/xap_Win32Res_DlgImage.rc2
+END
+xap_Win32Dlg_Print.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/28487/abiword/trunk/src/af/xap/win/xap_Win32Dlg_Print.h
+END
+xap_Win32Dlg_PrintPreview.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/23891/abiword/trunk/src/af/xap/win/xap_Win32Dlg_PrintPreview.h
+END
+xap_Win32DragAndDrop.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/19756/abiword/trunk/src/af/xap/win/xap_Win32DragAndDrop.h
+END
+xap_Win32DialogBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/29678/abiword/trunk/src/af/xap/win/xap_Win32DialogBase.cpp
+END
+xap_Win32Dlg_FileOpenSaveAs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/29669/abiword/trunk/src/af/xap/win/xap_Win32Dlg_FileOpenSaveAs.cpp
+END
+xap_Win32Module.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/23880/abiword/trunk/src/af/xap/win/xap_Win32Module.h
+END
+exchange.cur
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5798/abiword/trunk/src/af/xap/win/exchange.cur
+END
+xap_Win32AppImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/29661/abiword/trunk/src/af/xap/win/xap_Win32AppImpl.cpp
+END
+xap_Win32Dlg_Stub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/19756/abiword/trunk/src/af/xap/win/xap_Win32Dlg_Stub.cpp
+END
+xap_Win32DialogHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/29687/abiword/trunk/src/af/xap/win/xap_Win32DialogHelper.h
+END
+xap_Win32Res_DlgDocComparison.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/29582/abiword/trunk/src/af/xap/win/xap_Win32Res_DlgDocComparison.rc2
+END
+xap_Win32Res_DlgFont.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/29582/abiword/trunk/src/af/xap/win/xap_Win32Res_DlgFont.rc2
+END
+xap_Win32Dlg_Encoding.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28487/abiword/trunk/src/af/xap/win/xap_Win32Dlg_Encoding.cpp
+END
+xap_Win32Dlg_Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/23891/abiword/trunk/src/af/xap/win/xap_Win32Dlg_Image.h
+END
+xap_Win32FontPreview.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/23891/abiword/trunk/src/af/xap/win/xap_Win32FontPreview.h
+END
+xap_Win32Res_Cursors.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/14310/abiword/trunk/src/af/xap/win/xap_Win32Res_Cursors.rc2
+END
+xap_Win32Dlg_Zoom.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/23891/abiword/trunk/src/af/xap/win/xap_Win32Dlg_Zoom.h
+END
+xap_Win32Dlg_Insert_Symbol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28495/abiword/trunk/src/af/xap/win/xap_Win32Dlg_Insert_Symbol.cpp
+END
+xap_Win32Dlg_FontChooser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/29626/abiword/trunk/src/af/xap/win/xap_Win32Dlg_FontChooser.cpp
+END
+xap_Win32Dlg_Print.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28495/abiword/trunk/src/af/xap/win/xap_Win32Dlg_Print.cpp
+END
+xap_Win32Features.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/21589/abiword/trunk/src/af/xap/win/xap_Win32Features.h
+END
+xap_Win32Dlg_ListDocuments.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/29585/abiword/trunk/src/af/xap/win/xap_Win32Dlg_ListDocuments.cpp
+END
+xap_Win32Dlg_PrintPreview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/29680/abiword/trunk/src/af/xap/win/xap_Win32Dlg_PrintPreview.cpp
+END
+xap_Win32Dlg_PluginManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/23891/abiword/trunk/src/af/xap/win/xap_Win32Dlg_PluginManager.h
+END
+xap_Win32Res_DlgHTMLOptions.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/29995/abiword/trunk/src/af/xap/win/xap_Win32Res_DlgHTMLOptions.rc2
+END
+xap_Win32PreviewWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28495/abiword/trunk/src/af/xap/win/xap_Win32PreviewWidget.cpp
+END
+xap_Win32Dlg_History.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/29679/abiword/trunk/src/af/xap/win/xap_Win32Dlg_History.cpp
+END
+xap_Win32LabelledSeparator.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/19756/abiword/trunk/src/af/xap/win/xap_Win32LabelledSeparator.h
+END
+xap_Win32Res_DlgEncoding.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/29582/abiword/trunk/src/af/xap/win/xap_Win32Res_DlgEncoding.rc2
+END
+xap_Win32Dlg_DocComparison.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28487/abiword/trunk/src/af/xap/win/xap_Win32Dlg_DocComparison.h
+END
+xap_Win32Dlg_Password.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/23891/abiword/trunk/src/af/xap/win/xap_Win32Dlg_Password.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/26814/abiword/trunk/src/af/xap/win/Makefile.am
+END
+xap_Win32Toolbar_Icons.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30574/abiword/trunk/src/af/xap/win/xap_Win32Toolbar_Icons.cpp
+END
+xap_Win32Clipboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28470/abiword/trunk/src/af/xap/win/xap_Win32Clipboard.cpp
+END
+xap_Win32Res_DlgPlugin.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/29582/abiword/trunk/src/af/xap/win/xap_Win32Res_DlgPlugin.rc2
+END

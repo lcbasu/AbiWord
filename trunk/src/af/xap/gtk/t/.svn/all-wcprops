@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/30515/abiword/trunk/src/af/xap/gtk/t
+END
+xap_UnixWidget.t.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30395/abiword/trunk/src/af/xap/gtk/t/xap_UnixWidget.t.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30515/abiword/trunk/src/af/xap/gtk/t/Makefile.am
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/30599/abiword/trunk/src/wp/test/unix
+END
+all_test_unix.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30515/abiword/trunk/src/wp/test/unix/all_test_unix.h
+END
+test_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30515/abiword/trunk/src/wp/test/unix/test_main.cpp
+END
+testwrap.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30553/abiword/trunk/src/wp/test/unix/testwrap.sh.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30515/abiword/trunk/src/wp/test/unix/Makefile.am
+END

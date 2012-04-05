@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/29430/abiword/trunk/plugins/collab/backends/xmpp/xp
+END
+XMPPAccountHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/29430/abiword/trunk/plugins/collab/backends/xmpp/xp/XMPPAccountHandler.cpp
+END
+XMPPBuddy.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/26134/abiword/trunk/plugins/collab/backends/xmpp/xp/XMPPBuddy.h
+END
+XMPPAccountHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/27607/abiword/trunk/plugins/collab/backends/xmpp/xp/XMPPAccountHandler.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/26134/abiword/trunk/plugins/collab/backends/xmpp/xp/Makefile.am
+END

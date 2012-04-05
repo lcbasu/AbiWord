@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/30599/abiword/trunk/src/wp/test/win
+END
+test_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/19756/abiword/trunk/src/wp/test/win/test_main.cpp
+END
+testwrap.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/16977/abiword/trunk/src/wp/test/win/testwrap.sh.in
+END

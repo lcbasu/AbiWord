@@ -1,0 +1,581 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/30697/abiword/trunk/src/af/xap/cocoa
+END
+xap_CocoaDlg_Print.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30657/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_Print.cpp
+END
+xap_CocoaDlg_ListDocuments.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/25827/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_ListDocuments.cpp
+END
+xap_CocoaDlg_PluginManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/19842/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_PluginManager.h
+END
+xap_CocoaModule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30547/abiword/trunk/src/af/xap/cocoa/xap_CocoaModule.cpp
+END
+xap_CocoaDlg_History.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30521/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_History.cpp
+END
+xap_CocoaDlg_MessageBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_MessageBox.h
+END
+xap_CocoaWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_CocoaWidget.h
+END
+xap_CocoaAbiConversions.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_CocoaAbiConversions.h
+END
+xap_CocoaDlg_DocComparison.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_DocComparison.h
+END
+xap_Cocoa_ResourceIDs.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_Cocoa_ResourceIDs.h
+END
+xap_CocoaToolbar_Icons.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30574/abiword/trunk/src/af/xap/cocoa/xap_CocoaToolbar_Icons.cpp
+END
+xap_GenericListChooser_Controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_GenericListChooser_Controller.h
+END
+xap_CocoaFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/27202/abiword/trunk/src/af/xap/cocoa/xap_CocoaFrame.h
+END
+xap_CocoaDlg_FileOpenSaveAs.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/27394/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_FileOpenSaveAs.h
+END
+xap_CocoaClipboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/21477/abiword/trunk/src/af/xap/cocoa/xap_CocoaClipboard.cpp
+END
+xap_CocoaDialog_Utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/27156/abiword/trunk/src/af/xap/cocoa/xap_CocoaDialog_Utilities.h
+END
+xap_CocoaToolbarWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_CocoaToolbarWindow.h
+END
+xap_CocoaToolPalette.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/29732/abiword/trunk/src/af/xap/cocoa/xap_CocoaToolPalette.h
+END
+xap_CocoaAssert.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_CocoaAssert.h
+END
+xap_CocoaDlg_Image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/27438/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_Image.cpp
+END
+xap_CocoaDlg_HTMLOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_HTMLOptions.h
+END
+xap_Cocoa_NSTableUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/26424/abiword/trunk/src/af/xap/cocoa/xap_Cocoa_NSTableUtils.h
+END
+xap_CocoaDlg_Language.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/27524/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_Language.h
+END
+xap_CocoaTextView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30697/abiword/trunk/src/af/xap/cocoa/xap_CocoaTextView.cpp
+END
+xap_CocoaDlg_Encoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_Encoding.h
+END
+xap_PrintingNSView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30565/abiword/trunk/src/af/xap/cocoa/xap_PrintingNSView.cpp
+END
+xap_CocoaDlg_Insert_Symbol.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/25827/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_Insert_Symbol.h
+END
+xap_CocoaAbiConversions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/21477/abiword/trunk/src/af/xap/cocoa/xap_CocoaAbiConversions.cpp
+END
+xap_CocoaDlg_FontChooser.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/27525/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_FontChooser.h
+END
+xap_CocoaApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30574/abiword/trunk/src/af/xap/cocoa/xap_CocoaApp.h
+END
+xap_Cocoa_ResourceIDs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/21477/abiword/trunk/src/af/xap/cocoa/xap_Cocoa_ResourceIDs.cpp
+END
+xap_CocoaDlg_DocComparison.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/25830/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_DocComparison.cpp
+END
+xap_CocoaDlg_ListDocuments.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_ListDocuments.h
+END
+xap_CocoaCompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30658/abiword/trunk/src/af/xap/cocoa/xap_CocoaCompat.h
+END
+xap_CocoaDlg_PrintPreview.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_PrintPreview.h
+END
+xap_CocoaDialog_Utilities.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/30565/abiword/trunk/src/af/xap/cocoa/xap_CocoaDialog_Utilities.cpp
+END
+xap_CocoaDlg_FileOpenSaveAs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/27394/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_FileOpenSaveAs.cpp
+END
+xap_CocoaFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/27618/abiword/trunk/src/af/xap/cocoa/xap_CocoaFrame.cpp
+END
+xap_CocoaModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/28632/abiword/trunk/src/af/xap/cocoa/xap_CocoaModule.h
+END
+xap_CocoaToolbarWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/25856/abiword/trunk/src/af/xap/cocoa/xap_CocoaToolbarWindow.cpp
+END
+xap_CocoaDlg_History.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/27419/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_History.h
+END
+xap_CocoaToolPalette.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30565/abiword/trunk/src/af/xap/cocoa/xap_CocoaToolPalette.cpp
+END
+xap_CocoaToolbar_Icons.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30574/abiword/trunk/src/af/xap/cocoa/xap_CocoaToolbar_Icons.h
+END
+xap_CocoaClipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/26424/abiword/trunk/src/af/xap/cocoa/xap_CocoaClipboard.h
+END
+xap_CocoaDlg_About.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_About.h
+END
+xap_CocoaDlg_HTMLOptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/25829/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_HTMLOptions.cpp
+END
+xap_CocoaWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/26913/abiword/trunk/src/af/xap/cocoa/xap_CocoaWindow.cpp
+END
+xap_Cocoa_NSTableUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30565/abiword/trunk/src/af/xap/cocoa/xap_Cocoa_NSTableUtils.cpp
+END
+xap_CocoaDlg_Encoding.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/25827/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_Encoding.cpp
+END
+xap_CocoaDlg_Zoom.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/27477/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_Zoom.h
+END
+xap_CocoaApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30574/abiword/trunk/src/af/xap/cocoa/xap_CocoaApp.cpp
+END
+xap_CocoaEncodingManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/26424/abiword/trunk/src/af/xap/cocoa/xap_CocoaEncodingManager.cpp
+END
+xap_CocoaFrameImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28631/abiword/trunk/src/af/xap/cocoa/xap_CocoaFrameImpl.h
+END
+xap_CocoaFeatures.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/27202/abiword/trunk/src/af/xap/cocoa/xap_CocoaFeatures.h
+END
+xap_CocoaDlg_PrintPreview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/21477/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_PrintPreview.cpp
+END
+xap_CocoaTextView.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_CocoaTextView.h
+END
+xap_CocoaTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_CocoaTimer.h
+END
+xap_PrintingNSView.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_PrintingNSView.h
+END
+xap_CocoaDlg_ClipArt.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_ClipArt.h
+END
+xap_CocoaAppController.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/27202/abiword/trunk/src/af/xap/cocoa/xap_CocoaAppController.h
+END
+xap_CocoaDialogFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_CocoaDialogFactory.h
+END
+xap_CocoaToolProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_CocoaToolProvider.h
+END
+xap_CocoaDlg_Password.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_Password.h
+END
+xap_CocoaDlg_About.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/26821/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_About.cpp
+END
+xap_CocoaPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30565/abiword/trunk/src/af/xap/cocoa/xap_CocoaPlugin.h
+END
+xap_CocoaAppImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_CocoaAppImpl.h
+END
+xap_CocoaDlg_Zoom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/27477/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_Zoom.cpp
+END
+xap_CocoaFrameImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30657/abiword/trunk/src/af/xap/cocoa/xap_CocoaFrameImpl.cpp
+END
+xap_CocoaWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22090/abiword/trunk/src/af/xap/cocoa/xap_CocoaWindow.h
+END
+xap_CocoaDlg_PluginManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/30032/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_PluginManager.cpp
+END
+xap_CocoaTimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/21477/abiword/trunk/src/af/xap/cocoa/xap_CocoaTimer.cpp
+END
+xap_CocoaDlg_MessageBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30565/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_MessageBox.cpp
+END
+xap_CocoaWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/25827/abiword/trunk/src/af/xap/cocoa/xap_CocoaWidget.cpp
+END
+xap_FrameNSWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_FrameNSWindow.h
+END
+xap_CocoaAppController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30565/abiword/trunk/src/af/xap/cocoa/xap_CocoaAppController.cpp
+END
+xap_CocoaDlg_ClipArt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30565/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_ClipArt.cpp
+END
+xap_CocoaDlg_WindowMore.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_WindowMore.h
+END
+xap_PrintingDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_PrintingDelegate.h
+END
+xap_CocoaEncodingManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_CocoaEncodingManager.h
+END
+xap_CocoaDlg_Print.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/27202/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_Print.h
+END
+xap_CocoaDlg_Password.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28364/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_Password.cpp
+END
+xap_CocoaToolProvider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/25829/abiword/trunk/src/af/xap/cocoa/xap_CocoaToolProvider.cpp
+END
+xap_GenericListChooser_Controller.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/29730/abiword/trunk/src/af/xap/cocoa/xap_GenericListChooser_Controller.cpp
+END
+xap_CocoaPlugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/27472/abiword/trunk/src/af/xap/cocoa/xap_CocoaPlugin.cpp
+END
+xap_CocoaAssert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/21477/abiword/trunk/src/af/xap/cocoa/xap_CocoaAssert.cpp
+END
+xap_CocoaAppImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/21477/abiword/trunk/src/af/xap/cocoa/xap_CocoaAppImpl.cpp
+END
+xap_Cocoa_TB_CFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/19756/abiword/trunk/src/af/xap/cocoa/xap_Cocoa_TB_CFactory.h
+END
+xap_CocoaTools.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/15239/abiword/trunk/src/af/xap/cocoa/xap_CocoaTools.h
+END
+xap_CocoaDlg_Language.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/29730/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_Language.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/28574/abiword/trunk/src/af/xap/cocoa/Makefile.am
+END
+xap_CocoaDlg_Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/27438/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_Image.h
+END
+xap_FrameNSWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/21477/abiword/trunk/src/af/xap/cocoa/xap_FrameNSWindow.cpp
+END
+xap_CocoaDlg_Insert_Symbol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/27202/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_Insert_Symbol.cpp
+END
+xap_CocoaDlg_FontChooser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/29730/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_FontChooser.cpp
+END
+xap_CocoaDlg_WindowMore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/25827/abiword/trunk/src/af/xap/cocoa/xap_CocoaDlg_WindowMore.cpp
+END
+xap_PrintingDelegate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/21477/abiword/trunk/src/af/xap/cocoa/xap_PrintingDelegate.cpp
+END

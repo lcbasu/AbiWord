@@ -1,0 +1,47 @@
+K 10
+svn:ignore
+V 467
+nbproject
+Makefile
+Makefile.in
+configure
+depcomp
+autogen.err
+config.*
+ltmain.sh
+INSTALL
+plugin-configure.m4
+plugin-makefiles.m4
+plugin-list.m4
+aclocal.m4
+libabiword.pc
+stamp-*
+autom4te.cache
+libtool
+missing
+install-sh
+doltlibtool
+doltcompile
+plugin-builtin.m4
+libtool.m4
+shave-libtool
+ax_boost_base.m4
+ltsugar.m4
+ltversion.m4
+ltoptions.m4
+shave
+abiword-?.?.pc
+.gsf-save-VJORWV
+.gsf-save-C9KNWV
+lt~obsolete.m4
+.project
+.cproject
+.gsf-save-B216YV
+.gsf-save-Z9AYYV
+tags
+
+K 19
+svnmerge-integrated
+V 36
+/abiword/branches/RiveraESoC:1-21989
+END

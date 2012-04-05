@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 34
+.libs
+.deps
+Makefile.in
+Makefile
+
+
+END

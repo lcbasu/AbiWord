@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/30403/abiword/trunk/goffice-bits/goffice/utils
+END
+go-cairo.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30386/abiword/trunk/goffice-bits/goffice/utils/go-cairo.c
+END
+go-locale.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30386/abiword/trunk/goffice-bits/goffice/utils/go-locale.c
+END
+go-marshalers.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30403/abiword/trunk/goffice-bits/goffice/utils/go-marshalers.c
+END
+goffice-utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30385/abiword/trunk/goffice-bits/goffice/utils/goffice-utils.h
+END
+go-cairo.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30386/abiword/trunk/goffice-bits/goffice/utils/go-cairo.h
+END
+go-locale.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30386/abiword/trunk/goffice-bits/goffice/utils/go-locale.h
+END
+go-marshalers.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/18766/abiword/trunk/goffice-bits/goffice/utils/go-marshalers.h
+END
+go-color.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30385/abiword/trunk/goffice-bits/goffice/utils/go-color.c
+END
+go-file.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30403/abiword/trunk/goffice-bits/goffice/utils/go-file.c
+END
+go-glib-extras.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30403/abiword/trunk/goffice-bits/goffice/utils/go-glib-extras.c
+END
+go-image.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30403/abiword/trunk/goffice-bits/goffice/utils/go-image.c
+END
+go-color.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30385/abiword/trunk/goffice-bits/goffice/utils/go-color.h
+END
+go-file.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30403/abiword/trunk/goffice-bits/goffice/utils/go-file.h
+END
+go-glib-extras.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30385/abiword/trunk/goffice-bits/goffice/utils/go-glib-extras.h
+END
+go-image.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30385/abiword/trunk/goffice-bits/goffice/utils/go-image.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/25101/abiword/trunk/plugins/opml/xp
+END
+ie_imp_OPML.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/25101/abiword/trunk/plugins/opml/xp/ie_imp_OPML.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/23803/abiword/trunk/plugins/opml/xp/Makefile.am
+END
+ie_imp_OPML.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/24492/abiword/trunk/plugins/opml/xp/ie_imp_OPML.cpp
+END

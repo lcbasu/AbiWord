@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/30602/abiword/trunk/goffice-bits/goffice/app
+END
+error-info.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30386/abiword/trunk/goffice-bits/goffice/app/error-info.c
+END
+goffice-app.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30602/abiword/trunk/goffice-bits/goffice/app/goffice-app.h
+END
+error-info.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30386/abiword/trunk/goffice-bits/goffice/app/error-info.h
+END
+go-cmd-context.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30403/abiword/trunk/goffice-bits/goffice/app/go-cmd-context.c
+END
+go-cmd-context-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/30385/abiword/trunk/goffice-bits/goffice/app/go-cmd-context-impl.h
+END
+go-cmd-context.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30385/abiword/trunk/goffice-bits/goffice/app/go-cmd-context.h
+END

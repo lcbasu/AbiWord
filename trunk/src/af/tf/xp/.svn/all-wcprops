@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/30515/abiword/trunk/src/af/tf/xp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/30515/abiword/trunk/src/af/tf/xp/Makefile.am
+END
+tf_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/19780/abiword/trunk/src/af/tf/xp/tf_test.cpp
+END
+tf_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/30515/abiword/trunk/src/af/tf/xp/tf_test.h
+END

@@ -1,0 +1,629 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/30714/abiword/trunk/src/text/ptbl/xp
+END
+pf_Frag_Object.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30577/abiword/trunk/src/text/ptbl/xp/pf_Frag_Object.h
+END
+pl_ListenerCoupleCloser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30582/abiword/trunk/src/text/ptbl/xp/pl_ListenerCoupleCloser.cpp
+END
+pd_RDFSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30703/abiword/trunk/src/text/ptbl/xp/pd_RDFSupport.h
+END
+pt_PT_ChangeStrux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30575/abiword/trunk/src/text/ptbl/xp/pt_PT_ChangeStrux.cpp
+END
+po_Bookmark.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/25455/abiword/trunk/src/text/ptbl/xp/po_Bookmark.cpp
+END
+px_CR_TestRoutines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/20222/abiword/trunk/src/text/ptbl/xp/px_CR_TestRoutines.cpp
+END
+pt_PieceTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30576/abiword/trunk/src/text/ptbl/xp/pt_PieceTable.h
+END
+px_CR_Object.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30577/abiword/trunk/src/text/ptbl/xp/px_CR_Object.h
+END
+px_CR_ObjectChange.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/19756/abiword/trunk/src/text/ptbl/xp/px_CR_ObjectChange.cpp
+END
+pf_Frag_Strux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30576/abiword/trunk/src/text/ptbl/xp/pf_Frag_Strux.cpp
+END
+pt_Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30576/abiword/trunk/src/text/ptbl/xp/pt_Types.h
+END
+pt_VarSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22175/abiword/trunk/src/text/ptbl/xp/pt_VarSet.h
+END
+pt_PT_ChangeSpan.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30533/abiword/trunk/src/text/ptbl/xp/pt_PT_ChangeSpan.cpp
+END
+pt_PT_TestRoutines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/19756/abiword/trunk/src/text/ptbl/xp/pt_PT_TestRoutines.cpp
+END
+px_CR_DataItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/19756/abiword/trunk/src/text/ptbl/xp/px_CR_DataItem.cpp
+END
+px_CR_Strux.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/19809/abiword/trunk/src/text/ptbl/xp/px_CR_Strux.h
+END
+px_CR_StruxChange.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/19756/abiword/trunk/src/text/ptbl/xp/px_CR_StruxChange.cpp
+END
+pd_RDFQuery.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30301/abiword/trunk/src/text/ptbl/xp/pd_RDFQuery.h
+END
+pd_RDFSupport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30714/abiword/trunk/src/text/ptbl/xp/pd_RDFSupport.cpp
+END
+px_CR_FmtMark.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/19756/abiword/trunk/src/text/ptbl/xp/px_CR_FmtMark.cpp
+END
+px_CR_Span.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/19756/abiword/trunk/src/text/ptbl/xp/px_CR_Span.cpp
+END
+px_CR_Object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30630/abiword/trunk/src/text/ptbl/xp/px_CR_Object.cpp
+END
+pl_ListenerCoupleCloser.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30576/abiword/trunk/src/text/ptbl/xp/pl_ListenerCoupleCloser.h
+END
+pt_VarSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/25101/abiword/trunk/src/text/ptbl/xp/pt_VarSet.cpp
+END
+pf_Frag_Text.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30356/abiword/trunk/src/text/ptbl/xp/pf_Frag_Text.cpp
+END
+pp_AttrProp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/29596/abiword/trunk/src/text/ptbl/xp/pp_AttrProp.cpp
+END
+pd_Iterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30575/abiword/trunk/src/text/ptbl/xp/pd_Iterator.cpp
+END
+pt_PT_InsertStrux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30648/abiword/trunk/src/text/ptbl/xp/pt_PT_InsertStrux.cpp
+END
+pl_Listener.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30576/abiword/trunk/src/text/ptbl/xp/pl_Listener.h
+END
+pp_PropertyMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30648/abiword/trunk/src/text/ptbl/xp/pp_PropertyMap.h
+END
+pd_Style.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/25456/abiword/trunk/src/text/ptbl/xp/pd_Style.h
+END
+pf_Frag_Strux_Block.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/19756/abiword/trunk/src/text/ptbl/xp/pf_Frag_Strux_Block.h
+END
+pp_Property.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/28896/abiword/trunk/src/text/ptbl/xp/pp_Property.h
+END
+pd_Document_TestRoutines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/19756/abiword/trunk/src/text/ptbl/xp/pd_Document_TestRoutines.cpp
+END
+pt_PT_Styles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/29375/abiword/trunk/src/text/ptbl/xp/pt_PT_Styles.cpp
+END
+px_CH_TestRoutines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/19756/abiword/trunk/src/text/ptbl/xp/px_CH_TestRoutines.cpp
+END
+pt_PT_DeleteSpan.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30582/abiword/trunk/src/text/ptbl/xp/pt_PT_DeleteSpan.cpp
+END
+pt_PT_Listener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30583/abiword/trunk/src/text/ptbl/xp/pt_PT_Listener.cpp
+END
+px_CR_StruxChange.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/19809/abiword/trunk/src/text/ptbl/xp/px_CR_StruxChange.h
+END
+fd_Field.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30575/abiword/trunk/src/text/ptbl/xp/fd_Field.cpp
+END
+pt_PT_DeleteObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30577/abiword/trunk/src/text/ptbl/xp/pt_PT_DeleteObject.cpp
+END
+px_ChangeRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/29358/abiword/trunk/src/text/ptbl/xp/px_ChangeRecord.h
+END
+px_CR_FmtMark.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/19809/abiword/trunk/src/text/ptbl/xp/px_CR_FmtMark.h
+END
+px_CR_Span.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/19809/abiword/trunk/src/text/ptbl/xp/px_CR_Span.h
+END
+pf_Frag_Strux_Section.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/29358/abiword/trunk/src/text/ptbl/xp/pf_Frag_Strux_Section.h
+END
+px_CR_FmtMarkChange.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/19756/abiword/trunk/src/text/ptbl/xp/px_CR_FmtMarkChange.cpp
+END
+px_CR_SpanChange.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/19756/abiword/trunk/src/text/ptbl/xp/px_CR_SpanChange.cpp
+END
+pf_Frag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30569/abiword/trunk/src/text/ptbl/xp/pf_Frag.cpp
+END
+pp_Author.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/26764/abiword/trunk/src/text/ptbl/xp/pp_Author.h
+END
+pd_Document.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30606/abiword/trunk/src/text/ptbl/xp/pd_Document.h
+END
+px_CR_DocProp.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/19756/abiword/trunk/src/text/ptbl/xp/px_CR_DocProp.h
+END
+pt_PT_FmtMark.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30533/abiword/trunk/src/text/ptbl/xp/pt_PT_FmtMark.cpp
+END
+pt_PT_Undo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/28855/abiword/trunk/src/text/ptbl/xp/pt_PT_Undo.cpp
+END
+pt_PT_Append.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30356/abiword/trunk/src/text/ptbl/xp/pt_PT_Append.cpp
+END
+pf_Frag_Text.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30356/abiword/trunk/src/text/ptbl/xp/pf_Frag_Text.h
+END
+pt_PT_DeleteStrux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30587/abiword/trunk/src/text/ptbl/xp/pt_PT_DeleteStrux.cpp
+END
+px_CR_Glob.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/19756/abiword/trunk/src/text/ptbl/xp/px_CR_Glob.cpp
+END
+px_ChangeHistory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/26210/abiword/trunk/src/text/ptbl/xp/px_ChangeHistory.cpp
+END
+pp_AttrProp.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/25455/abiword/trunk/src/text/ptbl/xp/pp_AttrProp.h
+END
+pf_Fragments.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30587/abiword/trunk/src/text/ptbl/xp/pf_Fragments.h
+END
+pp_PropertyMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30648/abiword/trunk/src/text/ptbl/xp/pp_PropertyMap.cpp
+END
+pd_Iterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30575/abiword/trunk/src/text/ptbl/xp/pd_Iterator.h
+END
+pt_PT_ChangeObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/25442/abiword/trunk/src/text/ptbl/xp/pt_PT_ChangeObject.cpp
+END
+pp_TableAttrProp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/25101/abiword/trunk/src/text/ptbl/xp/pp_TableAttrProp.cpp
+END
+pp_Property.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30600/abiword/trunk/src/text/ptbl/xp/pp_Property.cpp
+END
+pd_Style.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/25456/abiword/trunk/src/text/ptbl/xp/pd_Style.cpp
+END
+pf_Frag_Strux_Block.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/19756/abiword/trunk/src/text/ptbl/xp/pf_Frag_Strux_Block.cpp
+END
+pt_PT_Glob.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/19756/abiword/trunk/src/text/ptbl/xp/pt_PT_Glob.cpp
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/15021/abiword/trunk/src/text/ptbl/xp/README.TXT
+END
+pf_Frag_FmtMark.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/19756/abiword/trunk/src/text/ptbl/xp/pf_Frag_FmtMark.h
+END
+pf_Frag_Object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30577/abiword/trunk/src/text/ptbl/xp/pf_Frag_Object.cpp
+END
+px_ChangeRecord.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/29378/abiword/trunk/src/text/ptbl/xp/px_ChangeRecord.cpp
+END
+pt_PT_InsertSpan.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/29387/abiword/trunk/src/text/ptbl/xp/pt_PT_InsertSpan.cpp
+END
+pf_Frag_Strux_Section.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/21991/abiword/trunk/src/text/ptbl/xp/pf_Frag_Strux_Section.cpp
+END
+pt_PieceTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30587/abiword/trunk/src/text/ptbl/xp/pt_PieceTable.cpp
+END
+px_CR_Style.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/19809/abiword/trunk/src/text/ptbl/xp/px_CR_Style.h
+END
+pt_PT_InsertObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30577/abiword/trunk/src/text/ptbl/xp/pt_PT_InsertObject.cpp
+END
+pp_Author.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/26764/abiword/trunk/src/text/ptbl/xp/pp_Author.cpp
+END
+pd_Document.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30666/abiword/trunk/src/text/ptbl/xp/pd_Document.cpp
+END
+fd_Field.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/25455/abiword/trunk/src/text/ptbl/xp/fd_Field.h
+END
+px_CR_DocProp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/19756/abiword/trunk/src/text/ptbl/xp/px_CR_DocProp.cpp
+END
+pp_Revision.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30356/abiword/trunk/src/text/ptbl/xp/pp_Revision.h
+END
+pd_DocumentRDF.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30697/abiword/trunk/src/text/ptbl/xp/pd_DocumentRDF.h
+END
+px_CR_FmtMarkChange.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/19809/abiword/trunk/src/text/ptbl/xp/px_CR_FmtMarkChange.h
+END
+px_CR_SpanChange.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/19809/abiword/trunk/src/text/ptbl/xp/px_CR_SpanChange.h
+END
+po_Bookmark.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/25455/abiword/trunk/src/text/ptbl/xp/po_Bookmark.h
+END
+pf_Frag.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/30356/abiword/trunk/src/text/ptbl/xp/pf_Frag.h
+END
+pf_Fragments.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30631/abiword/trunk/src/text/ptbl/xp/pf_Fragments.cpp
+END
+px_CR_ObjectChange.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/19809/abiword/trunk/src/text/ptbl/xp/px_CR_ObjectChange.h
+END
+pf_Frag_Strux.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30576/abiword/trunk/src/text/ptbl/xp/pf_Frag_Strux.h
+END
+pf_Frags_TestRoutines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/19756/abiword/trunk/src/text/ptbl/xp/pf_Frags_TestRoutines.cpp
+END
+px_CR_Strux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/19756/abiword/trunk/src/text/ptbl/xp/px_CR_Strux.cpp
+END
+px_CR_Glob.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/19809/abiword/trunk/src/text/ptbl/xp/px_CR_Glob.h
+END
+px_ChangeHistory.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22806/abiword/trunk/src/text/ptbl/xp/px_ChangeHistory.h
+END
+pd_RDFQuery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30697/abiword/trunk/src/text/ptbl/xp/pd_RDFQuery.cpp
+END
+pf_Frag_FmtMark.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/19756/abiword/trunk/src/text/ptbl/xp/pf_Frag_FmtMark.cpp
+END
+pp_TableAttrProp.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/25101/abiword/trunk/src/text/ptbl/xp/pp_TableAttrProp.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30606/abiword/trunk/src/text/ptbl/xp/Makefile.am
+END
+px_CR_DataItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19809/abiword/trunk/src/text/ptbl/xp/px_CR_DataItem.h
+END
+pd_RDFSupportRed.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30318/abiword/trunk/src/text/ptbl/xp/pd_RDFSupportRed.h
+END
+px_CR_Style.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/19756/abiword/trunk/src/text/ptbl/xp/px_CR_Style.cpp
+END
+pf_Frag_TestRoutines.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22358/abiword/trunk/src/text/ptbl/xp/pf_Frag_TestRoutines.cpp
+END
+pp_Revision.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30631/abiword/trunk/src/text/ptbl/xp/pp_Revision.cpp
+END
+pd_DocumentRDF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30714/abiword/trunk/src/text/ptbl/xp/pd_DocumentRDF.cpp
+END

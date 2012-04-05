@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/30487/abiword/trunk/plugins/goffice/unix
+END
+AbiGOffice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30487/abiword/trunk/plugins/goffice/unix/AbiGOffice.cpp
+END
+ie_imp_GOChart.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/23915/abiword/trunk/plugins/goffice/unix/ie_imp_GOChart.h
+END
+ie_imp_GOComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30409/abiword/trunk/plugins/goffice/unix/ie_imp_GOComponent.h
+END
+AbiGOChart.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30467/abiword/trunk/plugins/goffice/unix/AbiGOChart.cpp
+END
+AbiGOffice.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/28460/abiword/trunk/plugins/goffice/unix/AbiGOffice.h
+END
+AbiGOComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30487/abiword/trunk/plugins/goffice/unix/AbiGOComponent.cpp
+END
+AbiGOChart.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/29040/abiword/trunk/plugins/goffice/unix/AbiGOChart.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/23803/abiword/trunk/plugins/goffice/unix/Makefile.am
+END
+AbiGOComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30487/abiword/trunk/plugins/goffice/unix/AbiGOComponent.h
+END
+ie_imp_GOChart.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/25302/abiword/trunk/plugins/goffice/unix/ie_imp_GOChart.cpp
+END
+ie_imp_GOComponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30487/abiword/trunk/plugins/goffice/unix/ie_imp_GOComponent.cpp
+END

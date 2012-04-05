@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/30576/abiword/trunk/plugins/docbook
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30459/abiword/trunk/plugins/docbook/Makefile.am
+END
+plugin.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/28902/abiword/trunk/plugins/docbook/plugin.m4
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/30459/abiword/trunk/plugins/babelfish
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30459/abiword/trunk/plugins/babelfish/Makefile.am
+END
+plugin.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/28902/abiword/trunk/plugins/babelfish/plugin.m4
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/29990/abiword/trunk/plugins/rsvg/xp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/26880/abiword/trunk/plugins/rsvg/xp/Makefile.am
+END
+AbiRSVG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/29990/abiword/trunk/plugins/rsvg/xp/AbiRSVG.cpp
+END

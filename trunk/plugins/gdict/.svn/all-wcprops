@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/30503/abiword/trunk/plugins/gdict
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/30489/abiword/trunk/plugins/gdict/Makefile.am
+END
+plugin.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/30399/abiword/trunk/plugins/gdict/plugin.m4
+END

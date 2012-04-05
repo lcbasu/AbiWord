@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30684/abiword/trunk/plugins/collab/backends/service/xp
+END
+RealmGrowBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/23925/abiword/trunk/plugins/collab/backends/service/xp/RealmGrowBuffer.h
+END
+ap_Dialog_GenericProgress.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/27887/abiword/trunk/plugins/collab/backends/service/xp/ap_Dialog_GenericProgress.h
+END
+AbiCollabImport.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/26945/abiword/trunk/plugins/collab/backends/service/xp/AbiCollabImport.h
+END
+AbiCollabSaveInterceptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/27844/abiword/trunk/plugins/collab/backends/service/xp/AbiCollabSaveInterceptor.h
+END
+soa_result.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/27607/abiword/trunk/plugins/collab/backends/service/xp/soa_result.cpp
+END
+ServiceAccountHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/29463/abiword/trunk/plugins/collab/backends/service/xp/ServiceAccountHandler.h
+END
+RealmConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28695/abiword/trunk/plugins/collab/backends/service/xp/RealmConnection.h
+END
+RealmProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/26560/abiword/trunk/plugins/collab/backends/service/xp/RealmProtocol.h
+END
+soa_soup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28231/abiword/trunk/plugins/collab/backends/service/xp/soa_soup.cpp
+END
+ServiceErrorCodes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/26054/abiword/trunk/plugins/collab/backends/service/xp/ServiceErrorCodes.cpp
+END
+tls_tunnel.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/27137/abiword/trunk/plugins/collab/backends/service/xp/tls_tunnel.h
+END
+ServiceBuddy.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/27607/abiword/trunk/plugins/collab/backends/service/xp/ServiceBuddy.h
+END
+RealmBuddy.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/27607/abiword/trunk/plugins/collab/backends/service/xp/RealmBuddy.h
+END
+AbiCollabService_Export.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/30576/abiword/trunk/plugins/collab/backends/service/xp/AbiCollabService_Export.h
+END
+ap_Dialog_GenericProgress.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/23925/abiword/trunk/plugins/collab/backends/service/xp/ap_Dialog_GenericProgress.cpp
+END
+ap_Dialog_GenericInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/27698/abiword/trunk/plugins/collab/backends/service/xp/ap_Dialog_GenericInput.h
+END
+abicollab_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28375/abiword/trunk/plugins/collab/backends/service/xp/abicollab_types.h
+END
+AbiCollabImport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28866/abiword/trunk/plugins/collab/backends/service/xp/AbiCollabImport.cpp
+END
+AsioRealmProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/23925/abiword/trunk/plugins/collab/backends/service/xp/AsioRealmProtocol.h
+END
+AbiCollabSaveInterceptor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/27853/abiword/trunk/plugins/collab/backends/service/xp/AbiCollabSaveInterceptor.cpp
+END
+ServiceAccountHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/30684/abiword/trunk/plugins/collab/backends/service/xp/ServiceAccountHandler.cpp
+END
+soa_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/26560/abiword/trunk/plugins/collab/backends/service/xp/soa_types.h
+END
+msc_stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/26308/abiword/trunk/plugins/collab/backends/service/xp/msc_stdint.h
+END
+AsyncWorker.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/27808/abiword/trunk/plugins/collab/backends/service/xp/AsyncWorker.h
+END
+InterruptableAsyncWorker.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/26560/abiword/trunk/plugins/collab/backends/service/xp/InterruptableAsyncWorker.h
+END
+RealmConnection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28695/abiword/trunk/plugins/collab/backends/service/xp/RealmConnection.cpp
+END
+RealmProtocol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/26560/abiword/trunk/plugins/collab/backends/service/xp/RealmProtocol.cpp
+END
+soa_result.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/26060/abiword/trunk/plugins/collab/backends/service/xp/soa_result.h
+END
+soa.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/27669/abiword/trunk/plugins/collab/backends/service/xp/soa.h
+END
+tls_tunnel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28170/abiword/trunk/plugins/collab/backends/service/xp/tls_tunnel.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/26134/abiword/trunk/plugins/collab/backends/service/xp/Makefile.am
+END
+AbiCollabService_Export.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/30576/abiword/trunk/plugins/collab/backends/service/xp/AbiCollabService_Export.cpp
+END
+ap_Dialog_GenericInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/27697/abiword/trunk/plugins/collab/backends/service/xp/ap_Dialog_GenericInput.cpp
+END
+ProgressiveSoapCall.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/27664/abiword/trunk/plugins/collab/backends/service/xp/ProgressiveSoapCall.h
+END
+ServiceErrorCodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/27607/abiword/trunk/plugins/collab/backends/service/xp/ServiceErrorCodes.h
+END
+soa_soup.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/27662/abiword/trunk/plugins/collab/backends/service/xp/soa_soup.h
+END

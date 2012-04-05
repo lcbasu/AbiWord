@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/23803/abiword/trunk/plugins/paint/win
+END
+pngdib.readme
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22481/abiword/trunk/plugins/paint/win/pngdib.readme
+END
+pngdib.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/22481/abiword/trunk/plugins/paint/win/pngdib.c
+END
+bmp2png.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/22481/abiword/trunk/plugins/paint/win/bmp2png.cpp
+END
+png2bmp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/22481/abiword/trunk/plugins/paint/win/png2bmp.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/23803/abiword/trunk/plugins/paint/win/Makefile.am
+END
+pngdib.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/22481/abiword/trunk/plugins/paint/win/pngdib.h
+END
+ut_Win32Process.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22481/abiword/trunk/plugins/paint/win/ut_Win32Process.cpp
+END
+ut_process.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22481/abiword/trunk/plugins/paint/win/ut_process.h
+END

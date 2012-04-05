@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/29782/abiword/trunk/plugins/collab/backends/sugar/unix
+END
+SugarBuddy.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/26140/abiword/trunk/plugins/collab/backends/sugar/unix/SugarBuddy.h
+END
+SugarUnixAccountHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/29782/abiword/trunk/plugins/collab/backends/sugar/unix/SugarUnixAccountHandler.cpp
+END
+SugarUnixAccountHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/29463/abiword/trunk/plugins/collab/backends/sugar/unix/SugarUnixAccountHandler.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/26134/abiword/trunk/plugins/collab/backends/sugar/unix/Makefile.am
+END

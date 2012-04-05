@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/29463/abiword/trunk/plugins/collab/core/account/xp
+END
+AccountEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/26262/abiword/trunk/plugins/collab/core/account/xp/AccountEvent.cpp
+END
+AccountHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/29463/abiword/trunk/plugins/collab/core/account/xp/AccountHandler.h
+END
+BackendPackets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/26262/abiword/trunk/plugins/collab/core/account/xp/BackendPackets.cpp
+END
+AccountEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/26134/abiword/trunk/plugins/collab/core/account/xp/AccountEvent.h
+END
+SessionEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/26262/abiword/trunk/plugins/collab/core/account/xp/SessionEvent.cpp
+END
+DocHandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/26134/abiword/trunk/plugins/collab/core/account/xp/DocHandle.h
+END
+Event.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/26134/abiword/trunk/plugins/collab/core/account/xp/Event.h
+END
+Buddy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/26262/abiword/trunk/plugins/collab/core/account/xp/Buddy.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/26190/abiword/trunk/plugins/collab/core/account/xp/Makefile.am
+END
+DocTreeItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/26134/abiword/trunk/plugins/collab/core/account/xp/DocTreeItem.h
+END
+AccountHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/29463/abiword/trunk/plugins/collab/core/account/xp/AccountHandler.cpp
+END
+SessionEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/26164/abiword/trunk/plugins/collab/core/account/xp/SessionEvent.h
+END
+Buddy.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/27607/abiword/trunk/plugins/collab/core/account/xp/Buddy.h
+END
+EventListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/26134/abiword/trunk/plugins/collab/core/account/xp/EventListener.h
+END

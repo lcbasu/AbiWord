@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/30576/abiword/trunk/plugins/xslfo
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/30459/abiword/trunk/plugins/xslfo/Makefile.am
+END
+plugin.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/28902/abiword/trunk/plugins/xslfo/plugin.m4
+END

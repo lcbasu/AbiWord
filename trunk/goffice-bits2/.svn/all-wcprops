@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/30602/abiword/trunk/goffice-bits2
+END
+README.abiword
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30398/abiword/trunk/goffice-bits2/README.abiword
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/30398/abiword/trunk/goffice-bits2/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/30398/abiword/trunk/goffice-bits2/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/30398/abiword/trunk/goffice-bits2/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/30398/abiword/trunk/goffice-bits2/Makefile.am
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/30398/abiword/trunk/goffice-bits2/README
+END

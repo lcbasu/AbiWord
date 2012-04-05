@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/30714/abiword/trunk/plugins/sdw
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/30459/abiword/trunk/plugins/sdw/Makefile.am
+END
+plugin.m4
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/28902/abiword/trunk/plugins/sdw/plugin.m4
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/30743/abiword/trunk/src/text
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/23462/abiword/trunk/src/text/Makefile.am
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/4964/abiword/trunk/src/text/README.TXT
+END

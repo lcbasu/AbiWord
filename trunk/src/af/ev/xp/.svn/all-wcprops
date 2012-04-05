@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/30356/abiword/trunk/src/af/ev/xp
+END
+ev_Toolbar_Control.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19756/abiword/trunk/src/af/ev/xp/ev_Toolbar_Control.h
+END
+ev_NamedVirtualKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22072/abiword/trunk/src/af/ev/xp/ev_NamedVirtualKey.h
+END
+ev_Menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/19756/abiword/trunk/src/af/ev/xp/ev_Menu.h
+END
+ev_EditBinding.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/26446/abiword/trunk/src/af/ev/xp/ev_EditBinding.cpp
+END
+ev_Toolbar_Actions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/19787/abiword/trunk/src/af/ev/xp/ev_Toolbar_Actions.cpp
+END
+ev_Toolbar_Labels.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/21491/abiword/trunk/src/af/ev/xp/ev_Toolbar_Labels.cpp
+END
+ev_Menu_Layouts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/25101/abiword/trunk/src/af/ev/xp/ev_Menu_Layouts.cpp
+END
+ev_EditMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/23961/abiword/trunk/src/af/ev/xp/ev_EditMethod.cpp
+END
+ev_Toolbar_Layouts.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19756/abiword/trunk/src/af/ev/xp/ev_Toolbar_Layouts.h
+END
+ev_Menu_Actions.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/26330/abiword/trunk/src/af/ev/xp/ev_Menu_Actions.h
+END
+ev_Menu_Labels.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/21878/abiword/trunk/src/af/ev/xp/ev_Menu_Labels.h
+END
+ev_EditEventMapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22081/abiword/trunk/src/af/ev/xp/ev_EditEventMapper.cpp
+END
+ev_Mouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/28157/abiword/trunk/src/af/ev/xp/ev_Mouse.h
+END
+ev_Toolbar_Control.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/19756/abiword/trunk/src/af/ev/xp/ev_Toolbar_Control.cpp
+END
+ev_NamedVirtualKey.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22072/abiword/trunk/src/af/ev/xp/ev_NamedVirtualKey.cpp
+END
+ev_Menu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/27514/abiword/trunk/src/af/ev/xp/ev_Menu.cpp
+END
+ev_Keyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/20015/abiword/trunk/src/af/ev/xp/ev_Keyboard.h
+END
+ev_Toolbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/19756/abiword/trunk/src/af/ev/xp/ev_Toolbar.h
+END
+ev_EditBits.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/30264/abiword/trunk/src/af/ev/xp/ev_EditBits.h
+END
+ev_Toolbar_Layouts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/19787/abiword/trunk/src/af/ev/xp/ev_Toolbar_Layouts.cpp
+END
+ev_Menu_Actions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/25101/abiword/trunk/src/af/ev/xp/ev_Menu_Actions.cpp
+END
+ev_EditBinding.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/25053/abiword/trunk/src/af/ev/xp/ev_EditBinding.h
+END
+ev_Menu_Labels.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/25101/abiword/trunk/src/af/ev/xp/ev_Menu_Labels.cpp
+END
+ev_Toolbar_Actions.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30356/abiword/trunk/src/af/ev/xp/ev_Toolbar_Actions.h
+END
+ev_Mouse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/28157/abiword/trunk/src/af/ev/xp/ev_Mouse.cpp
+END
+ev_Toolbar_Labels.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/19756/abiword/trunk/src/af/ev/xp/ev_Toolbar_Labels.h
+END
+ev_Menu_Layouts.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/25101/abiword/trunk/src/af/ev/xp/ev_Menu_Layouts.h
+END
+ev_EditMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22072/abiword/trunk/src/af/ev/xp/ev_EditMethod.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/23803/abiword/trunk/src/af/ev/xp/Makefile.am
+END
+ev_Keyboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/20015/abiword/trunk/src/af/ev/xp/ev_Keyboard.cpp
+END
+ev_EditEventMapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19756/abiword/trunk/src/af/ev/xp/ev_EditEventMapper.h
+END
+ev_Toolbar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/23961/abiword/trunk/src/af/ev/xp/ev_Toolbar.cpp
+END
+ev_MouseListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/28157/abiword/trunk/src/af/ev/xp/ev_MouseListener.h
+END

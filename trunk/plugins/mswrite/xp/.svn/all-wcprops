@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/30731/abiword/trunk/plugins/mswrite/xp
+END
+ie_impexp_MSWrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30210/abiword/trunk/plugins/mswrite/xp/ie_impexp_MSWrite.h
+END
+ie_imp_MSWrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30535/abiword/trunk/plugins/mswrite/xp/ie_imp_MSWrite.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/23803/abiword/trunk/plugins/mswrite/xp/Makefile.am
+END
+ie_impexp_MSWrite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30730/abiword/trunk/plugins/mswrite/xp/ie_impexp_MSWrite.cpp
+END
+ie_imp_MSWrite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30731/abiword/trunk/plugins/mswrite/xp/ie_imp_MSWrite.cpp
+END

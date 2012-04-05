@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/30556/abiword/trunk/plugins/mathview/xp
+END
+gr_Abi_DefaultShaper.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/22481/abiword/trunk/plugins/mathview/xp/gr_Abi_DefaultShaper.h
+END
+AbiMathView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30556/abiword/trunk/plugins/mathview/xp/AbiMathView.cpp
+END
+ie_imp_MathML.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/23730/abiword/trunk/plugins/mathview/xp/ie_imp_MathML.cpp
+END
+AbiMathView.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30556/abiword/trunk/plugins/mathview/xp/AbiMathView.h
+END
+gr_Abi_AreaFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30556/abiword/trunk/plugins/mathview/xp/gr_Abi_AreaFactory.h
+END
+gr_Abi_ComputerModernShaper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28416/abiword/trunk/plugins/mathview/xp/gr_Abi_ComputerModernShaper.cpp
+END
+gr_Abi_CharArea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/23730/abiword/trunk/plugins/mathview/xp/gr_Abi_CharArea.cpp
+END
+entitiesMap.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22481/abiword/trunk/plugins/mathview/xp/entitiesMap.inc
+END
+ie_imp_MathML.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/23915/abiword/trunk/plugins/mathview/xp/ie_imp_MathML.h
+END
+gr_Abi_MathGraphicDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/30556/abiword/trunk/plugins/mathview/xp/gr_Abi_MathGraphicDevice.cpp
+END
+gr_Abi_ColorArea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22481/abiword/trunk/plugins/mathview/xp/gr_Abi_ColorArea.cpp
+END
+gr_Abi_InkArea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22481/abiword/trunk/plugins/mathview/xp/gr_Abi_InkArea.cpp
+END
+gr_Abi_ComputerModernShaper.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/30556/abiword/trunk/plugins/mathview/xp/gr_Abi_ComputerModernShaper.h
+END
+gr_Abi_CharArea.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30556/abiword/trunk/plugins/mathview/xp/gr_Abi_CharArea.h
+END
+gr_Abi_ColorArea.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30556/abiword/trunk/plugins/mathview/xp/gr_Abi_ColorArea.h
+END
+gr_Abi_MathGraphicDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/22481/abiword/trunk/plugins/mathview/xp/gr_Abi_MathGraphicDevice.h
+END
+gr_Abi_StandardSymbolsShaper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/30556/abiword/trunk/plugins/mathview/xp/gr_Abi_StandardSymbolsShaper.cpp
+END
+gr_Abi_InkArea.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22481/abiword/trunk/plugins/mathview/xp/gr_Abi_InkArea.h
+END
+gr_Abi_StandardSymbolsShaper.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/30556/abiword/trunk/plugins/mathview/xp/gr_Abi_StandardSymbolsShaper.h
+END
+gr_Abi_RenderingContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28539/abiword/trunk/plugins/mathview/xp/gr_Abi_RenderingContext.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30556/abiword/trunk/plugins/mathview/xp/Makefile.am
+END
+gr_Abi_DefaultShaper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30556/abiword/trunk/plugins/mathview/xp/gr_Abi_DefaultShaper.cpp
+END
+gr_Abi_RenderingContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/25738/abiword/trunk/plugins/mathview/xp/gr_Abi_RenderingContext.h
+END
+mathview_proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30556/abiword/trunk/plugins/mathview/xp/mathview_proxy.h
+END

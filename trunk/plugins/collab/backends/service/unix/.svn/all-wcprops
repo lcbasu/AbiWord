@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30637/abiword/trunk/plugins/collab/backends/service/unix
+END
+ap_UnixDialog_GenericProgress-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/30507/abiword/trunk/plugins/collab/backends/service/unix/ap_UnixDialog_GenericProgress-2.ui
+END
+ServiceUnixAccountHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/29463/abiword/trunk/plugins/collab/backends/service/unix/ServiceUnixAccountHandler.cpp
+END
+ap_UnixDialog_GenericInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/30637/abiword/trunk/plugins/collab/backends/service/unix/ap_UnixDialog_GenericInput.cpp
+END
+ap_UnixDialog_GenericProgress.ui
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/30511/abiword/trunk/plugins/collab/backends/service/unix/ap_UnixDialog_GenericProgress.ui
+END
+ServiceUnixAccountHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/29463/abiword/trunk/plugins/collab/backends/service/unix/ServiceUnixAccountHandler.h
+END
+ap_UnixDialog_GenericInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/27697/abiword/trunk/plugins/collab/backends/service/unix/ap_UnixDialog_GenericInput.h
+END
+ap_UnixDialog_GenericProgress.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/30637/abiword/trunk/plugins/collab/backends/service/unix/ap_UnixDialog_GenericProgress.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/30511/abiword/trunk/plugins/collab/backends/service/unix/Makefile.am
+END
+ap_UnixDialog_GenericInput-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/30507/abiword/trunk/plugins/collab/backends/service/unix/ap_UnixDialog_GenericInput-2.ui
+END
+ap_UnixDialog_GenericProgress.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/27887/abiword/trunk/plugins/collab/backends/service/unix/ap_UnixDialog_GenericProgress.h
+END
+ap_UnixDialog_GenericInput.ui
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/30511/abiword/trunk/plugins/collab/backends/service/unix/ap_UnixDialog_GenericInput.ui
+END

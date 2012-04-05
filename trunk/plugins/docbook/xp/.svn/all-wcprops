@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/30576/abiword/trunk/plugins/docbook/xp
+END
+ie_exp_DocBook.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30576/abiword/trunk/plugins/docbook/xp/ie_exp_DocBook.h
+END
+ie_impexp_DocBook.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/23721/abiword/trunk/plugins/docbook/xp/ie_impexp_DocBook.cpp
+END
+ie_imp_DocBook.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30561/abiword/trunk/plugins/docbook/xp/ie_imp_DocBook.cpp
+END
+ie_impexp_DocBook.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22481/abiword/trunk/plugins/docbook/xp/ie_impexp_DocBook.h
+END
+ie_imp_DocBook.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/23915/abiword/trunk/plugins/docbook/xp/ie_imp_DocBook.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/23803/abiword/trunk/plugins/docbook/xp/Makefile.am
+END
+ie_exp_DocBook.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30576/abiword/trunk/plugins/docbook/xp/ie_exp_DocBook.cpp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/30312/abiword/trunk/plugins/epub/dialogs/xp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30296/abiword/trunk/plugins/epub/dialogs/xp/Makefile.am
+END
+ap_Dialog_EpubExportOptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/30312/abiword/trunk/plugins/epub/dialogs/xp/ap_Dialog_EpubExportOptions.cpp
+END
+ap_Dialog_EpubExportOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/30312/abiword/trunk/plugins/epub/dialogs/xp/ap_Dialog_EpubExportOptions.h
+END

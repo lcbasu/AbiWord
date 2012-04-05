@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/30576/abiword/trunk/plugins/openwriter/xp
+END
+ie_imp_OpenWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30561/abiword/trunk/plugins/openwriter/xp/ie_imp_OpenWriter.cpp
+END
+ie_impexp_OpenWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/23915/abiword/trunk/plugins/openwriter/xp/ie_impexp_OpenWriter.h
+END
+ie_exp_OpenWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30576/abiword/trunk/plugins/openwriter/xp/ie_exp_OpenWriter.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/23803/abiword/trunk/plugins/openwriter/xp/Makefile.am
+END
+ie_exp_OpenWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30576/abiword/trunk/plugins/openwriter/xp/ie_exp_OpenWriter.h
+END
+ie_impexp_OpenWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/23720/abiword/trunk/plugins/openwriter/xp/ie_impexp_OpenWriter.cpp
+END

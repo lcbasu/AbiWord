@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 73
+.deps
+.libs
+Makefile.in
+Makefile
+.ie_exp_EPUB.cpp.swp
+.ie_exp_EPUB.h.swp
+
+END

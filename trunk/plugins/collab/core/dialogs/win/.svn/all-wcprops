@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30446/abiword/trunk/plugins/collab/core/dialogs/win
+END
+ap_Win32Res_DlgCollaborationAccounts.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/27755/abiword/trunk/plugins/collab/core/dialogs/win/ap_Win32Res_DlgCollaborationAccounts.rc2
+END
+ap_Win32Dialog_CollaborationJoin.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/27898/abiword/trunk/plugins/collab/core/dialogs/win/ap_Win32Dialog_CollaborationJoin.h
+END
+ap_Win32Dialog_CollaborationAddAccount.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/29646/abiword/trunk/plugins/collab/core/dialogs/win/ap_Win32Dialog_CollaborationAddAccount.cpp
+END
+ap_Win32Res_DlgCollaborationAddBuddy.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/22481/abiword/trunk/plugins/collab/core/dialogs/win/ap_Win32Res_DlgCollaborationAddBuddy.rc2
+END
+ap_Win32Dialog_CollaborationShare.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/27630/abiword/trunk/plugins/collab/core/dialogs/win/ap_Win32Dialog_CollaborationShare.h
+END
+ap_Win32Dialog_CollaborationEditAccount.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/29465/abiword/trunk/plugins/collab/core/dialogs/win/ap_Win32Dialog_CollaborationEditAccount.h
+END
+ap_Win32Dialog_CollaborationAddAccount.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28172/abiword/trunk/plugins/collab/core/dialogs/win/ap_Win32Dialog_CollaborationAddAccount.h
+END
+ap_Win32Dialog_CollaborationAccounts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/29687/abiword/trunk/plugins/collab/core/dialogs/win/ap_Win32Dialog_CollaborationAccounts.cpp
+END
+ap_Win32Dialog_CollaborationAddBuddy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/26327/abiword/trunk/plugins/collab/core/dialogs/win/ap_Win32Dialog_CollaborationAddBuddy.cpp
+END
+ap_Win32Dialog_CollaborationAccounts.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/27643/abiword/trunk/plugins/collab/core/dialogs/win/ap_Win32Dialog_CollaborationAccounts.h
+END
+ap_Win32Res_DlgCollaborationJoin.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/27709/abiword/trunk/plugins/collab/core/dialogs/win/ap_Win32Res_DlgCollaborationJoin.rc2
+END
+ap_Win32Dialog_CollaborationAddBuddy.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/26327/abiword/trunk/plugins/collab/core/dialogs/win/ap_Win32Dialog_CollaborationAddBuddy.h
+END
+ap_Win32Res_DlgCollaborationEditAccount.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/29465/abiword/trunk/plugins/collab/core/dialogs/win/ap_Win32Res_DlgCollaborationEditAccount.rc2
+END
+ap_Win32Res_DlgCollaborationShare.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/27701/abiword/trunk/plugins/collab/core/dialogs/win/ap_Win32Res_DlgCollaborationShare.rc2
+END
+ap_Win32Res_DlgCollaborationAddAccount.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/29270/abiword/trunk/plugins/collab/core/dialogs/win/ap_Win32Res_DlgCollaborationAddAccount.rc2
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30446/abiword/trunk/plugins/collab/core/dialogs/win/Makefile.am
+END
+ap_Win32Res_CollaborationDialogs.rc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/29465/abiword/trunk/plugins/collab/core/dialogs/win/ap_Win32Res_CollaborationDialogs.rc
+END
+ap_Win32Dialog_CollaborationJoin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/29646/abiword/trunk/plugins/collab/core/dialogs/win/ap_Win32Dialog_CollaborationJoin.cpp
+END
+ap_Win32Dialog_CollaborationShare.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/29646/abiword/trunk/plugins/collab/core/dialogs/win/ap_Win32Dialog_CollaborationShare.cpp
+END
+ap_Win32Dialog_CollaborationEditAccount.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/29465/abiword/trunk/plugins/collab/core/dialogs/win/ap_Win32Dialog_CollaborationEditAccount.cpp
+END

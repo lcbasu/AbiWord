@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/30576/abiword/trunk/plugins/applix/xp
+END
+ie_imp_Applix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/26879/abiword/trunk/plugins/applix/xp/ie_imp_Applix.cpp
+END
+ie_impexp_Applix.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22481/abiword/trunk/plugins/applix/xp/ie_impexp_Applix.h
+END
+ie_imp_Applix.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/23915/abiword/trunk/plugins/applix/xp/ie_imp_Applix.h
+END
+ie_exp_Applix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30576/abiword/trunk/plugins/applix/xp/ie_exp_Applix.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/23803/abiword/trunk/plugins/applix/xp/Makefile.am
+END
+ie_exp_Applix.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/23915/abiword/trunk/plugins/applix/xp/ie_exp_Applix.h
+END
+ie_impexp_Applix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/23716/abiword/trunk/plugins/applix/xp/ie_impexp_Applix.cpp
+END

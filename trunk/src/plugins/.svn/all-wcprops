@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/29758/abiword/trunk/src/plugins
+END
+abi-builtin-plugins.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/23450/abiword/trunk/src/plugins/abi-builtin-plugins.cpp
+END
+abi-builtin-plugins.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/23447/abiword/trunk/src/plugins/abi-builtin-plugins.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/25760/abiword/trunk/src/plugins/Makefile.am
+END

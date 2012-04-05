@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/30598/abiword/trunk/plugins/epub/exp/xp
+END
+ie_exp_EPUB_EPUB3Writer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/30556/abiword/trunk/plugins/epub/exp/xp/ie_exp_EPUB_EPUB3Writer.cpp
+END
+ie_exp_EPUB_Sniffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/29975/abiword/trunk/plugins/epub/exp/xp/ie_exp_EPUB_Sniffer.cpp
+END
+ie_exp_EPUB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30598/abiword/trunk/plugins/epub/exp/xp/ie_exp_EPUB.cpp
+END
+ie_exp_EPUB_EPUB3Writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/30296/abiword/trunk/plugins/epub/exp/xp/ie_exp_EPUB_EPUB3Writer.h
+END
+ie_exp_EPUB_Sniffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/29975/abiword/trunk/plugins/epub/exp/xp/ie_exp_EPUB_Sniffer.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30296/abiword/trunk/plugins/epub/exp/xp/Makefile.am
+END
+ie_exp_EPUB.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30560/abiword/trunk/plugins/epub/exp/xp/ie_exp_EPUB.h
+END

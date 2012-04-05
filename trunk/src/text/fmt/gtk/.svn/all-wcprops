@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/26446/abiword/trunk/src/text/fmt/gtk
+END
+fv_UnixFrameEdit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/26446/abiword/trunk/src/text/fmt/gtk/fv_UnixFrameEdit.cpp
+END
+fv_UnixInlineImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/26446/abiword/trunk/src/text/fmt/gtk/fv_UnixInlineImage.cpp
+END
+fv_UnixVisualDrag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/25454/abiword/trunk/src/text/fmt/gtk/fv_UnixVisualDrag.cpp
+END
+fv_UnixFrameEdit.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22481/abiword/trunk/src/text/fmt/gtk/fv_UnixFrameEdit.h
+END
+fv_UnixInlineImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22481/abiword/trunk/src/text/fmt/gtk/fv_UnixInlineImage.h
+END
+fv_UnixVisualDrag.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22481/abiword/trunk/src/text/fmt/gtk/fv_UnixVisualDrag.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/23803/abiword/trunk/src/text/fmt/gtk/Makefile.am
+END

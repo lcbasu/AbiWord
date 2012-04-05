@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/30657/abiword/trunk/src/af/ev/cocoa
+END
+ev_CocoaKeyboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/21477/abiword/trunk/src/af/ev/cocoa/ev_CocoaKeyboard.cpp
+END
+ev_CocoaToolbar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30657/abiword/trunk/src/af/ev/cocoa/ev_CocoaToolbar.cpp
+END
+ev_CocoaToolbar_ViewListener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/21477/abiword/trunk/src/af/ev/cocoa/ev_CocoaToolbar_ViewListener.cpp
+END
+ev_CocoaMenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30565/abiword/trunk/src/af/ev/cocoa/ev_CocoaMenu.cpp
+END
+ev_CocoaKeyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/19756/abiword/trunk/src/af/ev/cocoa/ev_CocoaKeyboard.h
+END
+ev_CocoaToolbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30574/abiword/trunk/src/af/ev/cocoa/ev_CocoaToolbar.h
+END
+ev_CocoaToolbar_ViewListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/19756/abiword/trunk/src/af/ev/cocoa/ev_CocoaToolbar_ViewListener.h
+END
+ev_CocoaMouse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/27202/abiword/trunk/src/af/ev/cocoa/ev_CocoaMouse.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/23803/abiword/trunk/src/af/ev/cocoa/Makefile.am
+END
+ev_CocoaMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/29732/abiword/trunk/src/af/ev/cocoa/ev_CocoaMenu.h
+END
+ev_CocoaMenuPopup.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/19825/abiword/trunk/src/af/ev/cocoa/ev_CocoaMenuPopup.h
+END
+ev_CocoaMouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/19756/abiword/trunk/src/af/ev/cocoa/ev_CocoaMouse.h
+END
+ev_CocoaMenuBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19825/abiword/trunk/src/af/ev/cocoa/ev_CocoaMenuBar.h
+END

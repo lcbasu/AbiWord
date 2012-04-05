@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/28629/abiword/trunk/plugins/grammar/xp
+END
+AbiGrammarCheck.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/25853/abiword/trunk/plugins/grammar/xp/AbiGrammarCheck.cpp
+END
+AbiGrammarUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28629/abiword/trunk/plugins/grammar/xp/AbiGrammarUtil.cpp
+END
+AbiGrammar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/26509/abiword/trunk/plugins/grammar/xp/AbiGrammar.cpp
+END
+AbiGrammarCheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/23915/abiword/trunk/plugins/grammar/xp/AbiGrammarCheck.h
+END
+AbiGrammarUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/25101/abiword/trunk/plugins/grammar/xp/AbiGrammarUtil.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/23803/abiword/trunk/plugins/grammar/xp/Makefile.am
+END

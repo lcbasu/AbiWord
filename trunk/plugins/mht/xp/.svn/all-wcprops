@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/26579/abiword/trunk/plugins/mht/xp
+END
+ie_imp_MHT.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/23915/abiword/trunk/plugins/mht/xp/ie_imp_MHT.h
+END
+tidyImporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/23915/abiword/trunk/plugins/mht/xp/tidyImporter.h
+END
+tidyReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/22481/abiword/trunk/plugins/mht/xp/tidyReader.h
+END
+register.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/23719/abiword/trunk/plugins/mht/xp/register.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/23803/abiword/trunk/plugins/mht/xp/Makefile.am
+END
+ie_imp_MHT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/26579/abiword/trunk/plugins/mht/xp/ie_imp_MHT.cpp
+END
+tidyImporter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/25856/abiword/trunk/plugins/mht/xp/tidyImporter.cpp
+END
+tidyReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/22481/abiword/trunk/plugins/mht/xp/tidyReader.cpp
+END

@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/!svn/ver/30776/abiword/trunk
+END
+dolt.m4
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/29358/abiword/trunk/dolt.m4
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/30482/abiword/trunk/Doxyfile
+END
+libabiword.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/19704/abiword/trunk/libabiword.pc.in
+END
+shave.m4
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/25815/abiword/trunk/shave.m4
+END
+abiword_48.png
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/19700/abiword/trunk/abiword_48.png
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/30055/abiword/trunk/AUTHORS
+END
+COPYRIGHT.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/20216/abiword/trunk/COPYRIGHT.TXT
+END
+abiword.1
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/28531/abiword/trunk/abiword.1
+END
+abi2po.pl
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/3332/abiword/trunk/abi2po.pl
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/30756/abiword/trunk/configure.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/22481/abiword/trunk/ChangeLog
+END
+m4_ax_boost_base.m4
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/29689/abiword/trunk/m4_ax_boost_base.m4
+END
+dumpstrings.pl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/16755/abiword/trunk/dumpstrings.pl
+END
+lt-compile-resource
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/22481/abiword/trunk/lt-compile-resource
+END
+abiword.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/19704/abiword/trunk/abiword.pc.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/29358/abiword/trunk/README
+END
+abiword.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/29642/abiword/trunk/abiword.desktop
+END
+autogen-common.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/29358/abiword/trunk/autogen-common.sh
+END
+abiword.keys
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/18343/abiword/trunk/abiword.keys
+END
+BiDiReadme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/15389/abiword/trunk/BiDiReadme.txt
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/7447/abiword/trunk/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/30739/abiword/trunk/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/26891/abiword/trunk/autogen.sh
+END
+shave.in
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/25815/abiword/trunk/shave.in
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/22481/abiword/trunk/NEWS
+END
+shave-libtool.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/25815/abiword/trunk/shave-libtool.in
+END
+compile-resource
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/22481/abiword/trunk/compile-resource
+END
+BUILD.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/12724/abiword/trunk/BUILD.TXT
+END
+libgcrypt.m4
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/30343/abiword/trunk/libgcrypt.m4
+END

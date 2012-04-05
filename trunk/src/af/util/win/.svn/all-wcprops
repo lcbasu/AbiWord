@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/30758/abiword/trunk/src/af/util/win
+END
+ut_Win32Locale.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/19756/abiword/trunk/src/af/util/win/ut_Win32Locale.h
+END
+ut_Win32Uuid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/28487/abiword/trunk/src/af/util/win/ut_Win32Uuid.cpp
+END
+ut_Win32String.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/19790/abiword/trunk/src/af/util/win/ut_Win32String.cpp
+END
+ut_mutexImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/23887/abiword/trunk/src/af/util/win/ut_mutexImpl.h
+END
+ut_Xpm2Bmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/19756/abiword/trunk/src/af/util/win/ut_Xpm2Bmp.h
+END
+ut_path.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30758/abiword/trunk/src/af/util/win/ut_path.cpp
+END
+ut_debugmsg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/29627/abiword/trunk/src/af/util/win/ut_debugmsg.cpp
+END
+ut_Win32Uuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/28487/abiword/trunk/src/af/util/win/ut_Win32Uuid.h
+END
+ut_Win32Idle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/26441/abiword/trunk/src/af/util/win/ut_Win32Idle.cpp
+END
+ut_Win32Resources.rc2
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/15376/abiword/trunk/src/af/util/win/ut_Win32Resources.rc2
+END
+ut_Win32Timer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19756/abiword/trunk/src/af/util/win/ut_Win32Timer.cpp
+END
+ut_Win32OS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/28487/abiword/trunk/src/af/util/win/ut_Win32OS.cpp
+END
+ut_Win32Idle.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/23843/abiword/trunk/src/af/util/win/ut_Win32Idle.h
+END
+ut_Win32Timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/19756/abiword/trunk/src/af/util/win/ut_Win32Timer.h
+END
+ut_sleep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/19756/abiword/trunk/src/af/util/win/ut_sleep.cpp
+END
+ut_Win32OS.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/28487/abiword/trunk/src/af/util/win/ut_Win32OS.h
+END
+ut_Win32LocaleString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/29740/abiword/trunk/src/af/util/win/ut_Win32LocaleString.cpp
+END
+ut_sleep.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/27380/abiword/trunk/src/af/util/win/ut_sleep.h
+END
+ut_Win32Misc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/28494/abiword/trunk/src/af/util/win/ut_Win32Misc.cpp
+END
+ut_Win32LocaleString.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/29646/abiword/trunk/src/af/util/win/ut_Win32LocaleString.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/28497/abiword/trunk/src/af/util/win/Makefile.am
+END
+ut_xml_msxml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/23882/abiword/trunk/src/af/util/win/ut_xml_msxml.cpp
+END
+ut_Win32Locale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/19761/abiword/trunk/src/af/util/win/ut_Win32Locale.cpp
+END
+ut_Xpm2Bmp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/28467/abiword/trunk/src/af/util/win/ut_Xpm2Bmp.cpp
+END

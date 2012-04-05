@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/30439/abiword/trunk/plugins/epub/common/xp
+END
+ie_impexp_EPUB.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/29975/abiword/trunk/plugins/epub/common/xp/ie_impexp_EPUB.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30439/abiword/trunk/plugins/epub/common/xp/Makefile.am
+END
+ie_impexp_EPUB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30433/abiword/trunk/plugins/epub/common/xp/ie_impexp_EPUB.cpp
+END

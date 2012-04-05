@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/30459/abiword/trunk/plugins/freetranslation
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30459/abiword/trunk/plugins/freetranslation/Makefile.am
+END
+plugin.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/28902/abiword/trunk/plugins/freetranslation/plugin.m4
+END

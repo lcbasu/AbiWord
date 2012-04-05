@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/30483/abiword/trunk/src/af/gr/cocoa
+END
+gr_CocoaImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30483/abiword/trunk/src/af/gr/cocoa/gr_CocoaImage.cpp
+END
+gr_CocoaCairoGraphics.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28631/abiword/trunk/src/af/gr/cocoa/gr_CocoaCairoGraphics.h
+END
+gr_CocoaImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30483/abiword/trunk/src/af/gr/cocoa/gr_CocoaImage.h
+END
+leftright_cursor.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/13449/abiword/trunk/src/af/gr/cocoa/leftright_cursor.png
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/27202/abiword/trunk/src/af/gr/cocoa/Makefile.am
+END
+gr_CocoaCairoGraphics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28631/abiword/trunk/src/af/gr/cocoa/gr_CocoaCairoGraphics.cpp
+END
+updown_cursor.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/13449/abiword/trunk/src/af/gr/cocoa/updown_cursor.png
+END

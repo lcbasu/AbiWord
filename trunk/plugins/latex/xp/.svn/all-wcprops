@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/30576/abiword/trunk/plugins/latex/xp
+END
+ie_exp_LaTeX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30576/abiword/trunk/plugins/latex/xp/ie_exp_LaTeX.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/23803/abiword/trunk/plugins/latex/xp/Makefile.am
+END
+ie_exp_LaTeX.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/23915/abiword/trunk/plugins/latex/xp/ie_exp_LaTeX.h
+END

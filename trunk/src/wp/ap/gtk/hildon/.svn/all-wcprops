@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/30599/abiword/trunk/src/wp/ap/gtk/hildon
+END
+ap_UnixHildonFrameImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/30503/abiword/trunk/src/wp/ap/gtk/hildon/ap_UnixHildonFrameImpl.cpp
+END
+com.abisource.abiword.service.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/30503/abiword/trunk/src/wp/ap/gtk/hildon/com.abisource.abiword.service.in
+END
+abiword.desktop.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30503/abiword/trunk/src/wp/ap/gtk/hildon/abiword.desktop.in
+END
+ap_UnixHildonFrameImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/30503/abiword/trunk/src/wp/ap/gtk/hildon/ap_UnixHildonFrameImpl.h
+END
+ap_UnixHildonDialog_HdrFtr.ui
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/hildon/ap_UnixHildonDialog_HdrFtr.ui
+END
+ap_UnixHildonDialog_Options.ui
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/30511/abiword/trunk/src/wp/ap/gtk/hildon/ap_UnixHildonDialog_Options.ui
+END
+qgn_list_abiword.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30503/abiword/trunk/src/wp/ap/gtk/hildon/qgn_list_abiword.png
+END

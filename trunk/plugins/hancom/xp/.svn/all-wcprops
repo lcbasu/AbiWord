@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/26500/abiword/trunk/plugins/hancom/xp
+END
+ie_imp_hancom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/26500/abiword/trunk/plugins/hancom/xp/ie_imp_hancom.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/23803/abiword/trunk/plugins/hancom/xp/Makefile.am
+END

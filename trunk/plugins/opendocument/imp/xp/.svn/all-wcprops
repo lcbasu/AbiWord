@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30761/abiword/trunk/plugins/opendocument/imp/xp
+END
+ie_imp_OpenDocument_Sniffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/30480/abiword/trunk/plugins/opendocument/imp/xp/ie_imp_OpenDocument_Sniffer.cpp
+END
+ODi_FontFaceDecls.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/23564/abiword/trunk/plugins/opendocument/imp/xp/ODi_FontFaceDecls.h
+END
+ODi_Frame_ListenerState.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28203/abiword/trunk/plugins/opendocument/imp/xp/ODi_Frame_ListenerState.h
+END
+ODi_StylesStream_ListenerState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28716/abiword/trunk/plugins/opendocument/imp/xp/ODi_StylesStream_ListenerState.cpp
+END
+ODi_StreamListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/30549/abiword/trunk/plugins/opendocument/imp/xp/ODi_StreamListener.h
+END
+ODi_MetaStream_ListenerState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/30561/abiword/trunk/plugins/opendocument/imp/xp/ODi_MetaStream_ListenerState.cpp
+END
+ODi_Style_MasterPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/22481/abiword/trunk/plugins/opendocument/imp/xp/ODi_Style_MasterPage.cpp
+END
+ODi_ElementStack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/25101/abiword/trunk/plugins/opendocument/imp/xp/ODi_ElementStack.cpp
+END
+ODi_Style_Style.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/29376/abiword/trunk/plugins/opendocument/imp/xp/ODi_Style_Style.cpp
+END
+ODi_Postpone_ListenerState.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/22481/abiword/trunk/plugins/opendocument/imp/xp/ODi_Postpone_ListenerState.h
+END
+ODi_TableOfContent_ListenerState.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/22481/abiword/trunk/plugins/opendocument/imp/xp/ODi_TableOfContent_ListenerState.h
+END
+ODi_ListLevelStyle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/30420/abiword/trunk/plugins/opendocument/imp/xp/ODi_ListLevelStyle.cpp
+END
+ODi_NotesConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/23564/abiword/trunk/plugins/opendocument/imp/xp/ODi_NotesConfiguration.h
+END
+ODi_ListLevelStyleFormats.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/22481/abiword/trunk/plugins/opendocument/imp/xp/ODi_ListLevelStyleFormats.h
+END
+ODi_TextContent_ListenerState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/30761/abiword/trunk/plugins/opendocument/imp/xp/ODi_TextContent_ListenerState.cpp
+END
+ODi_Style_Style_Family.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28178/abiword/trunk/plugins/opendocument/imp/xp/ODi_Style_Style_Family.h
+END
+ie_imp_OpenDocument.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/30697/abiword/trunk/plugins/opendocument/imp/xp/ie_imp_OpenDocument.cpp
+END
+ODi_ManifestStream_ListenerState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28739/abiword/trunk/plugins/opendocument/imp/xp/ODi_ManifestStream_ListenerState.cpp
+END
+ODi_StartTag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22481/abiword/trunk/plugins/opendocument/imp/xp/ODi_StartTag.cpp
+END
+ODi_ListenerStateAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/22481/abiword/trunk/plugins/opendocument/imp/xp/ODi_ListenerStateAction.h
+END
+ODi_Abi_Data.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30549/abiword/trunk/plugins/opendocument/imp/xp/ODi_Abi_Data.h
+END
+ODi_ContentStreamAnnotationMatcher_ListenerState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/30555/abiword/trunk/plugins/opendocument/imp/xp/ODi_ContentStreamAnnotationMatcher_ListenerState.cpp
+END
+ODi_Style_List.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/30420/abiword/trunk/plugins/opendocument/imp/xp/ODi_Style_List.cpp
+END
+ODi_XMLRecorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/22481/abiword/trunk/plugins/opendocument/imp/xp/ODi_XMLRecorder.h
+END
+ODi_Table_ListenerState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/29358/abiword/trunk/plugins/opendocument/imp/xp/ODi_Table_ListenerState.cpp
+END
+ODi_Style_PageLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28887/abiword/trunk/plugins/opendocument/imp/xp/ODi_Style_PageLayout.h
+END
+ODi_FontFaceDecls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/23564/abiword/trunk/plugins/opendocument/imp/xp/ODi_FontFaceDecls.cpp
+END
+ODi_Frame_ListenerState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/30556/abiword/trunk/plugins/opendocument/imp/xp/ODi_Frame_ListenerState.cpp
+END
+ODi_ContentStream_ListenerState.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28178/abiword/trunk/plugins/opendocument/imp/xp/ODi_ContentStream_ListenerState.h
+END
+ODi_StreamListener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/30549/abiword/trunk/plugins/opendocument/imp/xp/ODi_StreamListener.cpp
+END
+ODi_Office_Styles.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28178/abiword/trunk/plugins/opendocument/imp/xp/ODi_Office_Styles.h
+END
+ie_imp_OpenDocument_Sniffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/23915/abiword/trunk/plugins/opendocument/imp/xp/ie_imp_OpenDocument_Sniffer.h
+END
+ODi_StylesStream_ListenerState.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28575/abiword/trunk/plugins/opendocument/imp/xp/ODi_StylesStream_ListenerState.h
+END
+ODi_Postpone_ListenerState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/23564/abiword/trunk/plugins/opendocument/imp/xp/ODi_Postpone_ListenerState.cpp
+END
+ODi_MetaStream_ListenerState.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/30561/abiword/trunk/plugins/opendocument/imp/xp/ODi_MetaStream_ListenerState.h
+END
+ODi_Style_MasterPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28187/abiword/trunk/plugins/opendocument/imp/xp/ODi_Style_MasterPage.h
+END
+ODi_TableOfContent_ListenerState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/23564/abiword/trunk/plugins/opendocument/imp/xp/ODi_TableOfContent_ListenerState.cpp
+END
+ODi_NotesConfiguration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/23564/abiword/trunk/plugins/opendocument/imp/xp/ODi_NotesConfiguration.cpp
+END
+ODi_Style_Style_Family.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28178/abiword/trunk/plugins/opendocument/imp/xp/ODi_Style_Style_Family.cpp
+END
+ODi_ListenerStateAction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/22481/abiword/trunk/plugins/opendocument/imp/xp/ODi_ListenerStateAction.cpp
+END
+ODi_Abi_Data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30556/abiword/trunk/plugins/opendocument/imp/xp/ODi_Abi_Data.cpp
+END
+ODi_ElementStack.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/25101/abiword/trunk/plugins/opendocument/imp/xp/ODi_ElementStack.h
+END
+ODi_Style_Style.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28755/abiword/trunk/plugins/opendocument/imp/xp/ODi_Style_Style.h
+END
+ODi_XMLRecorder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/22481/abiword/trunk/plugins/opendocument/imp/xp/ODi_XMLRecorder.cpp
+END
+ODi_SettingsStream_ListenerState.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/23564/abiword/trunk/plugins/opendocument/imp/xp/ODi_SettingsStream_ListenerState.h
+END
+ODi_ListLevelStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28575/abiword/trunk/plugins/opendocument/imp/xp/ODi_ListLevelStyle.h
+END
+ODi_Style_PageLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28871/abiword/trunk/plugins/opendocument/imp/xp/ODi_Style_PageLayout.cpp
+END
+ODi_TextContent_ListenerState.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/30761/abiword/trunk/plugins/opendocument/imp/xp/ODi_TextContent_ListenerState.h
+END
+ODi_ListenerState.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/22481/abiword/trunk/plugins/opendocument/imp/xp/ODi_ListenerState.h
+END
+ODi_ContentStream_ListenerState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28178/abiword/trunk/plugins/opendocument/imp/xp/ODi_ContentStream_ListenerState.cpp
+END
+ie_imp_OpenDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/29362/abiword/trunk/plugins/opendocument/imp/xp/ie_imp_OpenDocument.h
+END
+ODi_ManifestStream_ListenerState.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28739/abiword/trunk/plugins/opendocument/imp/xp/ODi_ManifestStream_ListenerState.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30549/abiword/trunk/plugins/opendocument/imp/xp/Makefile.am
+END
+ODi_StartTag.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/22481/abiword/trunk/plugins/opendocument/imp/xp/ODi_StartTag.h
+END
+ODi_Office_Styles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/30697/abiword/trunk/plugins/opendocument/imp/xp/ODi_Office_Styles.cpp
+END
+ODi_ContentStreamAnnotationMatcher_ListenerState.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/30549/abiword/trunk/plugins/opendocument/imp/xp/ODi_ContentStreamAnnotationMatcher_ListenerState.h
+END
+ODi_Style_List.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30420/abiword/trunk/plugins/opendocument/imp/xp/ODi_Style_List.h
+END
+ODi_Table_ListenerState.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28893/abiword/trunk/plugins/opendocument/imp/xp/ODi_Table_ListenerState.h
+END

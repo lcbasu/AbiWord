@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/29687/abiword/trunk/plugins/collab/backends/tcp/win
+END
+TCPWin32AccountHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/29687/abiword/trunk/plugins/collab/backends/tcp/win/TCPWin32AccountHandler.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/26881/abiword/trunk/plugins/collab/backends/tcp/win/Makefile.am
+END
+TCPWin32AccountHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/29465/abiword/trunk/plugins/collab/backends/tcp/win/TCPWin32AccountHandler.h
+END

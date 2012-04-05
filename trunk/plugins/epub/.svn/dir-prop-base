@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 68
+.deps
+.libs
+Makefile.in
+.gsf-save-G746WV
+Makefile
+.svn-prop.tmp.swp
+
+END

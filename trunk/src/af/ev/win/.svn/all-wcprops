@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/30574/abiword/trunk/src/af/ev/win
+END
+ev_Win32Toolbar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30574/abiword/trunk/src/af/ev/win/ev_Win32Toolbar.cpp
+END
+ev_Win32Toolbar_ViewListener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/19756/abiword/trunk/src/af/ev/win/ev_Win32Toolbar_ViewListener.cpp
+END
+ev_Win32Menu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30574/abiword/trunk/src/af/ev/win/ev_Win32Menu.cpp
+END
+ev_Win32Keyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/23882/abiword/trunk/src/af/ev/win/ev_Win32Keyboard.h
+END
+ev_Win32Toolbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/23882/abiword/trunk/src/af/ev/win/ev_Win32Toolbar.h
+END
+ev_Win32Toolbar_ViewListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/23882/abiword/trunk/src/af/ev/win/ev_Win32Toolbar_ViewListener.h
+END
+ev_Win32Mouse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/28152/abiword/trunk/src/af/ev/win/ev_Win32Mouse.cpp
+END
+ev_Win32Menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/28487/abiword/trunk/src/af/ev/win/ev_Win32Menu.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/23803/abiword/trunk/src/af/ev/win/Makefile.am
+END
+ev_Win32Mouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/23882/abiword/trunk/src/af/ev/win/ev_Win32Mouse.h
+END
+ev_Win32Keyboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/28487/abiword/trunk/src/af/ev/win/ev_Win32Keyboard.cpp
+END

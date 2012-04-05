@@ -1,0 +1,509 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/30754/abiword/trunk/src/wp/impexp/xp
+END
+ie_impGraphic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/27086/abiword/trunk/src/wp/impexp/xp/ie_impGraphic.cpp
+END
+ie_imp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30297/abiword/trunk/src/wp/impexp/xp/ie_imp.cpp
+END
+ie_exp_HTML_StyleTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30576/abiword/trunk/src/wp/impexp/xp/ie_exp_HTML_StyleTree.h
+END
+ie_imp_PasteListener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30590/abiword/trunk/src/wp/impexp/xp/ie_imp_PasteListener.cpp
+END
+ie_exp_AbiWord_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/19756/abiword/trunk/src/wp/impexp/xp/ie_exp_AbiWord_1.h
+END
+ie_exp_HTML_Listener.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30701/abiword/trunk/src/wp/impexp/xp/ie_exp_HTML_Listener.h
+END
+ie_Table.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30575/abiword/trunk/src/wp/impexp/xp/ie_Table.h
+END
+ie_imp_RTFParse.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/23893/abiword/trunk/src/wp/impexp/xp/ie_imp_RTFParse.h
+END
+ie_imp_XML.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30561/abiword/trunk/src/wp/impexp/xp/ie_imp_XML.cpp
+END
+ie_exp_HTML_UtilListeners.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/30576/abiword/trunk/src/wp/impexp/xp/ie_exp_HTML_UtilListeners.cpp
+END
+ie_mailmerge.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/21247/abiword/trunk/src/wp/impexp/xp/ie_mailmerge.h
+END
+ie_imp_RTFKeywordIDs.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30356/abiword/trunk/src/wp/impexp/xp/ie_imp_RTFKeywordIDs.h
+END
+ie_imp_GraphicAsDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/23844/abiword/trunk/src/wp/impexp/xp/ie_imp_GraphicAsDocument.h
+END
+ie_exp_HTML_DocumentWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/30704/abiword/trunk/src/wp/impexp/xp/ie_exp_HTML_DocumentWriter.cpp
+END
+ie_exp_AWT.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/19756/abiword/trunk/src/wp/impexp/xp/ie_exp_AWT.h
+END
+ie_exp_HTML_StyleTree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30576/abiword/trunk/src/wp/impexp/xp/ie_exp_HTML_StyleTree.cpp
+END
+ie_imp_AbiWord_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/29389/abiword/trunk/src/wp/impexp/xp/ie_imp_AbiWord_1.h
+END
+ie_impexp_MsWord_97.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/19756/abiword/trunk/src/wp/impexp/xp/ie_impexp_MsWord_97.h
+END
+ie_exp_RTF_listenerWriteDoc.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/30576/abiword/trunk/src/wp/impexp/xp/ie_exp_RTF_listenerWriteDoc.h
+END
+ie_TOC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30576/abiword/trunk/src/wp/impexp/xp/ie_TOC.cpp
+END
+ie_impGraphic_PNG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/26992/abiword/trunk/src/wp/impexp/xp/ie_impGraphic_PNG.cpp
+END
+ie_impGraphic.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/26992/abiword/trunk/src/wp/impexp/xp/ie_impGraphic.h
+END
+ie_imp_Text.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30575/abiword/trunk/src/wp/impexp/xp/ie_imp_Text.cpp
+END
+ie_imp.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/30297/abiword/trunk/src/wp/impexp/xp/ie_imp.h
+END
+ie_FileInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/19756/abiword/trunk/src/wp/impexp/xp/ie_FileInfo.cpp
+END
+ie_imp_PasteListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30576/abiword/trunk/src/wp/impexp/xp/ie_imp_PasteListener.h
+END
+ie_imp_RTFObjectsAndPicts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/30666/abiword/trunk/src/wp/impexp/xp/ie_imp_RTFObjectsAndPicts.cpp
+END
+ie_imp_XHTML.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/28458/abiword/trunk/src/wp/impexp/xp/ie_imp_XHTML.cpp
+END
+ie_mailmerge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/27051/abiword/trunk/src/wp/impexp/xp/ie_mailmerge.cpp
+END
+ie_exp_RTF_AttrProp.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30356/abiword/trunk/src/wp/impexp/xp/ie_exp_RTF_AttrProp.h
+END
+ie_exp_DocRangeListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30576/abiword/trunk/src/wp/impexp/xp/ie_exp_DocRangeListener.h
+END
+ie_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30296/abiword/trunk/src/wp/impexp/xp/ie_types.h
+END
+ie_imp_MsWord_dump.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/11147/abiword/trunk/src/wp/impexp/xp/ie_imp_MsWord_dump.h
+END
+ie_imp_XML.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30561/abiword/trunk/src/wp/impexp/xp/ie_imp_XML.h
+END
+ie_imp_AbiWord_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30596/abiword/trunk/src/wp/impexp/xp/ie_imp_AbiWord_1.cpp
+END
+ie_exp_HTML_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30700/abiword/trunk/src/wp/impexp/xp/ie_exp_HTML_util.cpp
+END
+ie_exp_HTML_DocumentWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/30701/abiword/trunk/src/wp/impexp/xp/ie_exp_HTML_DocumentWriter.h
+END
+ie_impexp_RTF.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/19756/abiword/trunk/src/wp/impexp/xp/ie_impexp_RTF.h
+END
+ie_imp_RDF.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30606/abiword/trunk/src/wp/impexp/xp/ie_imp_RDF.h
+END
+ie_exp_HTML.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30702/abiword/trunk/src/wp/impexp/xp/ie_exp_HTML.h
+END
+MathSVGScript.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30296/abiword/trunk/src/wp/impexp/xp/MathSVGScript.h
+END
+ie_TOC.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/30418/abiword/trunk/src/wp/impexp/xp/ie_TOC.h
+END
+ie_impexp_HTML.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19756/abiword/trunk/src/wp/impexp/xp/ie_impexp_HTML.h
+END
+ie_impGraphic_PNG.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/26992/abiword/trunk/src/wp/impexp/xp/ie_impGraphic_PNG.h
+END
+ie_imp_RTFKeywords.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30356/abiword/trunk/src/wp/impexp/xp/ie_imp_RTFKeywords.h
+END
+ie_imp_Text.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/19756/abiword/trunk/src/wp/impexp/xp/ie_imp_Text.h
+END
+ie_impexp_AbiWord_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/19756/abiword/trunk/src/wp/impexp/xp/ie_impexp_AbiWord_1.h
+END
+ie_imp_MsWord_97.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30575/abiword/trunk/src/wp/impexp/xp/ie_imp_MsWord_97.cpp
+END
+ie_exp_HTML_NavigationHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/30588/abiword/trunk/src/wp/impexp/xp/ie_exp_HTML_NavigationHelper.cpp
+END
+ie_FileInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/19756/abiword/trunk/src/wp/impexp/xp/ie_FileInfo.h
+END
+ie_exp.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/27026/abiword/trunk/src/wp/impexp/xp/ie_exp.h
+END
+ie_exp_RTF_AttrProp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30596/abiword/trunk/src/wp/impexp/xp/ie_exp_RTF_AttrProp.cpp
+END
+ie_exp_DocRangeListener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30590/abiword/trunk/src/wp/impexp/xp/ie_exp_DocRangeListener.cpp
+END
+ie_imp_RTF.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30575/abiword/trunk/src/wp/impexp/xp/ie_imp_RTF.h
+END
+ie_exp_Text.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30576/abiword/trunk/src/wp/impexp/xp/ie_exp_Text.h
+END
+ie_exp_RTF_listenerGetProps.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/30576/abiword/trunk/src/wp/impexp/xp/ie_exp_RTF_listenerGetProps.h
+END
+ie_imp_XHTML.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22175/abiword/trunk/src/wp/impexp/xp/ie_imp_XHTML.h
+END
+ie_impGraphic_SVG.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/26992/abiword/trunk/src/wp/impexp/xp/ie_impGraphic_SVG.h
+END
+ie_exp_RTF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30654/abiword/trunk/src/wp/impexp/xp/ie_exp_RTF.cpp
+END
+ie_exp_MsWord_97.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/19756/abiword/trunk/src/wp/impexp/xp/ie_exp_MsWord_97.h
+END
+ie_impexp_Register.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/19756/abiword/trunk/src/wp/impexp/xp/ie_impexp_Register.h
+END
+ie_impexp_Text.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19756/abiword/trunk/src/wp/impexp/xp/ie_impexp_Text.h
+END
+ie_imp_RDF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30640/abiword/trunk/src/wp/impexp/xp/ie_imp_RDF.cpp
+END
+ie_exp_HTML.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30702/abiword/trunk/src/wp/impexp/xp/ie_exp_HTML.cpp
+END
+ie_exp_HTML_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30654/abiword/trunk/src/wp/impexp/xp/ie_exp_HTML_util.h
+END
+ie_exp_AbiWord_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30714/abiword/trunk/src/wp/impexp/xp/ie_exp_AbiWord_1.cpp
+END
+ie_exp_HTML_Listener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30701/abiword/trunk/src/wp/impexp/xp/ie_exp_HTML_Listener.cpp
+END
+ie_Table.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30575/abiword/trunk/src/wp/impexp/xp/ie_Table.cpp
+END
+ie_imp_RTFParse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/26963/abiword/trunk/src/wp/impexp/xp/ie_imp_RTFParse.cpp
+END
+ie_exp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30329/abiword/trunk/src/wp/impexp/xp/ie_exp.cpp
+END
+ie_imp_RTF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30684/abiword/trunk/src/wp/impexp/xp/ie_imp_RTF.cpp
+END
+ie_exp_Text.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30576/abiword/trunk/src/wp/impexp/xp/ie_exp_Text.cpp
+END
+ie_exp_RTF_listenerGetProps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/30576/abiword/trunk/src/wp/impexp/xp/ie_exp_RTF_listenerGetProps.cpp
+END
+ie_impGraphic_SVG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/26992/abiword/trunk/src/wp/impexp/xp/ie_impGraphic_SVG.cpp
+END
+ie_imp_MsWord_97.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/28214/abiword/trunk/src/wp/impexp/xp/ie_imp_MsWord_97.h
+END
+ie_exp_HTML_NavigationHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/30588/abiword/trunk/src/wp/impexp/xp/ie_exp_HTML_NavigationHelper.h
+END
+ie_imp_GraphicAsDocument.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/26992/abiword/trunk/src/wp/impexp/xp/ie_imp_GraphicAsDocument.cpp
+END
+ie_exp_MsWord_97.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30576/abiword/trunk/src/wp/impexp/xp/ie_exp_MsWord_97.cpp
+END
+ie_impexp_Register.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30297/abiword/trunk/src/wp/impexp/xp/ie_impexp_Register.cpp
+END
+ie_exp_AWT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/19761/abiword/trunk/src/wp/impexp/xp/ie_exp_AWT.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30297/abiword/trunk/src/wp/impexp/xp/Makefile.am
+END
+ie_exp_HTML_UtilListeners.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30576/abiword/trunk/src/wp/impexp/xp/ie_exp_HTML_UtilListeners.h
+END
+ie_exp_RTF.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30575/abiword/trunk/src/wp/impexp/xp/ie_exp_RTF.h
+END
+ie_exp_RTF_listenerWriteDoc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/30754/abiword/trunk/src/wp/impexp/xp/ie_exp_RTF_listenerWriteDoc.cpp
+END

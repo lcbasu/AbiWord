@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/30775/abiword/trunk/plugins/opendocument
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30459/abiword/trunk/plugins/opendocument/Makefile.am
+END
+plugin.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30415/abiword/trunk/plugins/opendocument/plugin.m4
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/30586/abiword/trunk/src/text/ptbl/xp/t
+END
+pt_PieceTable.t.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30586/abiword/trunk/src/text/ptbl/xp/t/pt_PieceTable.t.cpp
+END
+pp_PropertyMap.t.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30519/abiword/trunk/src/text/ptbl/xp/t/pp_PropertyMap.t.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30515/abiword/trunk/src/text/ptbl/xp/t/Makefile.am
+END
+pf_Fragments.t.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30586/abiword/trunk/src/text/ptbl/xp/t/pf_Fragments.t.cpp
+END

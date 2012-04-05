@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30345/abiword/trunk/plugins/opendocument/common/xp/crypto
+END
+gc-pbkdf2-sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/29759/abiword/trunk/plugins/opendocument/common/xp/crypto/gc-pbkdf2-sha1.h
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28739/abiword/trunk/plugins/opendocument/common/xp/crypto/sha1.h
+END
+hmac-sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28734/abiword/trunk/plugins/opendocument/common/xp/crypto/hmac-sha1.c
+END
+memxor.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28734/abiword/trunk/plugins/opendocument/common/xp/crypto/memxor.c
+END
+gc-pbkdf2-sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/29759/abiword/trunk/plugins/opendocument/common/xp/crypto/gc-pbkdf2-sha1.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28739/abiword/trunk/plugins/opendocument/common/xp/crypto/README
+END
+memxor.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28734/abiword/trunk/plugins/opendocument/common/xp/crypto/memxor.h
+END
+sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28734/abiword/trunk/plugins/opendocument/common/xp/crypto/sha1.c
+END
+hmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28734/abiword/trunk/plugins/opendocument/common/xp/crypto/hmac.h
+END

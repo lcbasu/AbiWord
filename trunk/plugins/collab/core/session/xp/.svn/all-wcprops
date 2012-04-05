@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30684/abiword/trunk/plugins/collab/core/session/xp
+END
+AbiCollab_Export.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/30576/abiword/trunk/plugins/collab/core/session/xp/AbiCollab_Export.h
+END
+AbiCollab_Import.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/30684/abiword/trunk/plugins/collab/core/session/xp/AbiCollab_Import.cpp
+END
+DiskSessionRecorder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/26756/abiword/trunk/plugins/collab/core/session/xp/DiskSessionRecorder.cpp
+END
+AbiCollab_ImportRuleSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/26262/abiword/trunk/plugins/collab/core/session/xp/AbiCollab_ImportRuleSet.cpp
+END
+AbiCollabSessionManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/30584/abiword/trunk/plugins/collab/core/session/xp/AbiCollabSessionManager.cpp
+END
+AbiCollab_Import.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28149/abiword/trunk/plugins/collab/core/session/xp/AbiCollab_Import.h
+END
+AbiCollab.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30684/abiword/trunk/plugins/collab/core/session/xp/AbiCollab.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/26158/abiword/trunk/plugins/collab/core/session/xp/Makefile.am
+END
+AbiCollab_Export.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/30590/abiword/trunk/plugins/collab/core/session/xp/AbiCollab_Export.cpp
+END
+DiskSessionRecorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/26147/abiword/trunk/plugins/collab/core/session/xp/DiskSessionRecorder.h
+END
+AbiCollab_ImportRuleSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/23915/abiword/trunk/plugins/collab/core/session/xp/AbiCollab_ImportRuleSet.h
+END
+AbiCollabSessionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/29463/abiword/trunk/plugins/collab/core/session/xp/AbiCollabSessionManager.h
+END
+AbiCollab.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/29270/abiword/trunk/plugins/collab/core/session/xp/AbiCollab.h
+END

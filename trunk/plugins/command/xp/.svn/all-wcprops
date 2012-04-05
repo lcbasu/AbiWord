@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/30556/abiword/trunk/plugins/command/xp
+END
+AbiCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30549/abiword/trunk/plugins/command/xp/AbiCommand.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/23803/abiword/trunk/plugins/command/xp/Makefile.am
+END
+AbiCommand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30556/abiword/trunk/plugins/command/xp/AbiCommand.cpp
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30556/abiword/trunk/plugins/collab/core/dialogs/unix
+END
+ap_UnixDialog_CollaborationAccounts.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/29463/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationAccounts.h
+END
+ap_UnixDialog_CollaborationAddBuddy.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/22481/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationAddBuddy.h
+END
+ap_UnixDialog_CollaborationJoin-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/30511/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationJoin-2.ui
+END
+ap_UnixDialog_CollaborationJoin.ui
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/30511/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationJoin.ui
+END
+ap_UnixDialog_CollaborationEditAccount-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/30511/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationEditAccount-2.ui
+END
+ap_UnixDialog_CollaborationShare-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/30511/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationShare-2.ui
+END
+ap_UnixDialog_CollaborationEditAccount.ui
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/30511/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationEditAccount.ui
+END
+ap_UnixDialog_CollaborationShare.ui
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/30511/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationShare.ui
+END
+ap_UnixDialog_CollaborationAddAccount-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/30511/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationAddAccount-2.ui
+END
+ap_UnixDialog_CollaborationJoin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/30556/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationJoin.cpp
+END
+ap_UnixDialog_CollaborationAddAccount.ui
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/30511/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationAddAccount.ui
+END
+ap_UnixDialog_CollaborationEditAccount.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/30511/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationEditAccount.cpp
+END
+ap_UnixDialog_CollaborationShare.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/30511/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationShare.cpp
+END
+ap_UnixDialog_CollaborationJoin.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/27776/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationJoin.h
+END
+ap_UnixDialog_CollaborationAddAccount.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/30511/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationAddAccount.cpp
+END
+ap_UnixDialog_CollaborationEditAccount.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/30385/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationEditAccount.h
+END
+ap_UnixDialog_CollaborationShare.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/27610/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationShare.h
+END
+ap_UnixDialog_CollaborationAccounts-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/30511/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationAccounts-2.ui
+END
+ap_UnixDialog_CollaborationAddBuddy-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/30511/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationAddBuddy-2.ui
+END
+ap_UnixDialog_CollaborationAddAccount.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/30385/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationAddAccount.h
+END
+ap_UnixDialog_CollaborationAccounts.ui
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/30511/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationAccounts.ui
+END
+ap_UnixDialog_CollaborationAddBuddy.ui
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/30511/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationAddBuddy.ui
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30511/abiword/trunk/plugins/collab/core/dialogs/unix/Makefile.am
+END
+ap_UnixDialog_CollaborationAccounts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/30511/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationAccounts.cpp
+END
+ap_UnixDialog_CollaborationAddBuddy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/30511/abiword/trunk/plugins/collab/core/dialogs/unix/ap_UnixDialog_CollaborationAddBuddy.cpp
+END

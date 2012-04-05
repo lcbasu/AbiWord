@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/29797/abiword/trunk/plugins/collab/backends/telepathy/unix
+END
+TelepathyUnixAccountHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/29795/abiword/trunk/plugins/collab/backends/telepathy/unix/TelepathyUnixAccountHandler.cpp
+END
+DTubeBuddy.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/29777/abiword/trunk/plugins/collab/backends/telepathy/unix/DTubeBuddy.h
+END
+TelepathyChatroom.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/29794/abiword/trunk/plugins/collab/backends/telepathy/unix/TelepathyChatroom.h
+END
+TelepathyUnixAccountHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/29794/abiword/trunk/plugins/collab/backends/telepathy/unix/TelepathyUnixAccountHandler.h
+END
+AbiCollab.client
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/29480/abiword/trunk/plugins/collab/backends/telepathy/unix/AbiCollab.client
+END
+org.freedesktop.Telepathy.Client.AbiCollab.service.in
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/29480/abiword/trunk/plugins/collab/backends/telepathy/unix/org.freedesktop.Telepathy.Client.AbiCollab.service.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/29480/abiword/trunk/plugins/collab/backends/telepathy/unix/Makefile.am
+END
+TelepathyBuddy.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/29447/abiword/trunk/plugins/collab/backends/telepathy/unix/TelepathyBuddy.h
+END
+TelepathyChatroom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/29797/abiword/trunk/plugins/collab/backends/telepathy/unix/TelepathyChatroom.cpp
+END

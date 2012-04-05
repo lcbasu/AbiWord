@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/30561/abiword/trunk/src/af/util/xp/t
+END
+ut_types.t.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/19756/abiword/trunk/src/af/util/xp/t/ut_types.t.cpp
+END
+ut_string.t.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/19807/abiword/trunk/src/af/util/xp/t/ut_string.t.cpp
+END
+ut_string_class.t.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30490/abiword/trunk/src/af/util/xp/t/ut_string_class.t.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30515/abiword/trunk/src/af/util/xp/t/Makefile.am
+END
+ut_locale.t.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30518/abiword/trunk/src/af/util/xp/t/ut_locale.t.cpp
+END
+ut_bytebuf.t.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19755/abiword/trunk/src/af/util/xp/t/ut_bytebuf.t.cpp
+END
+ut_std_string.t.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30561/abiword/trunk/src/af/util/xp/t/ut_std_string.t.cpp
+END
+ut_vector.t.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22664/abiword/trunk/src/af/util/xp/t/ut_vector.t.cpp
+END

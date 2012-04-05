@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/29761/abiword/trunk/plugins/collab/backends/sipsimple/unix
+END
+SIPSimpleUnixAccountHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/29463/abiword/trunk/plugins/collab/backends/sipsimple/unix/SIPSimpleUnixAccountHandler.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/29386/abiword/trunk/plugins/collab/backends/sipsimple/unix/Makefile.am
+END
+SIPSimpleUnixAccountHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/29463/abiword/trunk/plugins/collab/backends/sipsimple/unix/SIPSimpleUnixAccountHandler.h
+END

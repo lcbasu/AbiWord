@@ -1,0 +1,1301 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/30768/abiword/trunk/src/wp/ap/xp
+END
+ap_EditMethods.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/28882/abiword/trunk/src/wp/ap/xp/ap_EditMethods.h
+END
+ap_Dialog_MarkRevisions.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/28800/abiword/trunk/src/wp/ap/xp/ap_Dialog_MarkRevisions.h
+END
+ap_Dialog_MailMerge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/19807/abiword/trunk/src/wp/ap/xp/ap_Dialog_MailMerge.cpp
+END
+ap_Dialog_FormatTOC.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/25704/abiword/trunk/src/wp/ap/xp/ap_Dialog_FormatTOC.h
+END
+ap_Dialog_FormatTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/28620/abiword/trunk/src/wp/ap/xp/ap_Dialog_FormatTable.h
+END
+ap_Dialog_FormatFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/28620/abiword/trunk/src/wp/ap/xp/ap_Dialog_FormatFrame.h
+END
+ap_Dialog_Border_Shading.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30710/abiword/trunk/src/wp/ap/xp/ap_Dialog_Border_Shading.cpp
+END
+ap_Dialog_Tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/25101/abiword/trunk/src/wp/ap/xp/ap_Dialog_Tab.h
+END
+ap_Toolbar_Icons_All.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30606/abiword/trunk/src/wp/ap/xp/ap_Toolbar_Icons_All.h
+END
+ap_LB_DeadTilde.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/20222/abiword/trunk/src/wp/ap/xp/ap_LB_DeadTilde.cpp
+END
+ap_LB_DeadCircumflex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/20222/abiword/trunk/src/wp/ap/xp/ap_LB_DeadCircumflex.cpp
+END
+ap_LB_DeadAbovedot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/20222/abiword/trunk/src/wp/ap/xp/ap_LB_DeadAbovedot.cpp
+END
+ap_Dialog_GetStringCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30470/abiword/trunk/src/wp/ap/xp/ap_Dialog_GetStringCommon.cpp
+END
+ap_LB_viEdit_y.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_LB_viEdit_y.h
+END
+ap_Frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/21951/abiword/trunk/src/wp/ap/xp/ap_Frame.h
+END
+ap_Dialog_Replace.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/23896/abiword/trunk/src/wp/ap/xp/ap_Dialog_Replace.h
+END
+ap_ML_ContextRevision.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_ML_ContextRevision.h
+END
+ap_Dialog_MergeCells.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30710/abiword/trunk/src/wp/ap/xp/ap_Dialog_MergeCells.cpp
+END
+ap_LB_DeadBreve.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_LB_DeadBreve.h
+END
+ap_Dialog_Spell.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/23896/abiword/trunk/src/wp/ap/xp/ap_Dialog_Spell.h
+END
+ap_Dialog_MetaData.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30561/abiword/trunk/src/wp/ap/xp/ap_Dialog_MetaData.h
+END
+ap_LB_viEdit_d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/20222/abiword/trunk/src/wp/ap/xp/ap_LB_viEdit_d.cpp
+END
+ap_LB_Emacs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/20222/abiword/trunk/src/wp/ap/xp/ap_LB_Emacs.cpp
+END
+ap_Dialog_Styles.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/26403/abiword/trunk/src/wp/ap/xp/ap_Dialog_Styles.h
+END
+ap_Dialog_Break.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/23896/abiword/trunk/src/wp/ap/xp/ap_Dialog_Break.h
+END
+ap_Prefs_SchemeIds.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30069/abiword/trunk/src/wp/ap/xp/ap_Prefs_SchemeIds.h
+END
+ap_LB_DeadMacron.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/20222/abiword/trunk/src/wp/ap/xp/ap_LB_DeadMacron.cpp
+END
+ap_Dialog_MarkRevisions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28800/abiword/trunk/src/wp/ap/xp/ap_Dialog_MarkRevisions.cpp
+END
+ap_Preview_Paragraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/29629/abiword/trunk/src/wp/ap/xp/ap_Preview_Paragraph.h
+END
+ap_LB_DeadOgonek.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/20222/abiword/trunk/src/wp/ap/xp/ap_LB_DeadOgonek.cpp
+END
+ap_Toolbar_Id_List.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30606/abiword/trunk/src/wp/ap/xp/ap_Toolbar_Id_List.h
+END
+ap_Dialog_FormatTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30710/abiword/trunk/src/wp/ap/xp/ap_Dialog_FormatTable.cpp
+END
+ap_LB_viEdit_r.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/20222/abiword/trunk/src/wp/ap/xp/ap_LB_viEdit_r.cpp
+END
+ap_Toolbar_Layouts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30533/abiword/trunk/src/wp/ap/xp/ap_Toolbar_Layouts.cpp
+END
+ap_FrameData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/26678/abiword/trunk/src/wp/ap/xp/ap_FrameData.cpp
+END
+ap_Dialog_InsertXMLID.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30264/abiword/trunk/src/wp/ap/xp/ap_Dialog_InsertXMLID.h
+END
+ap_ML_ContextText.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/21991/abiword/trunk/src/wp/ap/xp/ap_ML_ContextText.h
+END
+ap_ML_ContextEquation.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_ML_ContextEquation.h
+END
+ap_ML_ContextTOC.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_ML_ContextTOC.h
+END
+ap_String_Id.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30768/abiword/trunk/src/wp/ap/xp/ap_String_Id.h
+END
+ap_Dialog_Background.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/19807/abiword/trunk/src/wp/ap/xp/ap_Dialog_Background.cpp
+END
+margin.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/15651/abiword/trunk/src/wp/ap/xp/margin.png
+END
+ap_LB_DeadAcute.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_LB_DeadAcute.h
+END
+ap_Dialog_ToggleCase.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/23896/abiword/trunk/src/wp/ap/xp/ap_Dialog_ToggleCase.h
+END
+ap_Dialog_ListRevisions.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30356/abiword/trunk/src/wp/ap/xp/ap_Dialog_ListRevisions.h
+END
+ap_LB_DeadAbovedot.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_LB_DeadAbovedot.h
+END
+ap_Dialog_GetStringCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30470/abiword/trunk/src/wp/ap/xp/ap_Dialog_GetStringCommon.h
+END
+ap_Dialog_Break.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_Dialog_Break.cpp
+END
+ap_Dialog_Columns.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/28620/abiword/trunk/src/wp/ap/xp/ap_Dialog_Columns.h
+END
+ap_Dialog_Insert_DateTime.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/23896/abiword/trunk/src/wp/ap/xp/ap_Dialog_Insert_DateTime.h
+END
+ap_RDFLocation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30640/abiword/trunk/src/wp/ap/xp/ap_RDFLocation.cpp
+END
+ap_LB_DeadDiaeresis.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_LB_DeadDiaeresis.h
+END
+ap_Dialog_FormatFootnotes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/25704/abiword/trunk/src/wp/ap/xp/ap_Dialog_FormatFootnotes.cpp
+END
+ap_Dialog_New.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/21256/abiword/trunk/src/wp/ap/xp/ap_Dialog_New.cpp
+END
+ap_Dialog_InsertBookmark.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30563/abiword/trunk/src/wp/ap/xp/ap_Dialog_InsertBookmark.cpp
+END
+orient-vertical.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22293/abiword/trunk/src/wp/ap/xp/orient-vertical.xpm
+END
+ap_Dialog_HdrFtr.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/23896/abiword/trunk/src/wp/ap/xp/ap_Dialog_HdrFtr.h
+END
+ap_LB_DeadMacron.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_LB_DeadMacron.h
+END
+ap_Menu_LabelSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_Menu_LabelSet.cpp
+END
+ap_Dialog_Id.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30264/abiword/trunk/src/wp/ap/xp/ap_Dialog_Id.h
+END
+ap_Dialog_Modal.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30264/abiword/trunk/src/wp/ap/xp/ap_Dialog_Modal.h
+END
+ap_Menu_Id_List.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30728/abiword/trunk/src/wp/ap/xp/ap_Menu_Id_List.h
+END
+ap_TB_Layouts_FileEditOps.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30606/abiword/trunk/src/wp/ap/xp/ap_TB_Layouts_FileEditOps.h
+END
+ap_Dialog_Lists.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30575/abiword/trunk/src/wp/ap/xp/ap_Dialog_Lists.h
+END
+ap_LB_EmacsCtrlX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/20222/abiword/trunk/src/wp/ap/xp/ap_LB_EmacsCtrlX.cpp
+END
+ap_Dialog_Paragraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/29629/abiword/trunk/src/wp/ap/xp/ap_Dialog_Paragraph.cpp
+END
+ap_ML_ContextImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_ML_ContextImage.h
+END
+ap_Dialog_RDFQuery.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30266/abiword/trunk/src/wp/ap/xp/ap_Dialog_RDFQuery.h
+END
+ap_Convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_Convert.h
+END
+ap_Menu_Id.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_Menu_Id.h
+END
+ap_LB_viEdit_r.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_LB_viEdit_r.h
+END
+ap_Strings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/26211/abiword/trunk/src/wp/ap/xp/ap_Strings.cpp
+END
+ap_Dialog_Modeless.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30697/abiword/trunk/src/wp/ap/xp/ap_Dialog_Modeless.cpp
+END
+ap_Dialog_Annotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/27539/abiword/trunk/src/wp/ap/xp/ap_Dialog_Annotation.h
+END
+ap_Dialog_Columns.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/28620/abiword/trunk/src/wp/ap/xp/ap_Dialog_Columns.cpp
+END
+ap_Dialog_Insert_DateTime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_Dialog_Insert_DateTime.cpp
+END
+ap_Dialog_RDFEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30549/abiword/trunk/src/wp/ap/xp/ap_Dialog_RDFEditor.cpp
+END
+ap_Args.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/23896/abiword/trunk/src/wp/ap/xp/ap_Args.h
+END
+ap_Dialog_Latex.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/23896/abiword/trunk/src/wp/ap/xp/ap_Dialog_Latex.h
+END
+ap_Menu_Functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30606/abiword/trunk/src/wp/ap/xp/ap_Menu_Functions.h
+END
+ap_Preview_Abi.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/28620/abiword/trunk/src/wp/ap/xp/ap_Preview_Abi.h
+END
+ap_LB_DeadCaron.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_LB_DeadCaron.h
+END
+ap_LoadBindings.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/23882/abiword/trunk/src/wp/ap/xp/ap_LoadBindings.h
+END
+ap_LB_DeadDiaeresis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/20222/abiword/trunk/src/wp/ap/xp/ap_LB_DeadDiaeresis.cpp
+END
+ap_Dialog_Background.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/23896/abiword/trunk/src/wp/ap/xp/ap_Dialog_Background.h
+END
+ap_ML_ContextHyperlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30606/abiword/trunk/src/wp/ap/xp/ap_ML_ContextHyperlink.h
+END
+ap_Dialog_Modal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30264/abiword/trunk/src/wp/ap/xp/ap_Dialog_Modal.cpp
+END
+ap_Toolbar_LabelSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_Toolbar_LabelSet.cpp
+END
+ap_ML_ContextSquiggle.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_ML_ContextSquiggle.h
+END
+ap_Menu_Layouts_MainMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30728/abiword/trunk/src/wp/ap/xp/ap_Menu_Layouts_MainMenu.h
+END
+ap_RDFEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/30640/abiword/trunk/src/wp/ap/xp/ap_RDFEvent.h
+END
+ap_Features.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/26678/abiword/trunk/src/wp/ap/xp/ap_Features.h
+END
+ap_Toolbar_Id.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_Toolbar_Id.h
+END
+ap_App.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/26612/abiword/trunk/src/wp/ap/xp/ap_App.h
+END
+ap_Dialog_MailMerge.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/23896/abiword/trunk/src/wp/ap/xp/ap_Dialog_MailMerge.h
+END
+ap_wp_sidebar_static.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28060/abiword/trunk/src/wp/ap/xp/ap_wp_sidebar_static.cpp
+END
+ap_LB_EmacsCtrlX.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_LB_EmacsCtrlX.h
+END
+ap_Ruler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_Ruler.cpp
+END
+ap_LB_DeadDoubleacute.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_LB_DeadDoubleacute.h
+END
+ap_ML_ContextFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_ML_ContextFrame.h
+END
+ap_Dialog_Border_Shading.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30418/abiword/trunk/src/wp/ap/xp/ap_Dialog_Border_Shading.h
+END
+ap_Dialog_Modeless.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30264/abiword/trunk/src/wp/ap/xp/ap_Dialog_Modeless.h
+END
+ap_Dialog_InsertTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/23896/abiword/trunk/src/wp/ap/xp/ap_Dialog_InsertTable.h
+END
+ap_LB_Default.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30473/abiword/trunk/src/wp/ap/xp/ap_LB_Default.cpp
+END
+ap_LB_viEdit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/20222/abiword/trunk/src/wp/ap/xp/ap_LB_viEdit.cpp
+END
+ap_Dialog_MergeCells.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/23896/abiword/trunk/src/wp/ap/xp/ap_Dialog_MergeCells.h
+END
+ap_Dialog_WordCount.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/23896/abiword/trunk/src/wp/ap/xp/ap_Dialog_WordCount.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/30640/abiword/trunk/src/wp/ap/xp/Makefile.am
+END
+ap_LB_viEdit_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_LB_viEdit_c.h
+END
+ap_Dialog_InsertHyperlink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30563/abiword/trunk/src/wp/ap/xp/ap_Dialog_InsertHyperlink.cpp
+END
+ap_LeftRuler.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/28738/abiword/trunk/src/wp/ap/xp/ap_LeftRuler.h
+END
+ap_Dialog_Options.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30397/abiword/trunk/src/wp/ap/xp/ap_Dialog_Options.cpp
+END
+ap_LB_Emacs.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_LB_Emacs.h
+END
+margin.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/22293/abiword/trunk/src/wp/ap/xp/margin.xpm
+END
+ap_TopRuler.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/28616/abiword/trunk/src/wp/ap/xp/ap_TopRuler.h
+END
+ap_LB_DeadOgonek.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_LB_DeadOgonek.h
+END
+ap_Prefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/25446/abiword/trunk/src/wp/ap/xp/ap_Prefs.h
+END
+ap_LB_DeadDoubleacute.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/20222/abiword/trunk/src/wp/ap/xp/ap_LB_DeadDoubleacute.cpp
+END
+ap_ML_ContextPosObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_ML_ContextPosObject.h
+END
+ap_Toolbar_Functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30697/abiword/trunk/src/wp/ap/xp/ap_Toolbar_Functions.cpp
+END
+ap_Dialog_InsertTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/26371/abiword/trunk/src/wp/ap/xp/ap_Dialog_InsertTable.cpp
+END
+ap_LB_DeadAcute.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/20222/abiword/trunk/src/wp/ap/xp/ap_LB_DeadAcute.cpp
+END
+ap_Dialog_ToggleCase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_Dialog_ToggleCase.cpp
+END
+ap_Dialog_PageNumbers.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/28620/abiword/trunk/src/wp/ap/xp/ap_Dialog_PageNumbers.h
+END
+ap_Dialog_ListRevisions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30356/abiword/trunk/src/wp/ap/xp/ap_Dialog_ListRevisions.cpp
+END
+ap_LB_DeadCedilla.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_LB_DeadCedilla.h
+END
+ap_Dialog_SplitCells.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30710/abiword/trunk/src/wp/ap/xp/ap_Dialog_SplitCells.cpp
+END
+ap_Dialog_WordCount.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30710/abiword/trunk/src/wp/ap/xp/ap_Dialog_WordCount.cpp
+END
+ap_LB_viEdit_c.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/20222/abiword/trunk/src/wp/ap/xp/ap_LB_viEdit_c.cpp
+END
+ap_Dialog_HdrFtr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_Dialog_HdrFtr.cpp
+END
+ap_EditMethods.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30697/abiword/trunk/src/wp/ap/xp/ap_EditMethods.cpp
+END
+ap_Toolbar_ActionSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30606/abiword/trunk/src/wp/ap/xp/ap_Toolbar_ActionSet.cpp
+END
+ap_Dialog_FormatTOC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30575/abiword/trunk/src/wp/ap/xp/ap_Dialog_FormatTOC.cpp
+END
+ap_StatusBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/29715/abiword/trunk/src/wp/ap/xp/ap_StatusBar.h
+END
+ap_Dialog_InsertBookmark.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30563/abiword/trunk/src/wp/ap/xp/ap_Dialog_InsertBookmark.h
+END
+ap_Dialog_Options.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30397/abiword/trunk/src/wp/ap/xp/ap_Dialog_Options.h
+END
+ap_Prefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/26528/abiword/trunk/src/wp/ap/xp/ap_Prefs.cpp
+END
+ap_Toolbar_Layouts_All.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/26678/abiword/trunk/src/wp/ap/xp/ap_Toolbar_Layouts_All.h
+END
+ap_Dialog_RDFQuery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30370/abiword/trunk/src/wp/ap/xp/ap_Dialog_RDFQuery.cpp
+END
+ap_Convert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/27051/abiword/trunk/src/wp/ap/xp/ap_Convert.cpp
+END
+ap_Dialog_PageSetup.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/27690/abiword/trunk/src/wp/ap/xp/ap_Dialog_PageSetup.h
+END
+ap_TB_Layouts_FormatOps.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30039/abiword/trunk/src/wp/ap/xp/ap_TB_Layouts_FormatOps.h
+END
+ap_Dialog_Tab.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/26210/abiword/trunk/src/wp/ap/xp/ap_Dialog_Tab.cpp
+END
+ap_TB_Layouts_SimpleOps.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/26766/abiword/trunk/src/wp/ap/xp/ap_TB_Layouts_SimpleOps.h
+END
+ap_Dialog_PageNumbers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/28620/abiword/trunk/src/wp/ap/xp/ap_Dialog_PageNumbers.cpp
+END
+ap_LB_viEdit_y.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/20222/abiword/trunk/src/wp/ap/xp/ap_LB_viEdit_y.cpp
+END
+sidebar.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/28059/abiword/trunk/src/wp/ap/xp/sidebar.png
+END
+ap_Dialog_Goto.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30563/abiword/trunk/src/wp/ap/xp/ap_Dialog_Goto.h
+END
+ap_Args.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/30488/abiword/trunk/src/wp/ap/xp/ap_Args.cpp
+END
+ap_Dialog_Latex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30758/abiword/trunk/src/wp/ap/xp/ap_Dialog_Latex.cpp
+END
+ap_Menu_Functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30759/abiword/trunk/src/wp/ap/xp/ap_Menu_Functions.cpp
+END
+ap_Preview_Abi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/28622/abiword/trunk/src/wp/ap/xp/ap_Preview_Abi.cpp
+END
+ap_RDFContact.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30640/abiword/trunk/src/wp/ap/xp/ap_RDFContact.h
+END
+ap_Strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/23882/abiword/trunk/src/wp/ap/xp/ap_Strings.h
+END
+ap_Toolbar_Functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30606/abiword/trunk/src/wp/ap/xp/ap_Toolbar_Functions.h
+END
+ap_LB_viEdit_colon.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_LB_viEdit_colon.h
+END
+ap_LB_DeadTilde.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_LB_DeadTilde.h
+END
+ap_LB_DeadCircumflex.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_LB_DeadCircumflex.h
+END
+ap_Dialog_Field.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/19807/abiword/trunk/src/wp/ap/xp/ap_Dialog_Field.cpp
+END
+ap_Menu_Layouts_Embedded.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30728/abiword/trunk/src/wp/ap/xp/ap_Menu_Layouts_Embedded.h
+END
+ap_TB_Layouts_Embedded.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/19786/abiword/trunk/src/wp/ap/xp/ap_TB_Layouts_Embedded.h
+END
+ap_Clipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1922/abiword/trunk/src/wp/ap/xp/ap_Clipboard.h
+END
+ap_Dialog_RDFEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30264/abiword/trunk/src/wp/ap/xp/ap_Dialog_RDFEditor.h
+END
+ap_LB_viEdit_d.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_LB_viEdit_d.h
+END
+ap_Menu_ActionSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30728/abiword/trunk/src/wp/ap/xp/ap_Menu_ActionSet.cpp
+END
+ap_ML_ContextEmbed.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_ML_ContextEmbed.h
+END
+ap_App.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/29583/abiword/trunk/src/wp/ap/xp/ap_App.cpp
+END
+ap_LB_viInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_LB_viInput.h
+END
+ap_Preview_Annotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/28620/abiword/trunk/src/wp/ap/xp/ap_Preview_Annotation.h
+END
+ap_Dialog_InsertXMLID.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30264/abiword/trunk/src/wp/ap/xp/ap_Dialog_InsertXMLID.cpp
+END
+ap_Menu_Layouts_All.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/21491/abiword/trunk/src/wp/ap/xp/ap_Menu_Layouts_All.h
+END
+ap_Menu_Layouts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30697/abiword/trunk/src/wp/ap/xp/ap_Menu_Layouts.cpp
+END
+ap_Dialog_Goto.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30710/abiword/trunk/src/wp/ap/xp/ap_Dialog_Goto.cpp
+END
+ap_RDFContact.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30640/abiword/trunk/src/wp/ap/xp/ap_RDFContact.cpp
+END
+ap_FrameData.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_FrameData.h
+END
+orient-horizontal.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22293/abiword/trunk/src/wp/ap/xp/orient-horizontal.xpm
+END
+ap_Dialog_Stylist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/27400/abiword/trunk/src/wp/ap/xp/ap_Dialog_Stylist.cpp
+END
+ap_LB_viEdit_colon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/20222/abiword/trunk/src/wp/ap/xp/ap_LB_viEdit_colon.cpp
+END
+ap_Toolbar_Icons.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30574/abiword/trunk/src/wp/ap/xp/ap_Toolbar_Icons.cpp
+END
+ap_Ruler.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/23896/abiword/trunk/src/wp/ap/xp/ap_Ruler.h
+END
+ap_Dialog_Stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/23896/abiword/trunk/src/wp/ap/xp/ap_Dialog_Stub.h
+END
+ap_LB_DeadGrave.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_LB_DeadGrave.h
+END
+ap_LeftRuler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30697/abiword/trunk/src/wp/ap/xp/ap_LeftRuler.cpp
+END
+ap_LB_Default.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_LB_Default.h
+END
+ap_LB_viEdit.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_LB_viEdit.h
+END
+ap_Dialog_Field.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/23896/abiword/trunk/src/wp/ap/xp/ap_Dialog_Field.h
+END
+ap_RDFLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30640/abiword/trunk/src/wp/ap/xp/ap_RDFLocation.h
+END
+ap_LB_viInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/20222/abiword/trunk/src/wp/ap/xp/ap_LB_viInput.cpp
+END
+ap_Preview_Annotation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/29594/abiword/trunk/src/wp/ap/xp/ap_Preview_Annotation.cpp
+END
+ap_TopRuler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30627/abiword/trunk/src/wp/ap/xp/ap_TopRuler.cpp
+END
+ap_Dialog_FormatFootnotes.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/25704/abiword/trunk/src/wp/ap/xp/ap_Dialog_FormatFootnotes.h
+END
+ap_Dialog_Lists.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30575/abiword/trunk/src/wp/ap/xp/ap_Dialog_Lists.cpp
+END
+ap_Dialog_New.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/23896/abiword/trunk/src/wp/ap/xp/ap_Dialog_New.h
+END
+ap_Toolbar_Iconmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30606/abiword/trunk/src/wp/ap/xp/ap_Toolbar_Iconmap.h
+END
+ap_Dialog_InsertHyperlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30563/abiword/trunk/src/wp/ap/xp/ap_Dialog_InsertHyperlink.h
+END
+ap_TB_Layouts_ExtraOps.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30039/abiword/trunk/src/wp/ap/xp/ap_TB_Layouts_ExtraOps.h
+END
+ap_Dialog_FormatFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30710/abiword/trunk/src/wp/ap/xp/ap_Dialog_FormatFrame.cpp
+END
+ap_TB_Layouts_TableOps.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/23819/abiword/trunk/src/wp/ap/xp/ap_TB_Layouts_TableOps.h
+END
+ap_LB_DeadCedilla.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/20222/abiword/trunk/src/wp/ap/xp/ap_LB_DeadCedilla.cpp
+END
+ap_Dialog_Paragraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/28620/abiword/trunk/src/wp/ap/xp/ap_Dialog_Paragraph.h
+END
+ap_Frame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/30533/abiword/trunk/src/wp/ap/xp/ap_Frame.cpp
+END
+ap_Dialog_Replace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30710/abiword/trunk/src/wp/ap/xp/ap_Dialog_Replace.cpp
+END
+ap_LB_DeadCaron.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/20222/abiword/trunk/src/wp/ap/xp/ap_LB_DeadCaron.cpp
+END
+ap_EmbeddedFeatures.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/19756/abiword/trunk/src/wp/ap/xp/ap_EmbeddedFeatures.h
+END
+ap_LoadBindings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/26446/abiword/trunk/src/wp/ap/xp/ap_LoadBindings.cpp
+END
+ap_LB_DeadBreve.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/20222/abiword/trunk/src/wp/ap/xp/ap_LB_DeadBreve.cpp
+END
+ap_Dialog_Spell.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/25101/abiword/trunk/src/wp/ap/xp/ap_Dialog_Spell.cpp
+END
+ap_LB_DeadGrave.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/20222/abiword/trunk/src/wp/ap/xp/ap_LB_DeadGrave.cpp
+END
+ap_Dialog_Stylist.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/27400/abiword/trunk/src/wp/ap/xp/ap_Dialog_Stylist.h
+END
+ap_Dialog_Styles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30533/abiword/trunk/src/wp/ap/xp/ap_Dialog_Styles.cpp
+END
+ap_Dialog_SplitCells.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/23896/abiword/trunk/src/wp/ap/xp/ap_Dialog_SplitCells.h
+END
+ap_FrameListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/21951/abiword/trunk/src/wp/ap/xp/ap_FrameListener.h
+END
+ap_Preview_Paragraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/29629/abiword/trunk/src/wp/ap/xp/ap_Preview_Paragraph.cpp
+END
+ap_StatusBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30743/abiword/trunk/src/wp/ap/xp/ap_StatusBar.cpp
+END
+ap_Dialog_PageSetup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/27690/abiword/trunk/src/wp/ap/xp/ap_Dialog_PageSetup.cpp
+END
+ap_RDFEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30640/abiword/trunk/src/wp/ap/xp/ap_RDFEvent.cpp
+END

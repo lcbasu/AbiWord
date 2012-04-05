@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/29463/abiword/trunk/plugins/collab/backends/xmpp/unix
+END
+XMPPUnixAccountHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/29463/abiword/trunk/plugins/collab/backends/xmpp/unix/XMPPUnixAccountHandler.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/26134/abiword/trunk/plugins/collab/backends/xmpp/unix/Makefile.am
+END
+XMPPUnixAccountHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/29463/abiword/trunk/plugins/collab/backends/xmpp/unix/XMPPUnixAccountHandler.h
+END

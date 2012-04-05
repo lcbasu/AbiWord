@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 51
+Makefile.in
+Makefile
+.deps
+.libs
+ap_wp_sidebar.cpp
+
+END

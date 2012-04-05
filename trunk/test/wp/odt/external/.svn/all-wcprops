@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/29358/abiword/trunk/test/wp/odt/external
+END
+find-by-id.sparql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/29358/abiword/trunk/test/wp/odt/external/find-by-id.sparql
+END
+external.odt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/29358/abiword/trunk/test/wp/odt/external/external.odt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/29358/abiword/trunk/test/wp/odt/external/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/29358/abiword/trunk/test/wp/odt/external/Makefile
+END

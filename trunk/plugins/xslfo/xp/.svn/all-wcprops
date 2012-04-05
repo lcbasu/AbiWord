@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/30576/abiword/trunk/plugins/xslfo/xp
+END
+ie_imp_XSL-FO.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/23915/abiword/trunk/plugins/xslfo/xp/ie_imp_XSL-FO.h
+END
+ie_exp_XSL-FO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30576/abiword/trunk/plugins/xslfo/xp/ie_exp_XSL-FO.cpp
+END
+ie_exp_XSL-FO.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30576/abiword/trunk/plugins/xslfo/xp/ie_exp_XSL-FO.h
+END
+ie_impexp_XSL-FO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/23711/abiword/trunk/plugins/xslfo/xp/ie_impexp_XSL-FO.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/23803/abiword/trunk/plugins/xslfo/xp/Makefile.am
+END
+ie_imp_XSL-FO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/26989/abiword/trunk/plugins/xslfo/xp/ie_imp_XSL-FO.cpp
+END
+ie_impexp_XSL-FO.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/23229/abiword/trunk/plugins/xslfo/xp/ie_impexp_XSL-FO.h
+END

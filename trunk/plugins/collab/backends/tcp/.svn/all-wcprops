@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30503/abiword/trunk/plugins/collab/backends/tcp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/23305/abiword/trunk/plugins/collab/backends/tcp/Makefile.am
+END

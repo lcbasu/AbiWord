@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/29655/abiword/trunk/src/wp/impexp/win
+END
+ie_impGraphic_Win32Native.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/27160/abiword/trunk/src/wp/impexp/win/ie_impGraphic_Win32Native.h
+END
+ie_impexp_RegisterWin32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/27016/abiword/trunk/src/wp/impexp/win/ie_impexp_RegisterWin32.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/27015/abiword/trunk/src/wp/impexp/win/Makefile.am
+END
+ie_impGraphic_Win32Native.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/29655/abiword/trunk/src/wp/impexp/win/ie_impGraphic_Win32Native.cpp
+END
+ie_impGraphic_Win32GDIPlus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28467/abiword/trunk/src/wp/impexp/win/ie_impGraphic_Win32GDIPlus.cpp
+END

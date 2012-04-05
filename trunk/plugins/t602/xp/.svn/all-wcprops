@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/25454/abiword/trunk/plugins/t602/xp
+END
+ie_imp_T602.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/23915/abiword/trunk/plugins/t602/xp/ie_imp_T602.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/23803/abiword/trunk/plugins/t602/xp/Makefile.am
+END
+ie_imp_T602.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/25454/abiword/trunk/plugins/t602/xp/ie_imp_T602.cpp
+END

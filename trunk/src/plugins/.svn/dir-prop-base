@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 107
+Makefile.in
+Makefile
+.deps
+abi-builtin-plugins-decls.inc
+abi-builtin-plugins-calls.inc
+builtin-stamp
+.libs
+
+END

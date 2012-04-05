@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/30361/abiword/trunk/plugins/mathview/itex2mml
+END
+lex.yy.c.msvc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/26899/abiword/trunk/plugins/mathview/itex2mml/lex.yy.c.msvc
+END
+y.tab.c.msvc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/26899/abiword/trunk/plugins/mathview/itex2mml/y.tab.c.msvc
+END
+itex2MML.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30361/abiword/trunk/plugins/mathview/itex2mml/itex2MML.h
+END
+itex2MML.y
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30361/abiword/trunk/plugins/mathview/itex2mml/itex2MML.y
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/26902/abiword/trunk/plugins/mathview/itex2mml/Makefile.am
+END
+test-itex.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22481/abiword/trunk/plugins/mathview/itex2mml/test-itex.html
+END
+y.tab.h.msvc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/26899/abiword/trunk/plugins/mathview/itex2mml/y.tab.h.msvc
+END
+itex2MML.l
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30361/abiword/trunk/plugins/mathview/itex2mml/itex2MML.l
+END
+README.itex2MML
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30361/abiword/trunk/plugins/mathview/itex2mml/README.itex2MML
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/30142/abiword/trunk/src/af/gr/win
+END
+gr_Win32CharWidths.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/23857/abiword/trunk/src/af/gr/win/gr_Win32CharWidths.h
+END
+gr_Win32Graphics.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30142/abiword/trunk/src/af/gr/win/gr_Win32Graphics.h
+END
+gr_Win32Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/27173/abiword/trunk/src/af/gr/win/gr_Win32Image.h
+END
+gr_Win32USPGraphics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28487/abiword/trunk/src/af/gr/win/gr_Win32USPGraphics.cpp
+END
+gr_Win32Uniscribe.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19807/abiword/trunk/src/af/gr/win/gr_Win32Uniscribe.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/23803/abiword/trunk/src/af/gr/win/Makefile.am
+END
+gr_Win32USPGraphics.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/28487/abiword/trunk/src/af/gr/win/gr_Win32USPGraphics.h
+END
+gr_Win32CharWidths.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/28487/abiword/trunk/src/af/gr/win/gr_Win32CharWidths.cpp
+END
+gr_Win32Graphics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30142/abiword/trunk/src/af/gr/win/gr_Win32Graphics.cpp
+END
+gr_Win32Image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/29655/abiword/trunk/src/af/gr/win/gr_Win32Image.cpp
+END

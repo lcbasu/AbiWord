@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30761/abiword/trunk/plugins/opendocument/common/xp
+END
+ie_impexp_OpenDocument.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/23564/abiword/trunk/plugins/opendocument/common/xp/ie_impexp_OpenDocument.cpp
+END
+ODc_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30761/abiword/trunk/plugins/opendocument/common/xp/ODc_util.cpp
+END
+ODc_Crypto.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/30392/abiword/trunk/plugins/opendocument/common/xp/ODc_Crypto.cpp
+END
+ODc_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30761/abiword/trunk/plugins/opendocument/common/xp/ODc_util.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30761/abiword/trunk/plugins/opendocument/common/xp/Makefile.am
+END
+ODc_Crypto.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30343/abiword/trunk/plugins/opendocument/common/xp/ODc_Crypto.h
+END

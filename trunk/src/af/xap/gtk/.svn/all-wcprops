@@ -1,0 +1,557 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/30733/abiword/trunk/src/af/xap/gtk
+END
+xap_UnixDlg_Password.ui
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Password.ui
+END
+xap_UnixFeatures.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22481/abiword/trunk/src/af/xap/gtk/xap_UnixFeatures.h
+END
+xap_UnixDlg_FontChooser.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/26627/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_FontChooser.h
+END
+xap_UnixDlg_ClipArt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30503/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_ClipArt.cpp
+END
+xap_UnixApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/28526/abiword/trunk/src/af/xap/gtk/xap_UnixApp.h
+END
+xap_UnixDlg_DocComparison.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_DocComparison.cpp
+END
+xap_UnixDlg_Print.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30385/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Print.h
+END
+xap_UnixDlg_MessageBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22481/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_MessageBox.h
+END
+xap_UnixWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30444/abiword/trunk/src/af/xap/gtk/xap_UnixWidget.h
+END
+xap_UnixDlg_History.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/24702/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_History.h
+END
+xap_UnixDlg_Password.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/23568/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Password.h
+END
+xap_UnixDlg_FileOpenSaveAs.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30385/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_FileOpenSaveAs.h
+END
+xap_UnixDialogHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30637/abiword/trunk/src/af/xap/gtk/xap_UnixDialogHelper.cpp
+END
+xap_UnixAppImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/25505/abiword/trunk/src/af/xap/gtk/xap_UnixAppImpl.cpp
+END
+xap_UnixDlg_Language-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Language-2.ui
+END
+xap_UnixDlg_Image.ui
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30712/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Image.ui
+END
+xap_UnixDlg_Zoom-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Zoom-2.ui
+END
+xap_UnixDlg_Stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22481/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Stub.h
+END
+xap_UnixDlg_PluginManager-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_PluginManager-2.ui
+END
+xap_UnixDlg_Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30385/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Image.h
+END
+xap_UnixDlg_ListDocuments.ui
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_ListDocuments.ui
+END
+xap_UnixDlg_FontChooser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30709/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_FontChooser.cpp
+END
+xap_UnixDlg_MessageBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30503/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_MessageBox.cpp
+END
+xap_UnixWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30572/abiword/trunk/src/af/xap/gtk/xap_UnixWidget.cpp
+END
+xap_UnixDlg_PluginManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/22481/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_PluginManager.h
+END
+xap_UnixDlg_History.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_History.cpp
+END
+xap_UnixDlg_ClipArt.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22481/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_ClipArt.h
+END
+xap_UnixModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22481/abiword/trunk/src/af/xap/gtk/xap_UnixModule.h
+END
+xap_UnixDlg_DocComparison.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/24702/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_DocComparison.h
+END
+xap_UnixDlg_About.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30503/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_About.cpp
+END
+xap_UnixDlg_Stub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22481/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Stub.cpp
+END
+xap_Unix_TB_CFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22481/abiword/trunk/src/af/xap/gtk/xap_Unix_TB_CFactory.h
+END
+xap_UnixDlg_Zoom.ui
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Zoom.ui
+END
+xap_UnixDlg_Encoding-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Encoding-2.ui
+END
+xap_UnixAppImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22481/abiword/trunk/src/af/xap/gtk/xap_UnixAppImpl.h
+END
+xap_UnixFontPreview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30503/abiword/trunk/src/af/xap/gtk/xap_UnixFontPreview.cpp
+END
+xap_UnixDlg_WindowMore-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_WindowMore-2.ui
+END
+xap_GtkObjectHolder.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30385/abiword/trunk/src/af/xap/gtk/xap_GtkObjectHolder.h
+END
+xap_UnixDlg_Encoding.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Encoding.cpp
+END
+xap_UnixFrameImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30533/abiword/trunk/src/af/xap/gtk/xap_UnixFrameImpl.cpp
+END
+xap_UnixDlg_ListDocuments-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_ListDocuments-2.ui
+END
+xap_UnixCustomWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30503/abiword/trunk/src/af/xap/gtk/xap_UnixCustomWidget.cpp
+END
+xap_UnixDlg_PluginManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_PluginManager.cpp
+END
+xap_UnixDlg_DocComparison-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_DocComparison-2.ui
+END
+xap_UnixDlg_WindowMore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_WindowMore.cpp
+END
+xap_UnixDlg_Insert_Symbol.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28473/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Insert_Symbol.h
+END
+xap_UnixDlg_PrintPreview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/25508/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_PrintPreview.cpp
+END
+xap_UnixModule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22481/abiword/trunk/src/af/xap/gtk/xap_UnixModule.cpp
+END
+xap_UnixEncodingManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22481/abiword/trunk/src/af/xap/gtk/xap_UnixEncodingManager.h
+END
+xap_UnixDlg_ListDocuments.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/22481/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_ListDocuments.h
+END
+xap_UnixTableWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30503/abiword/trunk/src/af/xap/gtk/xap_UnixTableWidget.h
+END
+xap_GtkComboBoxHelpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30692/abiword/trunk/src/af/xap/gtk/xap_GtkComboBoxHelpers.h
+END
+xap_UnixClipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22481/abiword/trunk/src/af/xap/gtk/xap_UnixClipboard.h
+END
+xap_UnixDlg_About.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22481/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_About.h
+END
+xap_UnixDlg_HTMLOptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30385/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_HTMLOptions.cpp
+END
+xap_UnixDlg_Encoding.ui
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Encoding.ui
+END
+xap_UnixDlg_Zoom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30637/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Zoom.cpp
+END
+xap_UnixDlg_WindowMore.ui
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_WindowMore.ui
+END
+xap_Gtk2Compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30580/abiword/trunk/src/af/xap/gtk/xap_Gtk2Compat.h
+END
+xap_UnixFontPreview.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/25506/abiword/trunk/src/af/xap/gtk/xap_UnixFontPreview.h
+END
+xap_UnixDlg_Language.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22481/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Language.h
+END
+xap_UnixDlg_Insert_Symbol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30503/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Insert_Symbol.cpp
+END
+xap_UnixApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30597/abiword/trunk/src/af/xap/gtk/xap_UnixApp.cpp
+END
+xap_UnixDlg_DocComparison.ui
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_DocComparison.ui
+END
+xap_UnixDlg_Encoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22481/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Encoding.h
+END
+xap_UnixEncodingManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30733/abiword/trunk/src/af/xap/gtk/xap_UnixEncodingManager.cpp
+END
+xap_UnixFrameImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30503/abiword/trunk/src/af/xap/gtk/xap_UnixFrameImpl.h
+END
+xap_UnixDlg_Password-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Password-2.ui
+END
+xap_UnixDlg_History.ui
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_History.ui
+END
+xap_UnixDlg_Print.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/28882/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Print.cpp
+END
+xap_UnixDlg_ListDocuments.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_ListDocuments.cpp
+END
+xap_UnixCustomWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30503/abiword/trunk/src/af/xap/gtk/xap_UnixCustomWidget.h
+END
+xap_UnixDlg_WindowMore.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22481/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_WindowMore.h
+END
+xap_GtkSignalBlocker.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/25674/abiword/trunk/src/af/xap/gtk/xap_GtkSignalBlocker.h
+END
+xap_UnixDlg_Password.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Password.cpp
+END
+xap_EmbeddedFeatures.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/26723/abiword/trunk/src/af/xap/gtk/xap_EmbeddedFeatures.h
+END
+xap_UnixDlg_PrintPreview.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/25461/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_PrintPreview.h
+END
+xap_UnixDlg_FileOpenSaveAs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/30503/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_FileOpenSaveAs.cpp
+END
+xap_UnixTableWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30585/abiword/trunk/src/af/xap/gtk/xap_UnixTableWidget.cpp
+END
+xap_UnixDialogFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22481/abiword/trunk/src/af/xap/gtk/xap_UnixDialogFactory.h
+END
+xap_GtkComboBoxHelpers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30692/abiword/trunk/src/af/xap/gtk/xap_GtkComboBoxHelpers.cpp
+END
+xap_UnixClipboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30427/abiword/trunk/src/af/xap/gtk/xap_UnixClipboard.cpp
+END
+xap_UnixDlg_Image-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30712/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Image-2.ui
+END
+xap_UnixDlg_Language.ui
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Language.ui
+END
+xap_UnixDialogHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30503/abiword/trunk/src/af/xap/gtk/xap_UnixDialogHelper.h
+END
+xap_UnixDlg_Image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30712/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Image.cpp
+END
+xap_UnixDlg_Language.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Language.cpp
+END
+xap_UnixDlg_PluginManager.ui
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30643/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_PluginManager.ui
+END
+xap_UnixDlg_HTMLOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/29965/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_HTMLOptions.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/30573/abiword/trunk/src/af/xap/gtk/Makefile.am
+END
+xap_UnixDlg_Zoom.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22481/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_Zoom.h
+END
+xap_UnixDlg_History-2.ui
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/xap_UnixDlg_History-2.ui
+END

@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 43
+.deps
+Makefile
+Makefile.in
+goffice-paths.h
+
+END

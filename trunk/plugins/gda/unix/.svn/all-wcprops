@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/23915/abiword/trunk/plugins/gda/unix
+END
+AbiGDA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/23915/abiword/trunk/plugins/gda/unix/AbiGDA.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/23803/abiword/trunk/plugins/gda/unix/Makefile.am
+END

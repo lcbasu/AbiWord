@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/26343/abiword/trunk/plugins/urldict/xp
+END
+AbiURLDict.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/26343/abiword/trunk/plugins/urldict/xp/AbiURLDict.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/23803/abiword/trunk/plugins/urldict/xp/Makefile.am
+END

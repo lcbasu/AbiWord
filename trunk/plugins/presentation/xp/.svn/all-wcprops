@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/27514/abiword/trunk/plugins/presentation/xp
+END
+Presentation.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/23915/abiword/trunk/plugins/presentation/xp/Presentation.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/23803/abiword/trunk/plugins/presentation/xp/Makefile.am
+END
+Presentation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/23570/abiword/trunk/plugins/presentation/xp/Presentation.xml
+END
+Presentation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/27514/abiword/trunk/plugins/presentation/xp/Presentation.cpp
+END

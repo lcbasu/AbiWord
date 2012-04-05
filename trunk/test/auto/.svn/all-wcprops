@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/7590/abiword/trunk/test/auto
+END
+hello.dat.1.abw
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/7589/abiword/trunk/test/auto/hello.dat.1.abw
+END
+hello.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/7590/abiword/trunk/test/auto/hello.cmd
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/7582/abiword/trunk/test/auto/ChangeLog
+END
+hello.dat.2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/7589/abiword/trunk/test/auto/hello.dat.2.txt
+END
+RUN.pl
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/7589/abiword/trunk/test/auto/RUN.pl
+END

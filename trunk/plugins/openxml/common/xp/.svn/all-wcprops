@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/30548/abiword/trunk/plugins/openxml/common/xp
+END
+OXML_Style.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/24959/abiword/trunk/plugins/openxml/common/xp/OXML_Style.cpp
+END
+OXML_FontManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/22687/abiword/trunk/plugins/openxml/common/xp/OXML_FontManager.cpp
+END
+OXML_Element_Field.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/27153/abiword/trunk/plugins/openxml/common/xp/OXML_Element_Field.h
+END
+OXML_Theme.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22687/abiword/trunk/plugins/openxml/common/xp/OXML_Theme.cpp
+END
+OXML_ObjectWithAttrProp.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/30426/abiword/trunk/plugins/openxml/common/xp/OXML_ObjectWithAttrProp.h
+END
+OXML_Section.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/27397/abiword/trunk/plugins/openxml/common/xp/OXML_Section.cpp
+END
+OXML_Element_Table.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/30426/abiword/trunk/plugins/openxml/common/xp/OXML_Element_Table.h
+END
+OXML_Element_TextBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/27102/abiword/trunk/plugins/openxml/common/xp/OXML_Element_TextBox.h
+END
+OXML_List.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/27102/abiword/trunk/plugins/openxml/common/xp/OXML_List.cpp
+END
+OXML_Document.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/27397/abiword/trunk/plugins/openxml/common/xp/OXML_Document.cpp
+END
+OXML_Element_Bookmark.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/27102/abiword/trunk/plugins/openxml/common/xp/OXML_Element_Bookmark.cpp
+END
+OXML_Element_Hyperlink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/27102/abiword/trunk/plugins/openxml/common/xp/OXML_Element_Hyperlink.cpp
+END
+OXML_Image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/27109/abiword/trunk/plugins/openxml/common/xp/OXML_Image.cpp
+END
+OXML_Element_Run.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/27102/abiword/trunk/plugins/openxml/common/xp/OXML_Element_Run.h
+END
+OXML_LangToScriptConverter.gperf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/22687/abiword/trunk/plugins/openxml/common/xp/OXML_LangToScriptConverter.gperf
+END
+ie_impexp_OpenXML.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/25115/abiword/trunk/plugins/openxml/common/xp/ie_impexp_OpenXML.cpp
+END
+OXML_Element_Paragraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/27102/abiword/trunk/plugins/openxml/common/xp/OXML_Element_Paragraph.h
+END
+OXML_Element_List.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/27102/abiword/trunk/plugins/openxml/common/xp/OXML_Element_List.cpp
+END
+OXML_Element_Row.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/27332/abiword/trunk/plugins/openxml/common/xp/OXML_Element_Row.h
+END
+OXML_Element.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30426/abiword/trunk/plugins/openxml/common/xp/OXML_Element.cpp
+END
+OXML_Element_Field.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/27153/abiword/trunk/plugins/openxml/common/xp/OXML_Element_Field.cpp
+END
+OXML_Element_Cell.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/27332/abiword/trunk/plugins/openxml/common/xp/OXML_Element_Cell.h
+END
+OXML_ObjectWithAttrProp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/30548/abiword/trunk/plugins/openxml/common/xp/OXML_ObjectWithAttrProp.cpp
+END
+OXML_Element_Table.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/30426/abiword/trunk/plugins/openxml/common/xp/OXML_Element_Table.cpp
+END
+OXML_Element_Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/27102/abiword/trunk/plugins/openxml/common/xp/OXML_Element_Image.h
+END
+converter.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22687/abiword/trunk/plugins/openxml/common/xp/converter.pl
+END
+OXML_Element_Text.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/24959/abiword/trunk/plugins/openxml/common/xp/OXML_Element_Text.h
+END
+OXML_Style.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/24959/abiword/trunk/plugins/openxml/common/xp/OXML_Style.h
+END
+OXML_FontManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22687/abiword/trunk/plugins/openxml/common/xp/OXML_FontManager.h
+END
+OXML_Element_TextBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/27102/abiword/trunk/plugins/openxml/common/xp/OXML_Element_TextBox.cpp
+END
+OXML_LangToScriptConverter.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/24959/abiword/trunk/plugins/openxml/common/xp/OXML_LangToScriptConverter.h
+END
+OXML_Theme.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22687/abiword/trunk/plugins/openxml/common/xp/OXML_Theme.h
+END
+OXML_Section.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/27397/abiword/trunk/plugins/openxml/common/xp/OXML_Section.h
+END
+OXML_Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/27102/abiword/trunk/plugins/openxml/common/xp/OXML_Types.h
+END
+OXML_Element_Run.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/27102/abiword/trunk/plugins/openxml/common/xp/OXML_Element_Run.cpp
+END
+OXML_Element_Paragraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/27354/abiword/trunk/plugins/openxml/common/xp/OXML_Element_Paragraph.cpp
+END
+OXML_Element_Row.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/27347/abiword/trunk/plugins/openxml/common/xp/OXML_Element_Row.cpp
+END
+OXML_List.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/27102/abiword/trunk/plugins/openxml/common/xp/OXML_List.h
+END
+OXML_Document.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/27397/abiword/trunk/plugins/openxml/common/xp/OXML_Document.h
+END
+OXML_Element_Bookmark.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/27102/abiword/trunk/plugins/openxml/common/xp/OXML_Element_Bookmark.h
+END
+OXML_Element_Hyperlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/27102/abiword/trunk/plugins/openxml/common/xp/OXML_Element_Hyperlink.h
+END
+OXML_Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/27109/abiword/trunk/plugins/openxml/common/xp/OXML_Image.h
+END
+OXML_Element_Cell.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/27347/abiword/trunk/plugins/openxml/common/xp/OXML_Element_Cell.cpp
+END
+OXML_Element_List.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/27102/abiword/trunk/plugins/openxml/common/xp/OXML_Element_List.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/26117/abiword/trunk/plugins/openxml/common/xp/Makefile.am
+END
+OXML_Element_Image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/27102/abiword/trunk/plugins/openxml/common/xp/OXML_Element_Image.cpp
+END
+OXML_Element_Text.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28723/abiword/trunk/plugins/openxml/common/xp/OXML_Element_Text.cpp
+END
+OXML_Element.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/27108/abiword/trunk/plugins/openxml/common/xp/OXML_Element.h
+END

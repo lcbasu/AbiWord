@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/30689/abiword/trunk/src/af/ev/gtk
+END
+ev_UnixKeyboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30645/abiword/trunk/src/af/ev/gtk/ev_UnixKeyboard.cpp
+END
+ev_UnixToolbar_ViewListener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/22481/abiword/trunk/src/af/ev/gtk/ev_UnixToolbar_ViewListener.cpp
+END
+ev_UnixToolbar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30689/abiword/trunk/src/af/ev/gtk/ev_UnixToolbar.cpp
+END
+ev_UnixMenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30503/abiword/trunk/src/af/ev/gtk/ev_UnixMenu.cpp
+END
+ev_UnixKeyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22481/abiword/trunk/src/af/ev/gtk/ev_UnixKeyboard.h
+END
+ev_UnixToolbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/23568/abiword/trunk/src/af/ev/gtk/ev_UnixToolbar.h
+END
+ev_UnixToolbar_ViewListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/22481/abiword/trunk/src/af/ev/gtk/ev_UnixToolbar_ViewListener.h
+END
+ev_UnixMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/26677/abiword/trunk/src/af/ev/gtk/ev_UnixMenu.h
+END
+ev_UnixKeysym2ucs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22481/abiword/trunk/src/af/ev/gtk/ev_UnixKeysym2ucs.cpp
+END
+ev_UnixKeysym2ucs.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22481/abiword/trunk/src/af/ev/gtk/ev_UnixKeysym2ucs.h
+END
+ev_UnixFontCombo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30549/abiword/trunk/src/af/ev/gtk/ev_UnixFontCombo.cpp
+END
+ev_UnixMouse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/25053/abiword/trunk/src/af/ev/gtk/ev_UnixMouse.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/23981/abiword/trunk/src/af/ev/gtk/Makefile.am
+END
+ev_UnixFontCombo.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22481/abiword/trunk/src/af/ev/gtk/ev_UnixFontCombo.h
+END
+ev_UnixMenuPopup.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22481/abiword/trunk/src/af/ev/gtk/ev_UnixMenuPopup.h
+END
+ev_UnixMouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22481/abiword/trunk/src/af/ev/gtk/ev_UnixMouse.h
+END
+ev_UnixMenuBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22481/abiword/trunk/src/af/ev/gtk/ev_UnixMenuBar.h
+END

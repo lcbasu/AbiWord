@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/30576/abiword/trunk/plugins/psion/xp
+END
+ie_imp_Psion.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/25853/abiword/trunk/plugins/psion/xp/ie_imp_Psion.h
+END
+ie_exp_Psion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30576/abiword/trunk/plugins/psion/xp/ie_exp_Psion.cpp
+END
+ie_exp_Psion.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30576/abiword/trunk/plugins/psion/xp/ie_exp_Psion.h
+END
+ie_impexp_Psion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/24737/abiword/trunk/plugins/psion/xp/ie_impexp_Psion.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/23803/abiword/trunk/plugins/psion/xp/Makefile.am
+END
+ie_imp_Psion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/26989/abiword/trunk/plugins/psion/xp/ie_imp_Psion.cpp
+END
+ie_impexp_Psion.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22481/abiword/trunk/plugins/psion/xp/ie_impexp_Psion.h
+END

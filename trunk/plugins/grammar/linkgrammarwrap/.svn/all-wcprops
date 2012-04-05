@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/28629/abiword/trunk/plugins/grammar/linkgrammarwrap
+END
+LinkGrammarWrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28629/abiword/trunk/plugins/grammar/linkgrammarwrap/LinkGrammarWrap.cpp
+END
+LinkGrammarWrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/23915/abiword/trunk/plugins/grammar/linkgrammarwrap/LinkGrammarWrap.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/23803/abiword/trunk/plugins/grammar/linkgrammarwrap/Makefile.am
+END

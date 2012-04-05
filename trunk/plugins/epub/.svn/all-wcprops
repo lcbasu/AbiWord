@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/30662/abiword/trunk/plugins/epub
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/30459/abiword/trunk/plugins/epub/Makefile.am
+END
+plugin.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/29758/abiword/trunk/plugins/epub/plugin.m4
+END

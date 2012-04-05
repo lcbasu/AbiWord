@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/29463/abiword/trunk/plugins/collab/core/dialogs/xp
+END
+ap_Dialog_CollaborationEditAccount.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/29463/abiword/trunk/plugins/collab/core/dialogs/xp/ap_Dialog_CollaborationEditAccount.h
+END
+ap_Dialog_CollaborationShare.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/29270/abiword/trunk/plugins/collab/core/dialogs/xp/ap_Dialog_CollaborationShare.h
+END
+ap_Dialog_CollaborationAddAccount.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/22481/abiword/trunk/plugins/collab/core/dialogs/xp/ap_Dialog_CollaborationAddAccount.h
+END
+ap_Dialog_CollaborationAccounts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/29463/abiword/trunk/plugins/collab/core/dialogs/xp/ap_Dialog_CollaborationAccounts.cpp
+END
+ap_Dialog_CollaborationJoin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/27775/abiword/trunk/plugins/collab/core/dialogs/xp/ap_Dialog_CollaborationJoin.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/29463/abiword/trunk/plugins/collab/core/dialogs/xp/Makefile.am
+END
+ap_Dialog_CollaborationAddBuddy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/26327/abiword/trunk/plugins/collab/core/dialogs/xp/ap_Dialog_CollaborationAddBuddy.cpp
+END
+ap_Dialog_CollaborationEditAccount.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/29463/abiword/trunk/plugins/collab/core/dialogs/xp/ap_Dialog_CollaborationEditAccount.cpp
+END
+ap_Dialog_CollaborationShare.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/29270/abiword/trunk/plugins/collab/core/dialogs/xp/ap_Dialog_CollaborationShare.cpp
+END
+ap_Dialog_CollaborationAccounts.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/29463/abiword/trunk/plugins/collab/core/dialogs/xp/ap_Dialog_CollaborationAccounts.h
+END
+ap_Dialog_CollaborationJoin.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/27775/abiword/trunk/plugins/collab/core/dialogs/xp/ap_Dialog_CollaborationJoin.h
+END
+ap_Dialog_CollaborationAddAccount.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/29463/abiword/trunk/plugins/collab/core/dialogs/xp/ap_Dialog_CollaborationAddAccount.cpp
+END
+ap_Dialog_CollaborationAddBuddy.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/22481/abiword/trunk/plugins/collab/core/dialogs/xp/ap_Dialog_CollaborationAddBuddy.h
+END

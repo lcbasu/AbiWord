@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/30726/abiword/trunk/src/af/util/unix
+END
+ut_unixIdle.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/19756/abiword/trunk/src/af/util/unix/ut_unixIdle.h
+END
+ut_unixColor.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30397/abiword/trunk/src/af/util/unix/ut_unixColor.h
+END
+ut_unixTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/23438/abiword/trunk/src/af/util/unix/ut_unixTimer.h
+END
+ut_mutexImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/19756/abiword/trunk/src/af/util/unix/ut_mutexImpl.h
+END
+ut_path.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30561/abiword/trunk/src/af/util/unix/ut_path.cpp
+END
+ut_debugmsg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30726/abiword/trunk/src/af/util/unix/ut_debugmsg.cpp
+END
+ut_unixMisc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/25737/abiword/trunk/src/af/util/unix/ut_unixMisc.cpp
+END
+ut_files.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/23319/abiword/trunk/src/af/util/unix/ut_files.cpp
+END
+ut_unixAssert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/28665/abiword/trunk/src/af/util/unix/ut_unixAssert.cpp
+END
+ut_files.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/19756/abiword/trunk/src/af/util/unix/ut_files.h
+END
+ut_unixAssert.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/23983/abiword/trunk/src/af/util/unix/ut_unixAssert.h
+END
+ut_sleep.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/23318/abiword/trunk/src/af/util/unix/ut_sleep.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/25737/abiword/trunk/src/af/util/unix/Makefile.am
+END
+ut_unixIdle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/23568/abiword/trunk/src/af/util/unix/ut_unixIdle.cpp
+END
+ut_unixColor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/25737/abiword/trunk/src/af/util/unix/ut_unixColor.cpp
+END
+ut_unixTimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/23438/abiword/trunk/src/af/util/unix/ut_unixTimer.cpp
+END

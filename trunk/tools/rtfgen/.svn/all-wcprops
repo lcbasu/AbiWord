@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/23488/abiword/trunk/tools/rtfgen
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/23488/abiword/trunk/tools/rtfgen/README
+END
+generate-rtf.pl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/23488/abiword/trunk/tools/rtfgen/generate-rtf.pl
+END
+rtf-keywords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/23488/abiword/trunk/tools/rtfgen/rtf-keywords.txt
+END

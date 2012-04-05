@@ -1,0 +1,755 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/30710/abiword/trunk/src/af/xap/xp
+END
+xap_FakeClipboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/19761/abiword/trunk/src/af/xap/xp/xap_FakeClipboard.cpp
+END
+xap_Preview.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/28738/abiword/trunk/src/af/xap/xp/xap_Preview.h
+END
+xap_Dlg_History.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/26331/abiword/trunk/src/af/xap/xp/xap_Dlg_History.cpp
+END
+xap_InputModes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30427/abiword/trunk/src/af/xap/xp/xap_InputModes.cpp
+END
+xap_Scrollbar_ViewListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/23844/abiword/trunk/src/af/xap/xp/xap_Scrollbar_ViewListener.h
+END
+xap_Dlg_ClipArt.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/23886/abiword/trunk/src/af/xap/xp/xap_Dlg_ClipArt.h
+END
+xap_Module.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/29644/abiword/trunk/src/af/xap/xp/xap_Module.h
+END
+xap_Dlg_DocComparison.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/23886/abiword/trunk/src/af/xap/xp/xap_Dlg_DocComparison.h
+END
+xap_Frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/27014/abiword/trunk/src/af/xap/xp/xap_Frame.h
+END
+xap_Dlg_About.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_Dlg_About.cpp
+END
+enchant_checker.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/26278/abiword/trunk/src/af/xap/xp/enchant_checker.h
+END
+xad_Document.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30356/abiword/trunk/src/af/xap/xp/xad_Document.cpp
+END
+xap_AppImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/23863/abiword/trunk/src/af/xap/xp/xap_AppImpl.h
+END
+xap_FontPreview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/25698/abiword/trunk/src/af/xap/xp/xap_FontPreview.cpp
+END
+xap_Prefs_SchemeIds.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/26591/abiword/trunk/src/af/xap/xp/xap_Prefs_SchemeIds.h
+END
+xap_Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_Types.h
+END
+xap_Dlg_Encoding.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/26126/abiword/trunk/src/af/xap/xp/xap_Dlg_Encoding.cpp
+END
+xap_FrameImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30561/abiword/trunk/src/af/xap/xp/xap_FrameImpl.cpp
+END
+xap_StatusBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_StatusBar.h
+END
+xap_CustomWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/28616/abiword/trunk/src/af/xap/xp/xap_CustomWidget.cpp
+END
+xap_Dlg_PluginManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/25101/abiword/trunk/src/af/xap/xp/xap_Dlg_PluginManager.cpp
+END
+xap_Prefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30637/abiword/trunk/src/af/xap/xp/xap_Prefs.cpp
+END
+xap_Dlg_WindowMore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_Dlg_WindowMore.cpp
+END
+xap_Preview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/21991/abiword/trunk/src/af/xap/xp/xap_Preview.cpp
+END
+xap_Menu_ActionSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_Menu_ActionSet.h
+END
+xap_ResourceManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/26915/abiword/trunk/src/af/xap/xp/xap_ResourceManager.cpp
+END
+xap_Scrollbar_ViewListener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/23568/abiword/trunk/src/af/xap/xp/xap_Scrollbar_ViewListener.cpp
+END
+xap_Dlg_PrintPreview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/19787/abiword/trunk/src/af/xap/xp/xap_Dlg_PrintPreview.cpp
+END
+xap_Dlg_Insert_Symbol.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/25097/abiword/trunk/src/af/xap/xp/xap_Dlg_Insert_Symbol.h
+END
+xap_Menu_LabelSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_Menu_LabelSet.h
+END
+xap_Module.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/23568/abiword/trunk/src/af/xap/xp/xap_Module.cpp
+END
+xap_ViewListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/23844/abiword/trunk/src/af/xap/xp/xap_ViewListener.h
+END
+xap_EncodingManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/23455/abiword/trunk/src/af/xap/xp/xap_EncodingManager.h
+END
+xap_Draw_Symbol.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/28620/abiword/trunk/src/af/xap/xp/xap_Draw_Symbol.h
+END
+xap_String_Id.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30689/abiword/trunk/src/af/xap/xp/xap_String_Id.h
+END
+xap_Dlg_ListDocuments.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/25101/abiword/trunk/src/af/xap/xp/xap_Dlg_ListDocuments.h
+END
+xap_Preview_Zoom.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/28620/abiword/trunk/src/af/xap/xp/xap_Preview_Zoom.h
+END
+xap_Toolbar_ControlFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_Toolbar_ControlFactory.cpp
+END
+xap_FakeClipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/23886/abiword/trunk/src/af/xap/xp/xap_FakeClipboard.h
+END
+xap_Args.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/29661/abiword/trunk/src/af/xap/xp/xap_Args.cpp
+END
+xap_Resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_Resource.h
+END
+xap_Strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/26424/abiword/trunk/src/af/xap/xp/xap_Strings.h
+END
+xap_Toolbar_Icons.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30574/abiword/trunk/src/af/xap/xp/xap_Toolbar_Icons.h
+END
+xap_Clipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_Clipboard.h
+END
+xap_Dlg_About.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30303/abiword/trunk/src/af/xap/xp/xap_Dlg_About.h
+END
+xap_Dlg_HTMLOptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/29965/abiword/trunk/src/af/xap/xp/xap_Dlg_HTMLOptions.cpp
+END
+spell_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/23899/abiword/trunk/src/af/xap/xp/spell_manager.h
+END
+xad_Document.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30590/abiword/trunk/src/af/xap/xp/xad_Document.h
+END
+xap_Dlg_Zoom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_Dlg_Zoom.cpp
+END
+xap_FontPreview.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/25698/abiword/trunk/src/af/xap/xp/xap_FontPreview.h
+END
+xap_Dlg_Language.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/21414/abiword/trunk/src/af/xap/xp/xap_Dlg_Language.h
+END
+xap_Dlg_Insert_Symbol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30710/abiword/trunk/src/af/xap/xp/xap_Dlg_Insert_Symbol.cpp
+END
+xap_App.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/30634/abiword/trunk/src/af/xap/xp/xap_App.cpp
+END
+xap_Dialog_Id.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/27053/abiword/trunk/src/af/xap/xp/xap_Dialog_Id.h
+END
+xap_ModuleManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/30428/abiword/trunk/src/af/xap/xp/xap_ModuleManager.cpp
+END
+xap_Dlg_Encoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/23886/abiword/trunk/src/af/xap/xp/xap_Dlg_Encoding.h
+END
+xap_EncodingManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/29750/abiword/trunk/src/af/xap/xp/xap_EncodingManager.cpp
+END
+xap_FrameImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/20187/abiword/trunk/src/af/xap/xp/xap_FrameImpl.h
+END
+xap_Dlg_Print.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/29607/abiword/trunk/src/af/xap/xp/xap_Dlg_Print.cpp
+END
+xap_ModuleFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_ModuleFactory.h
+END
+xap_Toolbar_LabelSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_Toolbar_LabelSet.h
+END
+xap_Dlg_ListDocuments.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/26211/abiword/trunk/src/af/xap/xp/xap_Dlg_ListDocuments.cpp
+END
+xap_CustomWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/28744/abiword/trunk/src/af/xap/xp/xap_CustomWidget.h
+END
+xap_Dlg_WindowMore.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/23886/abiword/trunk/src/af/xap/xp/xap_Dlg_WindowMore.h
+END
+xap_Preview_Zoom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/28620/abiword/trunk/src/af/xap/xp/xap_Preview_Zoom.cpp
+END
+xap_Log.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_Log.h
+END
+xap_Resource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/26914/abiword/trunk/src/af/xap/xp/xap_Resource.cpp
+END
+xap_ResourceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_ResourceManager.h
+END
+xap_Toolbar_Layouts.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/25107/abiword/trunk/src/af/xap/xp/xap_Toolbar_Layouts.h
+END
+xap_Dlg_Password.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_Dlg_Password.cpp
+END
+xap_Dlg_PrintPreview.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/23886/abiword/trunk/src/af/xap/xp/xap_Dlg_PrintPreview.h
+END
+xap_Strings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/26914/abiword/trunk/src/af/xap/xp/xap_Strings.cpp
+END
+xap_Dlg_FileOpenSaveAs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30264/abiword/trunk/src/af/xap/xp/xap_Dlg_FileOpenSaveAs.cpp
+END
+xap_DialogFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/26620/abiword/trunk/src/af/xap/xp/xap_DialogFactory.h
+END
+xap_Clipboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_Clipboard.cpp
+END
+xap_Toolbar_ControlFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/23886/abiword/trunk/src/af/xap/xp/xap_Toolbar_ControlFactory.h
+END
+xap_Args.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/23882/abiword/trunk/src/af/xap/xp/xap_Args.h
+END
+spell_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/26446/abiword/trunk/src/af/xap/xp/spell_manager.cpp
+END
+xap_LoadBindings.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/23882/abiword/trunk/src/af/xap/xp/xap_LoadBindings.h
+END
+ispell_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/23347/abiword/trunk/src/af/xap/xp/ispell_def.h
+END
+xap_Dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/30264/abiword/trunk/src/af/xap/xp/xap_Dialog.h
+END
+xap_Dlg_Image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30055/abiword/trunk/src/af/xap/xp/xap_Dlg_Image.cpp
+END
+xap_Dlg_Language.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/26126/abiword/trunk/src/af/xap/xp/xap_Dlg_Language.cpp
+END
+xap_Dictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_Dictionary.h
+END
+xap_Dlg_HTMLOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/29966/abiword/trunk/src/af/xap/xp/xap_Dlg_HTMLOptions.h
+END
+xap_Dlg_Zoom.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/23886/abiword/trunk/src/af/xap/xp/xap_Dlg_Zoom.h
+END
+xav_View.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/26446/abiword/trunk/src/af/xap/xp/xav_View.cpp
+END
+xap_Log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/23882/abiword/trunk/src/af/xap/xp/xap_Log.cpp
+END
+barbarisms.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/23899/abiword/trunk/src/af/xap/xp/barbarisms.h
+END
+xap_Features.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30397/abiword/trunk/src/af/xap/xp/xap_Features.h
+END
+xap_Dlg_FontChooser.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/28620/abiword/trunk/src/af/xap/xp/xap_Dlg_FontChooser.h
+END
+xap_Dlg_ClipArt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19759/abiword/trunk/src/af/xap/xp/xap_Dlg_ClipArt.cpp
+END
+xap_App.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/30634/abiword/trunk/src/af/xap/xp/xap_App.h
+END
+xap_ModuleManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_ModuleManager.h
+END
+xap_Dlg_DocComparison.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/19759/abiword/trunk/src/af/xap/xp/xap_Dlg_DocComparison.cpp
+END
+xap_Dlg_Print.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/25329/abiword/trunk/src/af/xap/xp/xap_Dlg_Print.h
+END
+xap_DialogFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/25101/abiword/trunk/src/af/xap/xp/xap_DialogFactory.cpp
+END
+xap_Dlg_MessageBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/23886/abiword/trunk/src/af/xap/xp/xap_Dlg_MessageBox.h
+END
+xap_Widget.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/24442/abiword/trunk/src/af/xap/xp/xap_Widget.h
+END
+xap_Menu_Layouts.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_Menu_Layouts.h
+END
+xap_Frame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30427/abiword/trunk/src/af/xap/xp/xap_Frame.cpp
+END
+xap_Dlg_History.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/23886/abiword/trunk/src/af/xap/xp/xap_Dlg_History.h
+END
+enchant_checker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/26588/abiword/trunk/src/af/xap/xp/enchant_checker.cpp
+END
+xap_InputModes.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/21276/abiword/trunk/src/af/xap/xp/xap_InputModes.h
+END
+xap_Dlg_Password.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/23886/abiword/trunk/src/af/xap/xp/xap_Dlg_Password.h
+END
+xap_LoadBindings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_LoadBindings.cpp
+END
+xap_Dlg_FileOpenSaveAs.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30264/abiword/trunk/src/af/xap/xp/xap_Dlg_FileOpenSaveAs.h
+END
+xap_Dialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30264/abiword/trunk/src/af/xap/xp/xap_Dialog.cpp
+END
+xav_Listener.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/21378/abiword/trunk/src/af/xap/xp/xav_Listener.h
+END
+xap_AppImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/19807/abiword/trunk/src/af/xap/xp/xap_AppImpl.cpp
+END
+xap_Dictionary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/19807/abiword/trunk/src/af/xap/xp/xap_Dictionary.cpp
+END
+xap_Dlg_Stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/23886/abiword/trunk/src/af/xap/xp/xap_Dlg_Stub.h
+END
+xap_StatusBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22090/abiword/trunk/src/af/xap/xp/xap_StatusBar.cpp
+END
+xap_Dlg_Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30055/abiword/trunk/src/af/xap/xp/xap_Dlg_Image.h
+END
+barbarisms.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/26450/abiword/trunk/src/af/xap/xp/barbarisms.cpp
+END
+xap_EditMethods.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_EditMethods.h
+END
+xap_Dlg_FontChooser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28620/abiword/trunk/src/af/xap/xp/xap_Dlg_FontChooser.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/28609/abiword/trunk/src/af/xap/xp/Makefile.am
+END
+xap_Toolbar_ActionSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_Toolbar_ActionSet.h
+END
+xap_ViewListener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/23568/abiword/trunk/src/af/xap/xp/xap_ViewListener.cpp
+END
+xap_Draw_Symbol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30418/abiword/trunk/src/af/xap/xp/xap_Draw_Symbol.cpp
+END
+xap_Dlg_MessageBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/19756/abiword/trunk/src/af/xap/xp/xap_Dlg_MessageBox.cpp
+END
+xap_Dlg_PluginManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/23886/abiword/trunk/src/af/xap/xp/xap_Dlg_PluginManager.h
+END
+xap_Prefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/25446/abiword/trunk/src/af/xap/xp/xap_Prefs.h
+END
+xav_View.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/30672/abiword/trunk/src/af/xap/xp/xav_View.h
+END

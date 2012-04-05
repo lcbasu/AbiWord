@@ -1,0 +1,695 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/30697/abiword/trunk/src/wp/ap/cocoa
+END
+ap_CocoaDialog_InsertBookmark.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/30567/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_InsertBookmark.cpp
+END
+ap_CocoaLeftRuler.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/27202/abiword/trunk/src/wp/ap/cocoa/ap_CocoaLeftRuler.h
+END
+ap_CocoaTopRuler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/28624/abiword/trunk/src/wp/ap/cocoa/ap_CocoaTopRuler.cpp
+END
+ap_CocoaDialog_FormatFootnotes.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_FormatFootnotes.h
+END
+ap_CocoaDialog_Lists.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/27403/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Lists.cpp
+END
+ap_CocoaDialog_New.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_New.h
+END
+ap_CocoaDialog_InsertHyperlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/27440/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_InsertHyperlink.h
+END
+ap_CocoaDialog_FormatTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/27415/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_FormatTable.cpp
+END
+ap_PrintingDelegate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/25827/abiword/trunk/src/wp/ap/cocoa/ap_PrintingDelegate.cpp
+END
+ap_CocoaDialog_PageSetup.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_PageSetup.h
+END
+ap_CocoaToolbar_SizeCombo.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaToolbar_SizeCombo.h
+END
+ap_CocoaPrefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/25447/abiword/trunk/src/wp/ap/cocoa/ap_CocoaPrefs.h
+END
+ap_CocoaViewListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaViewListener.h
+END
+ap_CocoaDialog_Tab.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/29730/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Tab.cpp
+END
+ap_CocoaDialog_PageNumbers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/27202/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_PageNumbers.cpp
+END
+ap_Cocoa_ResourceIDs.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22090/abiword/trunk/src/wp/ap/cocoa/ap_Cocoa_ResourceIDs.h
+END
+ap_CocoaToolbar_ZoomCombo.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaToolbar_ZoomCombo.h
+END
+ap_Cocoa_TB_CFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/21477/abiword/trunk/src/wp/ap/cocoa/ap_Cocoa_TB_CFactory.cpp
+END
+ap_CocoaDialog_Spell.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/29730/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Spell.cpp
+END
+ap_CocoaFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaFrame.h
+END
+ap_CocoaClipboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/21477/abiword/trunk/src/wp/ap/cocoa/ap_CocoaClipboard.cpp
+END
+ap_CocoaDialog_Stylist.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30546/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Stylist.h
+END
+ap_CocoaDialog_InsertTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_InsertTable.h
+END
+ap_CocoaDialog_ListRevisions.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_ListRevisions.h
+END
+ap_CocoaDialog_Stub.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Stub.h
+END
+ap_CocoaLeftRuler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28631/abiword/trunk/src/wp/ap/cocoa/ap_CocoaLeftRuler.cpp
+END
+ap_CocoaDialog_Styles.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/27401/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Styles.h
+END
+ap_CocoaDialog_FormatFootnotes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/25827/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_FormatFootnotes.cpp
+END
+ap_CocoaDialog_New.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30547/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_New.cpp
+END
+ap_CocoaDialog_PageSetup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/27510/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_PageSetup.cpp
+END
+ap_CocoaToolbar_SizeCombo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/30697/abiword/trunk/src/wp/ap/cocoa/ap_CocoaToolbar_SizeCombo.cpp
+END
+ap_CocoaStatusBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaStatusBar.h
+END
+ap_CocoaToolbar_FontCombo.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaToolbar_FontCombo.h
+END
+ap_CocoaDialog_InsertBookmark.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_InsertBookmark.h
+END
+ap_CocoaViewListener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/21477/abiword/trunk/src/wp/ap/cocoa/ap_CocoaViewListener.cpp
+END
+ap_CocoaDialog_MailMerge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/25827/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_MailMerge.cpp
+END
+ap_CocoaDialog_Lists.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/27527/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Lists.h
+END
+ap_CocoaDialog_FormatTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/27415/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_FormatTable.h
+END
+ap_CocoaApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/27014/abiword/trunk/src/wp/ap/cocoa/ap_CocoaApp.h
+END
+ap_Cocoa_ResourceIDs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22090/abiword/trunk/src/wp/ap/cocoa/ap_Cocoa_ResourceIDs.cpp
+END
+ap_CocoaToolbar_ZoomCombo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/30697/abiword/trunk/src/wp/ap/cocoa/ap_CocoaToolbar_ZoomCombo.cpp
+END
+ap_CocoaDialog_FormatFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30565/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_FormatFrame.h
+END
+ap_CocoaDialogFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/25827/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialogFactory.cpp
+END
+ap_CocoaDialog_Annotation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/27539/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Annotation.cpp
+END
+ap_CocoaDialog_Tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/19807/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Tab.h
+END
+ap_CocoaFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/29831/abiword/trunk/src/wp/ap/cocoa/ap_CocoaFrame.cpp
+END
+ap_CocoaDialog_Stylist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/29730/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Stylist.cpp
+END
+ap_CocoaDialog_ListRevisions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/30657/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_ListRevisions.cpp
+END
+ap_CocoaDialog_Stub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/21477/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Stub.cpp
+END
+ap_CocoaDialog_PageNumbers.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/27202/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_PageNumbers.h
+END
+ap_CocoaDialog_Columns.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/27406/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Columns.cpp
+END
+ap_CocoaDialog_Insert_DateTime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/25827/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Insert_DateTime.cpp
+END
+ap_CocoaDialog_MetaData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30657/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_MetaData.cpp
+END
+ap_CocoaDialog_Replace.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/25827/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Replace.h
+END
+ap_CocoaDialog_Latex.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Latex.h
+END
+ap_CocoaDialog_ToggleCase.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_ToggleCase.h
+END
+ap_CocoaDialog_Styles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30568/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Styles.cpp
+END
+ap_CocoaDialog_WordCount.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/25827/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_WordCount.cpp
+END
+ap_CocoaClipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaClipboard.h
+END
+ap_CocoaDialog_Field.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Field.h
+END
+ap_CocoaToolbar_StyleCombo.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaToolbar_StyleCombo.h
+END
+ap_CocoaToolbar_FontCombo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/30697/abiword/trunk/src/wp/ap/cocoa/ap_CocoaToolbar_FontCombo.cpp
+END
+ap_CocoaStatusBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30547/abiword/trunk/src/wp/ap/cocoa/ap_CocoaStatusBar.cpp
+END
+ap_CocoaPreview_Annotation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/27543/abiword/trunk/src/wp/ap/cocoa/ap_CocoaPreview_Annotation.cpp
+END
+ap_CocoaDialog_MarkRevisions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/25827/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_MarkRevisions.cpp
+END
+ap_CocoaDialog_HdrFtr.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_HdrFtr.h
+END
+ap_CocoaTool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30574/abiword/trunk/src/wp/ap/cocoa/ap_CocoaTool.cpp
+END
+ap_CocoaDialog_FormatTOC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/25827/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_FormatTOC.cpp
+END
+ap_CocoaDialog_Options.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/27412/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Options.h
+END
+ap_CocoaApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/29831/abiword/trunk/src/wp/ap/cocoa/ap_CocoaApp.cpp
+END
+ap_CocoaFrameImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/27202/abiword/trunk/src/wp/ap/cocoa/ap_CocoaFrameImpl.h
+END
+ap_CocoaDialog_FormatFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/29732/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_FormatFrame.cpp
+END
+ap_CocoaDialog_MailMerge.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_MailMerge.h
+END
+ap_CocoaDialog_Goto.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30567/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Goto.cpp
+END
+ap_CocoaDialog_Paragraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/27202/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Paragraph.h
+END
+ap_CocoaDialog_Replace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/25827/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Replace.cpp
+END
+ap_CocoaDialog_Latex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/25827/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Latex.cpp
+END
+ap_CocoaDialog_All.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30543/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_All.h
+END
+ap_CocoaDialog_ToggleCase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/25827/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_ToggleCase.cpp
+END
+ap_CocoaDialog_SplitCells.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/25827/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_SplitCells.cpp
+END
+ap_CocoaDialog_Annotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/27539/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Annotation.h
+END
+ap_CocoaToolbar_Control_All.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaToolbar_Control_All.h
+END
+ap_CocoaDialog_MergeCells.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/25827/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_MergeCells.cpp
+END
+ap_CocoaDialog_Field.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/25827/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Field.cpp
+END
+ap_CocoaToolbar_StyleCombo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/30697/abiword/trunk/src/wp/ap/cocoa/ap_CocoaToolbar_StyleCombo.cpp
+END
+ap_CocoaPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/27014/abiword/trunk/src/wp/ap/cocoa/ap_CocoaPlugin.h
+END
+ap_CocoaDialog_Background.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Background.h
+END
+ap_CocoaDialog_Break.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/27413/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Break.cpp
+END
+ap_CocoaDialog_MetaData.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/27042/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_MetaData.h
+END
+ap_CocoaDialog_Columns.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/27202/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Columns.h
+END
+ap_CocoaDialog_Insert_DateTime.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Insert_DateTime.h
+END
+ap_CocoaAppImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaAppImpl.h
+END
+ap_CocoaDialog_WordCount.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_WordCount.h
+END
+ap_CocoaDialog_HdrFtr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/27404/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_HdrFtr.cpp
+END
+ap_CocoaDialog_InsertHyperlink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/30567/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_InsertHyperlink.cpp
+END
+ap_CocoaDialog_Options.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/29736/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Options.cpp
+END
+ap_CocoaFrameImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30565/abiword/trunk/src/wp/ap/cocoa/ap_CocoaFrameImpl.cpp
+END
+ap_CocoaPrefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/26424/abiword/trunk/src/wp/ap/cocoa/ap_CocoaPrefs.cpp
+END
+ap_CocoaDialog_MarkRevisions.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_MarkRevisions.h
+END
+ap_CocoaPreview_Annotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/27543/abiword/trunk/src/wp/ap/cocoa/ap_CocoaPreview_Annotation.h
+END
+ap_CocoaTopRuler.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/27202/abiword/trunk/src/wp/ap/cocoa/ap_CocoaTopRuler.h
+END
+ap_CocoaTool.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/29732/abiword/trunk/src/wp/ap/cocoa/ap_CocoaTool.h
+END
+ap_CocoaDialog_FormatTOC.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/27526/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_FormatTOC.h
+END
+ap_CocoaDialog_Paragraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/27202/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Paragraph.cpp
+END
+ap_PrintingDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_PrintingDelegate.h
+END
+ap_CocoaDialog_InsertTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/25827/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_InsertTable.cpp
+END
+ap_CocoaDialog_Goto.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/27492/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Goto.h
+END
+ap_CocoaPlugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/30547/abiword/trunk/src/wp/ap/cocoa/ap_CocoaPlugin.cpp
+END
+ap_CocoaDialog_Background.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28574/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Background.cpp
+END
+ap_CocoaDialog_SplitCells.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_SplitCells.h
+END
+ap_CocoaAppImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/21477/abiword/trunk/src/wp/ap/cocoa/ap_CocoaAppImpl.cpp
+END
+ap_CocoaDialog_Spell.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30543/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Spell.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30566/abiword/trunk/src/wp/ap/cocoa/Makefile.am
+END
+ap_CocoaDialog_MergeCells.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/19756/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_MergeCells.h
+END
+ap_CocoaDialog_Break.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/27413/abiword/trunk/src/wp/ap/cocoa/ap_CocoaDialog_Break.h
+END

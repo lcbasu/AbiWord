@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/30317/abiword/trunk/src/wp/main/win
+END
+AbiWord.exe.x86.MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30317/abiword/trunk/src/wp/main/win/AbiWord.exe.x86.MANIFEST
+END
+AbiWord.exe.amd64.MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30317/abiword/trunk/src/wp/main/win/AbiWord.exe.amd64.MANIFEST
+END
+Win32Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/29684/abiword/trunk/src/wp/main/win/Win32Main.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/28469/abiword/trunk/src/wp/main/win/Makefile.am
+END
+Win32Main.rc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/15867/abiword/trunk/src/wp/main/win/Win32Main.rc
+END

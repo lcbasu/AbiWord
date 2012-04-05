@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/23915/abiword/trunk/plugins/eml/xp
+END
+ie_exp_EML.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/23873/abiword/trunk/plugins/eml/xp/ie_exp_EML.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/23803/abiword/trunk/plugins/eml/xp/Makefile.am
+END
+ie_exp_EML.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/23915/abiword/trunk/plugins/eml/xp/ie_exp_EML.h
+END

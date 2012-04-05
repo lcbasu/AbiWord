@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/24712/abiword/trunk/plugins/latex/xsltml
+END
+tables.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/24645/abiword/trunk/plugins/latex/xsltml/tables.xsl
+END
+cmarkup.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/24645/abiword/trunk/plugins/latex/xsltml/cmarkup.xsl
+END
+tokens.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/24645/abiword/trunk/plugins/latex/xsltml/tokens.xsl
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/24645/abiword/trunk/plugins/latex/xsltml/Makefile.am
+END
+entities.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/24645/abiword/trunk/plugins/latex/xsltml/entities.xsl
+END
+glayout.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/24645/abiword/trunk/plugins/latex/xsltml/glayout.xsl
+END
+mmltex.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/24645/abiword/trunk/plugins/latex/xsltml/mmltex.xsl
+END
+scripts.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/24645/abiword/trunk/plugins/latex/xsltml/scripts.xsl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/24645/abiword/trunk/plugins/latex/xsltml/README
+END

@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 41
+Makefile.in
+Makefile
+.deps
+.libs
+abiword
+
+END

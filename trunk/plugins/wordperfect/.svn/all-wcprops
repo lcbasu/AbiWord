@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/30576/abiword/trunk/plugins/wordperfect
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30459/abiword/trunk/plugins/wordperfect/Makefile.am
+END
+plugin.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/29402/abiword/trunk/plugins/wordperfect/plugin.m4
+END

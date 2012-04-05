@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/30653/abiword/trunk/src/af/gr/xp
+END
+gr_EmbedManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30590/abiword/trunk/src/af/gr/xp/gr_EmbedManager.cpp
+END
+gr_Painter.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/30142/abiword/trunk/src/af/gr/xp/gr_Painter.h
+END
+gr_CairoNullGraphics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/27553/abiword/trunk/src/af/gr/xp/gr_CairoNullGraphics.cpp
+END
+gr_DrawArgs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/19756/abiword/trunk/src/af/gr/xp/gr_DrawArgs.cpp
+END
+gr_VectorImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/27162/abiword/trunk/src/af/gr/xp/gr_VectorImage.h
+END
+gr_Transform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/19756/abiword/trunk/src/af/gr/xp/gr_Transform.cpp
+END
+gr_EmbedManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/25737/abiword/trunk/src/af/gr/xp/gr_EmbedManager.h
+END
+gr_CairoNullGraphics.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/27553/abiword/trunk/src/af/gr/xp/gr_CairoNullGraphics.h
+END
+gr_CairoGraphics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30653/abiword/trunk/src/af/gr/xp/gr_CairoGraphics.cpp
+END
+gr_DrawArgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/19756/abiword/trunk/src/af/gr/xp/gr_DrawArgs.h
+END
+gr_Transform.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/19756/abiword/trunk/src/af/gr/xp/gr_Transform.h
+END
+gr_Image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/28259/abiword/trunk/src/af/gr/xp/gr_Image.cpp
+END
+gr_CairoGraphics.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30622/abiword/trunk/src/af/gr/xp/gr_CairoGraphics.h
+END
+gr_CharWidthsCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/19756/abiword/trunk/src/af/gr/xp/gr_CharWidthsCache.cpp
+END
+gr_Control.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/21247/abiword/trunk/src/af/gr/xp/gr_Control.h
+END
+gr_Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/27596/abiword/trunk/src/af/gr/xp/gr_Image.h
+END
+gr_CharWidthsCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/23839/abiword/trunk/src/af/gr/xp/gr_CharWidthsCache.h
+END
+gr_RenderInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/23568/abiword/trunk/src/af/gr/xp/gr_RenderInfo.cpp
+END
+gr_Caret.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/30473/abiword/trunk/src/af/gr/xp/gr_Caret.cpp
+END
+gr_CharWidths.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/25101/abiword/trunk/src/af/gr/xp/gr_CharWidths.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/27553/abiword/trunk/src/af/gr/xp/Makefile.am
+END
+gr_Graphics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30418/abiword/trunk/src/af/gr/xp/gr_Graphics.cpp
+END
+gr_RenderInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/27202/abiword/trunk/src/af/gr/xp/gr_RenderInfo.h
+END
+gr_Painter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/30142/abiword/trunk/src/af/gr/xp/gr_Painter.cpp
+END
+gr_Caret.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/28221/abiword/trunk/src/af/gr/xp/gr_Caret.h
+END
+gr_CharWidths.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/19756/abiword/trunk/src/af/gr/xp/gr_CharWidths.h
+END
+gr_Graphics.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/30142/abiword/trunk/src/af/gr/xp/gr_Graphics.h
+END
+gr_VectorImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/27164/abiword/trunk/src/af/gr/xp/gr_VectorImage.cpp
+END

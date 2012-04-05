@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/29664/abiword/trunk/plugins/garble/xp
+END
+abiword-garble.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/28130/abiword/trunk/plugins/garble/xp/abiword-garble.cpp
+END
+abiword-garble-png.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/29664/abiword/trunk/plugins/garble/xp/abiword-garble-png.cpp
+END
+abiword-garble-jpeg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28132/abiword/trunk/plugins/garble/xp/abiword-garble-jpeg.cpp
+END
+abiword-garble.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/28130/abiword/trunk/plugins/garble/xp/abiword-garble.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/28130/abiword/trunk/plugins/garble/xp/Makefile.am
+END

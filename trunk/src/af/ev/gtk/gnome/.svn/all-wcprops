@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/22929/abiword/trunk/src/af/ev/gtk/gnome
+END
+ev_GnomeToolbar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22481/abiword/trunk/src/af/ev/gtk/gnome/ev_GnomeToolbar.cpp
+END
+ev_GnomeToolbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22481/abiword/trunk/src/af/ev/gtk/gnome/ev_GnomeToolbar.h
+END

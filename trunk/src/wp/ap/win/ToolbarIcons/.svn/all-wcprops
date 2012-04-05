@@ -1,0 +1,857 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/29813/abiword/trunk/src/wp/ap/win/ToolbarIcons
+END
+fmt_dir_override_ltr.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/fmt_dir_override_ltr.bmp
+END
+menu_abiword_img.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_img.bmp
+END
+border_solid.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/29813/abiword/trunk/src/wp/ap/win/ToolbarIcons/border_solid.bmp
+END
+middle_space.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/middle_space.bmp
+END
+menu_abiword_add_row.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_add_row.bmp
+END
+fmt_bookmark.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/fmt_bookmark.bmp
+END
+ft_lineright.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/ft_lineright.bmp
+END
+delete_column.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/delete_column.bmp
+END
+3column.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/3column.bmp
+END
+fmt_topline.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/fmt_topline.bmp
+END
+menu_abiword_clear.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_clear.bmp
+END
+para_0before.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/para_0before.bmp
+END
+menu_abiword_cut.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_cut.bmp
+END
+splitvertmid.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/splitvertmid.bmp
+END
+menu_abiword_credits.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_credits.bmp
+END
+menu_abiword_save.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_save.bmp
+END
+color_fore.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/29628/abiword/trunk/src/wp/ap/win/ToolbarIcons/color_fore.bmp
+END
+fmt_overline.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/fmt_overline.bmp
+END
+fmt_superscript.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/fmt_superscript.bmp
+END
+file_print.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/file_print.bmp
+END
+single_space.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/single_space.bmp
+END
+file_save.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/file_save.bmp
+END
+menu_abiword_italic.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_italic.bmp
+END
+tb_split_cells.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/tb_split_cells.bmp
+END
+tb_delete_column.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/tb_delete_column.bmp
+END
+ft_linebottom.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/ft_linebottom.bmp
+END
+tb_merge_cells.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/tb_merge_cells.bmp
+END
+align_justify.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/align_justify.bmp
+END
+splithorimid.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/splithorimid.bmp
+END
+edit_undo.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/edit_undo.bmp
+END
+edit_removeheader.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/edit_removeheader.bmp
+END
+menu_abiword_insert_symbol.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_insert_symbol.bmp
+END
+align_right.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/align_right.bmp
+END
+edit_header.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/edit_header.bmp
+END
+ft_linetop.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/ft_linetop.bmp
+END
+tb_add_row.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/tb_add_row.bmp
+END
+menu_abiword_topline.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_topline.bmp
+END
+splitleft.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/splitleft.bmp
+END
+menu_abiword_subscript.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_subscript.bmp
+END
+fmtpainter.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/fmtpainter.bmp
+END
+mergeleft.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/mergeleft.bmp
+END
+menu_abiword_export.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_export.bmp
+END
+split_cells.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/split_cells.bmp
+END
+spellcheck.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/spellcheck.bmp
+END
+view_showpara.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/view_showpara.bmp
+END
+menu_abiword_underline.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_underline.bmp
+END
+merge_cells.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/merge_cells.bmp
+END
+edit_removefooter.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/edit_removefooter.bmp
+END
+menu_abiword_book.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_book.bmp
+END
+double_space.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/double_space.bmp
+END
+file_new.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/file_new.bmp
+END
+splitright.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/splitright.bmp
+END
+ft_lineleft.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/ft_lineleft.bmp
+END
+menu_abiword_strike.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_strike.bmp
+END
+menu_abiword_undo.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_undo.bmp
+END
+menu_abiword_close.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_close.bmp
+END
+edit_footer.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/edit_footer.bmp
+END
+align_left.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/align_left.bmp
+END
+menu_abiword_about.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_about.bmp
+END
+menu_abiword_paste.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_paste.bmp
+END
+splitabove.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/splitabove.bmp
+END
+menu_abiword_delete_column.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_delete_column.bmp
+END
+img.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/img.bmp
+END
+border_dotted.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/29813/abiword/trunk/src/wp/ap/win/ToolbarIcons/border_dotted.bmp
+END
+edit_paste.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/edit_paste.bmp
+END
+indent.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/indent.bmp
+END
+splitbelow.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/splitbelow.bmp
+END
+border_dashed.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/29813/abiword/trunk/src/wp/ap/win/ToolbarIcons/border_dashed.bmp
+END
+menu_abiword_align_center.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_align_center.bmp
+END
+menu_abiword_properties.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_properties.bmp
+END
+menu_abiword_print_preview.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_print_preview.bmp
+END
+lists_bullets.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/lists_bullets.bmp
+END
+lists_numbers.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/lists_numbers.bmp
+END
+align_center.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/align_center.bmp
+END
+menu_abiword_execute.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_execute.bmp
+END
+menu_abiword_align_justify.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_align_justify.bmp
+END
+menu_abiword_exit.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_exit.bmp
+END
+fmt_dir_override_rtl.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/fmt_dir_override_rtl.bmp
+END
+add_column.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/add_column.bmp
+END
+menu_abiword_replace.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_replace.bmp
+END
+menu_abiword_insert_table.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_insert_table.bmp
+END
+menu_abiword_print_setup.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_print_setup.bmp
+END
+para_12before.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/para_12before.bmp
+END
+menu_abiword_spellcheck.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_spellcheck.bmp
+END
+fmt_hyperlink.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/fmt_hyperlink.bmp
+END
+fmt_italic.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/fmt_italic.bmp
+END
+insert_table.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/insert_table.bmp
+END
+menu_abiword_saveas.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_saveas.bmp
+END
+1column.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/1column.bmp
+END
+file_saveas.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/file_saveas.bmp
+END
+fmt_bold.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/fmt_bold.bmp
+END
+menu_abiword_print.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_print.bmp
+END
+script_play.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/script_play.bmp
+END
+menu_abiword_preferences.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_preferences.bmp
+END
+color_back.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/29628/abiword/trunk/src/wp/ap/win/ToolbarIcons/color_back.bmp
+END
+menu_abiword_align_left.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_align_left.bmp
+END
+menu_abiword_search.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_search.bmp
+END
+edit_cut.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/edit_cut.bmp
+END
+menu_abiword_revert.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_revert.bmp
+END
+transparentlang.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/transparentlang.bmp
+END
+edit_copy.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/edit_copy.bmp
+END
+optionsdlg.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/optionsdlg.bmp
+END
+menu_abiword_help.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_help.bmp
+END
+unindent.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/unindent.bmp
+END
+help.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/help.bmp
+END
+delete_row.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/delete_row.bmp
+END
+tb_add_column.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/tb_add_column.bmp
+END
+menu_abiword_open.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_open.bmp
+END
+edit_redo.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/edit_redo.bmp
+END
+file_open.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/file_open.bmp
+END
+menu_abiword_add_column.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_add_column.bmp
+END
+menu_abiword_font.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_font.bmp
+END
+menu_abiword_import.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_import.bmp
+END
+fmt_strike.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/fmt_strike.bmp
+END
+menu_abiword_superscript.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_superscript.bmp
+END
+2column.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/2column.bmp
+END
+menu_abiword_align_right.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_align_right.bmp
+END
+fmt_bottomline.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/fmt_bottomline.bmp
+END
+menu_abiword_new.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_new.bmp
+END
+fmt_subscript.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/fmt_subscript.bmp
+END
+insert_symbol.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/insert_symbol.bmp
+END
+fmt_underline.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/fmt_underline.bmp
+END
+mergeright.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/mergeright.bmp
+END
+menu_abiword_bookmark.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_bookmark.bmp
+END
+menu_abiword_goto.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_goto.bmp
+END
+menu_abiword_delete_table.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_delete_table.bmp
+END
+menu_abiword_copy.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_copy.bmp
+END
+menu_abiword_bottomline.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_bottomline.bmp
+END
+menu_abiword_split_cells.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_split_cells.bmp
+END
+menu_abiword_bold.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_bold.bmp
+END
+mergeabove.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/mergeabove.bmp
+END
+menu_abiword_merge_cells.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_merge_cells.bmp
+END
+menu_abiword_overline.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_overline.bmp
+END
+tb_delete_row.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/tb_delete_row.bmp
+END
+add_row.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/add_row.bmp
+END
+menu_abiword_redo.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_redo.bmp
+END
+menu_abiword_delete_row.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_delete_row.bmp
+END
+fmt_dom_direction.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/fmt_dom_direction.bmp
+END
+mergebelow.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/mergebelow.bmp
+END
+file_print_preview.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/file_print_preview.bmp
+END
+border_none.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/29813/abiword/trunk/src/wp/ap/win/ToolbarIcons/border_none.bmp
+END
+menu_abiword_hyperlink.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/21551/abiword/trunk/src/wp/ap/win/ToolbarIcons/menu_abiword_hyperlink.bmp
+END

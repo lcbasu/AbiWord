@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/30548/abiword/trunk/plugins/openxml/common
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22481/abiword/trunk/plugins/openxml/common/Makefile.am
+END

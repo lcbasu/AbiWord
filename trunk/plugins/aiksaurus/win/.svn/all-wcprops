@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/29660/abiword/trunk/plugins/aiksaurus/win
+END
+AiksaurusDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/28494/abiword/trunk/plugins/aiksaurus/win/AiksaurusDlg.cpp
+END
+forward_hover.ico
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22481/abiword/trunk/plugins/aiksaurus/win/forward_hover.ico
+END
+Aiksaurus.ico
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22481/abiword/trunk/plugins/aiksaurus/win/Aiksaurus.ico
+END
+search_hover.ico
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22481/abiword/trunk/plugins/aiksaurus/win/search_hover.ico
+END
+AiksaurusDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22481/abiword/trunk/plugins/aiksaurus/win/AiksaurusDlg.h
+END
+AiksaurusApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22481/abiword/trunk/plugins/aiksaurus/win/AiksaurusApp.cpp
+END
+Aiksaurus.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/29660/abiword/trunk/plugins/aiksaurus/win/Aiksaurus.h
+END
+AiksaurusApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22481/abiword/trunk/plugins/aiksaurus/win/AiksaurusApp.h
+END
+back.ico
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22481/abiword/trunk/plugins/aiksaurus/win/back.ico
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/23803/abiword/trunk/plugins/aiksaurus/win/Makefile.am
+END
+Aiksaurus.rc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22481/abiword/trunk/plugins/aiksaurus/win/Aiksaurus.rc
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22481/abiword/trunk/plugins/aiksaurus/win/readme.txt
+END
+back_hover.ico
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22481/abiword/trunk/plugins/aiksaurus/win/back_hover.ico
+END
+Aiksaurus.lib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/29660/abiword/trunk/plugins/aiksaurus/win/Aiksaurus.lib
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22481/abiword/trunk/plugins/aiksaurus/win/resource.h
+END
+forward.ico
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22481/abiword/trunk/plugins/aiksaurus/win/forward.ico
+END
+search.ico
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22481/abiword/trunk/plugins/aiksaurus/win/search.ico
+END

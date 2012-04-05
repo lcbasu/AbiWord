@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/30403/abiword/trunk/goffice-bits/goffice/gtk
+END
+go-combo-color.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30403/abiword/trunk/goffice-bits/goffice/gtk/go-combo-color.c
+END
+go-color-selector.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30385/abiword/trunk/goffice-bits/goffice/gtk/go-color-selector.c
+END
+go-color-group.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30385/abiword/trunk/goffice-bits/goffice/gtk/go-color-group.h
+END
+go-palette.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30385/abiword/trunk/goffice-bits/goffice/gtk/go-palette.c
+END
+go-color-palette.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30385/abiword/trunk/goffice-bits/goffice/gtk/go-color-palette.h
+END
+go-combo-color.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30385/abiword/trunk/goffice-bits/goffice/gtk/go-combo-color.h
+END
+go-color-selector.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/30385/abiword/trunk/goffice-bits/goffice/gtk/go-color-selector.h
+END
+goffice-gtk.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30385/abiword/trunk/goffice-bits/goffice/gtk/goffice-gtk.c
+END
+go-palette.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30385/abiword/trunk/goffice-bits/goffice/gtk/go-palette.h
+END
+go-combo-box.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30403/abiword/trunk/goffice-bits/goffice/gtk/go-combo-box.c
+END
+goffice-gtk.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30385/abiword/trunk/goffice-bits/goffice/gtk/goffice-gtk.h
+END
+go-color-group.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30385/abiword/trunk/goffice-bits/goffice/gtk/go-color-group.c
+END
+go-color-palette.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30403/abiword/trunk/goffice-bits/goffice/gtk/go-color-palette.c
+END
+go-combo-box.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/30385/abiword/trunk/goffice-bits/goffice/gtk/go-combo-box.h
+END

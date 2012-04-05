@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/30602/abiword/trunk/goffice-bits2/goffice
+END
+goffice.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30398/abiword/trunk/goffice-bits2/goffice/goffice.c
+END
+goffice-features.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30398/abiword/trunk/goffice-bits2/goffice/goffice-features.h
+END
+goffice-priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30398/abiword/trunk/goffice-bits2/goffice/goffice-priv.h
+END
+goffice.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30398/abiword/trunk/goffice-bits2/goffice/goffice.h
+END
+goffice-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30398/abiword/trunk/goffice-bits2/goffice/goffice-config.h
+END

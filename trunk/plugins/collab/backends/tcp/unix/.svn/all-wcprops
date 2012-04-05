@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/30503/abiword/trunk/plugins/collab/backends/tcp/unix
+END
+TCPUnixAccountHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/30503/abiword/trunk/plugins/collab/backends/tcp/unix/TCPUnixAccountHandler.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/26134/abiword/trunk/plugins/collab/backends/tcp/unix/Makefile.am
+END
+TCPUnixAccountHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/29463/abiword/trunk/plugins/collab/backends/tcp/unix/TCPUnixAccountHandler.h
+END

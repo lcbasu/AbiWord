@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/hildon
+END
+xap_UnixHildonDlg_FontChooser.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/30503/abiword/trunk/src/af/xap/gtk/hildon/xap_UnixHildonDlg_FontChooser.h
+END
+xap_UnixHildonApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/30503/abiword/trunk/src/af/xap/gtk/hildon/xap_UnixHildonApp.h
+END
+xap_UnixHildonDlg_FontChooser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/30503/abiword/trunk/src/af/xap/gtk/hildon/xap_UnixHildonDlg_FontChooser.cpp
+END
+xap_UnixHildonApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30503/abiword/trunk/src/af/xap/gtk/hildon/xap_UnixHildonApp.cpp
+END
+xap_UnixHildonDlg_Image.ui
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/30511/abiword/trunk/src/af/xap/gtk/hildon/xap_UnixHildonDlg_Image.ui
+END

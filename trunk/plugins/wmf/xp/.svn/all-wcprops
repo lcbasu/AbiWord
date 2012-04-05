@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/30474/abiword/trunk/plugins/wmf/xp
+END
+ie_impGraphic_WMF.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/26992/abiword/trunk/plugins/wmf/xp/ie_impGraphic_WMF.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/23803/abiword/trunk/plugins/wmf/xp/Makefile.am
+END
+ie_impGraphic_WMF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30474/abiword/trunk/plugins/wmf/xp/ie_impGraphic_WMF.cpp
+END

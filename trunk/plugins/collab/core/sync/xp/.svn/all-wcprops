@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/29761/abiword/trunk/plugins/collab/core/sync/xp
+END
+Synchronizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28040/abiword/trunk/plugins/collab/core/sync/xp/Synchronizer.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/26865/abiword/trunk/plugins/collab/core/sync/xp/Makefile.am
+END
+SynchronizedQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/26157/abiword/trunk/plugins/collab/core/sync/xp/SynchronizedQueue.h
+END
+Synchronizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/29687/abiword/trunk/plugins/collab/core/sync/xp/Synchronizer.cpp
+END
+lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/26157/abiword/trunk/plugins/collab/core/sync/xp/lock.h
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/30735/abiword/trunk/src/af/gr/gtk
+END
+gr_UnixImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/30735/abiword/trunk/src/af/gr/gtk/gr_UnixImage.cpp
+END
+gr_UnixCairoGraphics.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30623/abiword/trunk/src/af/gr/gtk/gr_UnixCairoGraphics.h
+END
+gr_UnixPangoPixmapGraphics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/25565/abiword/trunk/src/af/gr/gtk/gr_UnixPangoPixmapGraphics.cpp
+END
+gr_UnixCairoImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22807/abiword/trunk/src/af/gr/gtk/gr_UnixCairoImage.h
+END
+gr_CairoPrintGraphics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/27359/abiword/trunk/src/af/gr/gtk/gr_CairoPrintGraphics.cpp
+END
+gr_UnixImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/30483/abiword/trunk/src/af/gr/gtk/gr_UnixImage.h
+END
+gr_UnixPangoPixmapGraphics.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30503/abiword/trunk/src/af/gr/gtk/gr_UnixPangoPixmapGraphics.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/30503/abiword/trunk/src/af/gr/gtk/Makefile.am
+END
+gr_CairoImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/30483/abiword/trunk/src/af/gr/gtk/gr_CairoImage.cpp
+END
+gr_CairoPrintGraphics.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/27360/abiword/trunk/src/af/gr/gtk/gr_CairoPrintGraphics.h
+END
+gr_UnixCairoGraphics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30623/abiword/trunk/src/af/gr/gtk/gr_UnixCairoGraphics.cpp
+END
+gr_UnixCairoImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22807/abiword/trunk/src/af/gr/gtk/gr_UnixCairoImage.cpp
+END
+gr_CairoImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/30483/abiword/trunk/src/af/gr/gtk/gr_CairoImage.h
+END

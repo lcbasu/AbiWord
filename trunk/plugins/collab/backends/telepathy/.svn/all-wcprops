@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/29797/abiword/trunk/plugins/collab/backends/telepathy
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/27607/abiword/trunk/plugins/collab/backends/telepathy/Makefile.am
+END

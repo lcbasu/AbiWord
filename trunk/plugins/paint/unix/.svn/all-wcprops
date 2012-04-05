@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/23803/abiword/trunk/plugins/paint/unix
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/23803/abiword/trunk/plugins/paint/unix/Makefile.am
+END
+ut_UnixProcess.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22481/abiword/trunk/plugins/paint/unix/ut_UnixProcess.cpp
+END
+ut_process.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22481/abiword/trunk/plugins/paint/unix/ut_process.h
+END
